@@ -4,3 +4,11 @@
 * Science
 
 Science is good.
+
+
+#+ATTR_HTML: :textarea t :width 40
+#+BEGIN_EXAMPLE
+  (defun org-xor (a b)
+     "Exclusive or."
+     (if a (not b) b))
+#+END_EXAMPLE
