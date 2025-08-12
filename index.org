@@ -1,5 +1,5 @@
 #+title: PACS Physical Science
-#+author: Mr. M
+#+author: Mr. Maxwell
 
 * chemistry
 * physics

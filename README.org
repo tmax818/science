@@ -2,5 +2,4 @@
 #+author: Mr. Maxwell
 
 * chemistry
-
 * physics
