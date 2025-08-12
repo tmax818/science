@@ -1,4 +1,4 @@
-Unit 1 Chemistry Lecture Page 1 of 10 Date__________
+# Unit 1 Chemistry Lecture Page 1 of 10 Date__________
 Measurement and Metric Conversions
 Quantity Name Abbreviation
 Length
@@ -27,7 +27,8 @@ Factor Prefix Abbreviation
 10-15 femto 1,000,000,000,000,000 fm = 1m f
 10-18 atto 1,000,000,000,000,000,000 am = 1m a
 Note: The items in bold print are the ones you will use most in chemistry.
-Unit 1 Chemistry Lecture Page 2 of 10 Date__________
+
+# Unit 1 Chemistry Lecture Page 2 of 10 Date__________
 Base Units
 Derived Units
 Tools for measuring
