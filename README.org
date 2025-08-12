@@ -4,4 +4,4 @@
 
 * Information
 
-[[science][https://tylermaxwell.co/science/]]
+[[https://tylermaxwell.co/science/][webpage]]
