@@ -1,0 +1,6 @@
+#+title: Science
+#+author: Mr. M
+
+* Science
+
+Science is good.
