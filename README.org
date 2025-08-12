@@ -1,1 +1,6 @@
-#+title: PACS Physical Science
+#+title: README
+#+author: Mr. Maxwell
+
+* chemistry
+
+* physics
