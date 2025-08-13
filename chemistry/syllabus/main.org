@@ -1,24 +1,69 @@
 #+title: chemistry syllabus
 #+author: Mr. Maxwell
-#+startup: indent num
+#+startup: indent notoc
 
 
-* Course Content (Include name of Textbook) 
+* Instructor
+
+| **name**  | Tyler Maxwell           |
+| **email** | [[mailto:tyler.maxwell@lausd.net][tyler.maxwell@lausd.net]] |
+| **room**  | E305                    |
+
+There will be several parent conferences throughout the school year. Mr. Maxwell can also be reached through email at [[mailto:tyler.maxwell@lausd.net][tyler.maxwell@lausd.net]]. If you would prefer to communicate via telephone, please contact me through email first and include your telephone number, and I will follow up via text.
+
+* Course Content
+
+Chemistry is a laboratory-based college-preparatory course. Laboratory experiments provide the empirical basis for understanding and confirming concepts. This course emphasizes discussions, activities, and laboratory exercises, which promote the understanding of the behavior of matter at the macroscopic and the molecular-atomic levels. Chemical principles are introduced so that students will be able to explain the composition and chemical behavior of their world. Chemistry AB lays the foundation for further studies in Chemistry and also serves as an Advanced Placement Chemistry readiness course.
+
+This course meets the Grades 9-12 District physical science requirement and the one year of the University of California ‘d’ entrance requirement for laboratory science.
+
+** Textbook
+
+**Chemistry in the Earth System: California HMH Science Dimensions**
+
 * Grading Policy - also how parents/students can find out their grades 
 ** Academic Grade 
 *** What is included in the academic grade?
-Academ
-*** Grade break-down by percentage/Weighted categories (Scale) 
-*** Include In Danger of Failing warning
-** Work Habits Grade (how do they earn their WH grade?) 
-** Cooperation Grade (how do they earn their C grade?)
-* Suggested Materials 
-* Absences/Makeup Work/Late Work 
-* Planner Policy / Bathroom Policy (optional) 
+Academic grades will reflect student mastery of course content as demonstrated on assessments throughout the year. All work assigned over the course of the semester will be graded according to the following scale.
+. 
+*** Grade Scale
+
+|-------+---------------|
+| Grade | Points        |
+|-------+---------------|
+| A     | 3.6 or above  |
+|-------+---------------|
+| B     | 2.6 to 3.5    |
+|-------+---------------|
+| C     | 1.6 to 2.5    |
+|-------+---------------|
+| F     | less than 1.5 |
+|-------+---------------|
+
+**Students that are in danger of failing will be scheduled for after-school tutoring and periodic parent/teacher conferences will be mandatory.** until the course grade has improved.
+
+** Work Habits Grade and Cooperation Grade
+
+Work Habits and Cooperation grades are based on effort, responsibility, attendance, conduct, and class participation. 
+|---+----------------|
+| E | excellent      |
+| S | satisfactory   |
+| U | unsatisfactory |
+|---+----------------|
+
+
+* Suggested Materials
+Students will be provided a notebook for organization of class and laboratory notes.
+* Planner Policy/Bathroom Policy
+Students may not use the restroom during the first or last ten minutes of each class period. One student is allowed out of the class at a time, and students must take **their** signed planner. Bathroom breaks are not to exceed five minutes unless there is an explicit reason that is communicated to the teacher.
 * Cell Phone Policy
-* Parent Communication & Conferences 
-* Class Rules/ Expectations
-* Contact Information 
-* Homework expectations (how often to expect it & how long it should take) 
+LAUSD official policy states that **students are not permitted to use cell phones or any other non-school-issued electronic devices during instructional time**. The first instance of non-compliance will result in a verbal warning. Subsequent non-compliance will result in  the device being kept in the office for the remainder of the school day, to be picked up by the student after school. Any further instances of non-compliance will result in the device being kept in the office until a legal guardian arrives to pick it up.
+* Class Rules/Expectations
+- keep hands, feet, and objects to yourself.
+- only leave the room with the teacher's permission.
+* Homework expectations
+All assignments must be completed by the deadline specified on Schoology. Late work will be accepted at the teacher's discression. 
 * Tutoring Information
+Tutoring will be offered on Thrusday after school, or by appointment.
 * Connections to Performing Arts in Core Curriculum
+Chemistry is full of opportunities to express oneself creatively and artistically. Throughout the year, many assignments will involve drawing, public speaking, creative writing, and other artistic means of expression.
