@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1755126877.43764 "/Users/tyler.maxwell/Desktop/science/chemistry/syllabus/main.tex" "main.pdf" "main" 1755126878.02472 0
-  "/Users/tyler.maxwell/Desktop/science/chemistry/syllabus/main.tex" 1755126876.61309 4996 ffd89f2f6105fa7d7adddd455c69e491 ""
+["pdflatex"] 1755181504.92126 "/Users/tyler.maxwell/Desktop/science/chemistry/syllabus/main.tex" "main.pdf" "main" 1755181505.50909 0
+  "/Users/tyler.maxwell/Desktop/science/chemistry/syllabus/main.tex" 1755181504.09423 5292 4afc59642bd7a92e8572725d98b59741 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc" 1136849721 2971 def0b6c1f0b107b3b936def894055589 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc" 1136849721 2900 1537cc8184ad1792082cd229ecc269f4 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
@@ -38,6 +38,7 @@
   "/usr/local/texlive/2024/texmf-dist/tex/generic/bitset/bitset.sty" 1576016050 33961 6b5c75130e435b2bfdb9f480a09a39f9 ""
   "/usr/local/texlive/2024/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty" 1576625223 8371 9d55b8bd010bc717624922fb3477d92e ""
   "/usr/local/texlive/2024/texmf-dist/tex/generic/iftex/iftex.sty" 1644112042 7237 bdd120a32c8fdb4b433cf9ca2e7cd98a ""
+  "/usr/local/texlive/2024/texmf-dist/tex/generic/iftex/ifvtex.sty" 1572645307 1057 525c2192b5febbd8c1f662c9468335bb ""
   "/usr/local/texlive/2024/texmf-dist/tex/generic/infwarerr/infwarerr.sty" 1575499628 8356 7bbb2c2373aa810be568c29e333da8ed ""
   "/usr/local/texlive/2024/texmf-dist/tex/generic/intcalc/intcalc.sty" 1576625065 31769 002a487f55041f8e805cfbf6385ffd97 ""
   "/usr/local/texlive/2024/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty" 1576878844 5412 d5a2436094cd7be85769db90f29250a6 ""
@@ -67,6 +68,7 @@
   "/usr/local/texlive/2024/texmf-dist/tex/latex/capt-of/capt-of.sty" 1264379041 1311 063f8536a047a2d9cb1803321f793f37 ""
   "/usr/local/texlive/2024/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty" 1579991033 13886 d1306dcf79a944f6988e688c1785f9ce ""
   "/usr/local/texlive/2024/texmf-dist/tex/latex/etoolbox/etoolbox.sty" 1601931149 46845 3b58f70c6e861a13d927bff09d35ecbc ""
+  "/usr/local/texlive/2024/texmf-dist/tex/latex/geometry/geometry.sty" 1578002852 41601 9cf6c5257b1bc7af01a58859749dd37a ""
   "/usr/local/texlive/2024/texmf-dist/tex/latex/graphics-cfg/graphics.cfg" 1465944070 1224 978390e9c2234eab29404bc21b268d1e ""
   "/usr/local/texlive/2024/texmf-dist/tex/latex/graphics-def/pdftex.def" 1663965824 19448 1e988b341dda20961a6b931bcde55519 ""
   "/usr/local/texlive/2024/texmf-dist/tex/latex/graphics/graphics.sty" 1654720880 18387 8f900a490197ebaf93c02ae9476d4b09 ""
@@ -93,9 +95,9 @@
   "/usr/local/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1737589446.45542 5467645 128b85b7cde5f5edc5cb7f1dd7ff8736 ""
   "/usr/local/texlive/2024/texmf-var/web2c/pdftex/pdflatex.fmt" 1737589419 8221423 7413c037a4b42d11dce08eb9535ec2d5 ""
   "/usr/local/texlive/2024/texmf.cnf" 1710266656 577 e590dabc9e28c5b61546e15f63eebcdf ""
-  "main.aux" 1755126877.94576 3267 77c05ab026ff548c7f3fddf1c29f5989 "pdflatex"
-  "main.out" 1755126877.94901 2851 12c282ae4fb019cbd847f115284c6414 "pdflatex"
-  "main.tex" 1755126876.61309 4996 ffd89f2f6105fa7d7adddd455c69e491 ""
+  "main.aux" 1755181505.42913 3411 4453d37193e7f39ba69aa51e864da803 "pdflatex"
+  "main.out" 1755181505.43236 2866 a6be0ba216decb6d55d9d16f4ecaf3b3 "pdflatex"
+  "main.tex" 1755181504.09423 5292 4afc59642bd7a92e8572725d98b59741 ""
   (generated)
   "main.aux"
   "main.log"
