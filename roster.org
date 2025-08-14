@@ -1,0 +1,212 @@
+| Last               | First             | DateOfBirth | Grade | CourseSection1 |
+|--------------------+-------------------+-------------+-------+----------------|
+| ALMARAZ            | ABRAHAM MATTHEW   | 05/19/09    |    11 |     153202DE-1 |
+| ALVAREZ            | YAHAIRA ISABEL    | 11/14/07    |    12 |     153202DE-1 |
+| BALTAZAR           | SAMANTHA KALYNE   | 05/22/09    |    11 |     153202DE-1 |
+| CASTRO             | ANGEL LEONARDO    | 11/10/07    |    12 |     153202DE-1 |
+| CEJA               | KAELYN NAOMI      | 02/20/09    |    11 |     153202DE-1 |
+| CEJA SUAREZ        | NATHAN ALEXA      | 09/20/08    |    12 |     153202DE-1 |
+| CHACON             | HAZELYN JANET     | 08/13/09    |    11 |     153202DE-1 |
+| CONTRERAS          | SAMUEL LEONARD    | 12/07/07    |    12 |     153202DE-1 |
+| DE LEON            | CHRISTOPHER BENJ  | 05/01/09    |    11 |     153202DE-1 |
+| DRAYDEN            | MAHR'JOHN LAMERE  | 11/17/07    |    12 |     153202DE-1 |
+| FIGUEROA VILLASANA | GLORIA            | 07/29/08    |    12 |     153202DE-1 |
+| FLORES MANRIQUEZ   | GISELLE           | 12/08/07    |    12 |     153202DE-1 |
+| GOMEZ MUNOZ        | STEPHANIE         | 11/03/07    |    12 |     153202DE-1 |
+| GUZMAN ROMERO      | DAYANNA BE        | 07/27/08    |    12 |     153202DE-1 |
+| HERNANDEZ          | AKSEL JAMIL       | 04/28/08    |    12 |     153202DE-1 |
+| JACKSON            | ALYSSA RENEE      | 07/24/09    |    11 |     153202DE-1 |
+| MEJIA              | ASHLEY MAITE      | 01/13/09    |    11 |     153202DE-1 |
+| MENDOZA GUZMAN     | JUAN REYE         | 12/15/08    |    11 |     153202DE-1 |
+| MIGUEL-PASCUAL     | GRAY  (P)         | 07/01/09    |    11 |     153202DE-1 |
+| MONTES             | CRISTINA          | 02/16/09    |    11 |     153202DE-1 |
+| OROZCO-TORRES      | JESUS             | 01/29/08    |    12 |     153202DE-1 |
+| REYES              | AMBER CHRISTINE   | 12/06/06    |    12 |     153202DE-1 |
+| REYES              | LEONEL YUREM      | 07/14/09    |    11 |     153202DE-1 |
+| REYES SOSA         | MICHAEL DAYMI     | 05/26/08    |    12 |     153202DE-1 |
+| RIVERA ORTIZ       | GIOVANNI ZE       | 10/20/08    |    11 |     153202DE-1 |
+| RIVERA ORTIZ       | JOSE ANTONI       | 10/20/08    |    11 |     153202DE-1 |
+| SANCHES            | KIMBERLY          | 03/07/08    |    12 |     153202DE-1 |
+| SANTOS             | JESUS             | 08/23/09    |    11 |     153202DE-1 |
+| SUAREZ             | DANNA CAROLINA    | 04/29/09    |    11 |     153202DE-1 |
+| VALENTIN DE NOVA   | YARELI            | 11/27/06    |    11 |     153202DE-1 |
+| VASQUEZ            | YAMILET           | 10/24/08    |    11 |     153202DE-1 |
+|--------------------+-------------------+-------------+-------+----------------|
+| ALVAREZ            | DAMIAN            | 02/04/09    |    10 |       361413-2 |
+| ARREOLA            | PETER PERFECTO    | 08/21/10    |    10 |       361413-2 |
+| BRAKEMAN           | KENNEDY MARIE     | 04/12/09    |    10 |       361413-2 |
+| CABRERA            | MADALYNN          | 08/09/10    |    10 |       361413-2 |
+| CAMACHO            | ALISSON GABRIELA  | 04/27/10    |    10 |       361413-2 |
+| DE PAZ GUTIERREZ   | FRANCIS           | 03/01/10    |    10 |       361413-2 |
+| ESTEBAN            | FLOR VALENTINA    | 05/18/10    |    10 |       361413-2 |
+| GALVEZ             | JONATHAN JOSEPH   | 11/06/09    |    10 |       361413-2 |
+| GARAY CHAVARRIA    | CIELO YU          | 07/19/10    |    10 |       361413-2 |
+| GUILLEN            | ANDREW ALFONSO    | 05/06/10    |    10 |       361413-2 |
+| HERRERA CHAVEZ     | KEVIN SAN         | 05/05/10    |    10 |       361413-2 |
+| MELENDEZ           | SEBASTIAN         | 05/24/09    |    10 |       361413-2 |
+| MONTES ARGUETA     | DIEGO  AN         | 07/16/10    |    10 |       361413-2 |
+| PEREZ-REANOS       | YARIEL ALEX       | 01/03/10    |    10 |       361413-2 |
+| RAPALO             | IKER FERNANDO     | 05/13/10    |    10 |       361413-2 |
+| SMITH              | HOW' JUAN DWAYNE  | 10/14/09    |    10 |       361413-2 |
+| TORRES             | MIANNA HEAVEN     | 01/13/10    |    10 |       361413-2 |
+| TOSCANO BARROS     | JEFFERSON         | 10/16/07    |    10 |       361413-2 |
+| TURCIOS            | CELESTE MICHELLE  | 10/25/09    |    10 |       361413-2 |
+| VALENTE            | KEVIN             | 02/04/10    |    10 |       361413-2 |
+| VASQUEZ            | BRANDO ALFREDO    | 06/15/09    |    10 |       361413-2 |
+| ZAVALA-ONATE       | XIMENA            | 08/21/10    |    10 |       361413-2 |
+|--------------------+-------------------+-------------+-------+----------------|
+| AMAYA              | ESLY BEATRIZ      | 05/23/09    |    10 |       361413-3 |
+| BANUELOS           | BRIANNA MARIA     | 03/07/10    |    10 |       361413-3 |
+| CRUZ               | JULIANNA YVETTE   | 03/17/10    |    10 |       361413-3 |
+| DIAZ               | MADELINE HEIDI    | 02/08/10    |    10 |       361413-3 |
+| GUZMAN LOPEZ       | YESSICA ROS       | 11/29/10    |    10 |       361413-3 |
+| HENRIQUEZ          | ADRIANA STEFAN    | 10/24/09    |    10 |       361413-3 |
+| HERNANDEZ          | JULIAN DANIEL     | 04/30/09    |    11 |       361413-3 |
+| HUERTA             | SAUL              | 11/11/08    |    11 |       361413-3 |
+| LEIVA              | NATHEN MANUEL     | 03/29/10    |    10 |       361413-3 |
+| MARTINEZ           | ASHLEY BERENICE   | 08/10/10    |    10 |       361413-3 |
+| MAYO GUERRERO      | RUT               | 06/26/10    |    10 |       361413-3 |
+| MELGAR GARCIA      | YURYTZY YO        | 01/23/10    |    10 |       361413-3 |
+| MENESES-NAVA       | BRANDON           | 01/21/10    |    10 |       361413-3 |
+| MONCADA MUNIZ      | HENLY JAZM        | 12/28/09    |    10 |       361413-3 |
+| NIETO              | AMY SARAHI        | 09/09/09    |    10 |       361413-3 |
+| RESENDI            | JOSE              | 11/03/10    |    10 |       361413-3 |
+| RIVERA-ORTIZ       | ALLIEANA AS       | 04/12/10    |    10 |       361413-3 |
+| RODRIGUEZ          | JADE DARLEN       | 09/22/09    |    10 |       361413-3 |
+| RODRIGUEZ          | NOEL BENJAMIN     | 07/02/10    |    10 |       361413-3 |
+| ROSA               | SUANY SOFIA       | 03/08/10    |    10 |       361413-3 |
+| RUIZ               | JESUS SALVADOR    | 06/07/10    |    10 |       361413-3 |
+| SANDOVAL           | SHEYLA            | 02/13/10    |    10 |       361413-3 |
+| VASQUEZ            | JAYDEN            | 06/29/10    |    10 |       361413-3 |
+| VEGA               | LUZ VALERIA       | 08/02/10    |    10 |       361413-3 |
+|--------------------+-------------------+-------------+-------+----------------|
+| ALVAREZ            | ROSEMARY          | 09/11/10    |    10 |       361413-4 |
+| CANELA PANTOJA     | JIMENA            | 06/28/10    |    10 |       361413-4 |
+| CARBAJAL           | VALERIA JANIE     | 12/03/07    |    12 |       361413-4 |
+| CARVAJAL           | CHRISTIAN RICAR   | 07/17/10    |    10 |       361413-4 |
+| CRUZ ENAMORADO     | JOSEPH SA         | 12/14/09    |    10 |       361413-4 |
+| DUNLAP             | BRIAIRA ANASTASIA | 09/18/09    |    10 |       361413-4 |
+| FIGUEROA           | HAILEY MARIE      | 03/03/10    |    10 |       361413-4 |
+| FLORES-PANIAGUA    | BRITTANY          | 05/30/10    |    10 |       361413-4 |
+| GARCIA             | JOSE MANUEL       | 11/02/07    |    12 |       361413-4 |
+| GARCIA CARDONA     | ASHLEY RO         | 02/05/10    |    10 |       361413-4 |
+| GUTIERREZ          | AIDEN SANTIAGO    | 10/25/09    |    10 |       361413-4 |
+| GUZMAN             | GABRIEL  (P)      | 12/13/10    |    10 |       361413-4 |
+| KILGORE            | JAREESA SHANNAY   | 11/13/09    |    10 |       361413-4 |
+| LOPEZ              | KIMBERLY MARISOL  | 09/10/09    |    10 |       361413-4 |
+| LOPEZ              | VICTORIA MARIA    | 04/23/10    |    10 |       361413-4 |
+| LOPEZ-DENOVA       | KAYLEE            | 09/11/09    |    10 |       361413-4 |
+| MARADIAGA-RAMOS    | MOISES F          | 12/07/09    |    10 |       361413-4 |
+| MIGUEL-PASCUAL     | CANDELARI         | 08/16/10    |    10 |       361413-4 |
+| MONTIEL SOTELO     | NICOLE            | 06/22/10    |    10 |       361413-4 |
+| MORA               | KIMBERLY ASHLEY   | 06/08/10    |    10 |       361413-4 |
+| NAVA               | LEAH JAQUELINE    | 09/21/09    |    10 |       361413-4 |
+| OBESO              | JACOB JOSE        | 01/20/10    |    10 |       361413-4 |
+| OCAMPO JR          | JOSE OSVALDO      | 09/23/09    |    10 |       361413-4 |
+| OSORIO-CHAVEZ      | DENNISE DO        | 12/15/08    |    11 |       361413-4 |
+| PORTILLO CUEVAS    | SOFIA EM          | 11/12/09    |    10 |       361413-4 |
+| RAMOS              | JADE MINA         | 07/09/10    |    10 |       361413-4 |
+| RIDEAUX            | DONAVYN AGEE NIC  | 08/19/10    |    10 |       361413-4 |
+| SALAZAR GARCIA     | DANA              | 12/11/09    |    10 |       361413-4 |
+|--------------------+-------------------+-------------+-------+----------------|
+| ALVARADO           | KEVIN ANTONIO     | 03/09/10    |    10 |       361413-5 |
+| ALVAREZ            | CRYSTAL DANIELLE  | 10/15/09    |    10 |       361413-5 |
+| CEJA               | BIANCA MICHELLE   | 03/16/10    |    10 |       361413-5 |
+| CEJA JR            | RAUL              | 02/22/10    |    10 |       361413-5 |
+| CHAVEZ             | MOLLY JULIET      | 12/11/09    |    10 |       361413-5 |
+| DELGADO CABRAL     | SARAHY            | 06/19/10    |    10 |       361413-5 |
+| GRIFFIN            | JAYSHA NEVAEH     | 07/31/10    |    10 |       361413-5 |
+| HERNANDEZ          | ADRIAN            | 09/24/09    |    10 |       361413-5 |
+| LIGHTNER           | NEKO CHEVELLE     | 08/12/10    |    10 |       361413-5 |
+| MALBROUGH          | NYERRA RAVEYAH    | 11/02/09    |    10 |       361413-5 |
+| MARROQUIN PEREZ    | MELANI D          | 04/23/10    |    10 |       361413-5 |
+| MCFARLAND          | LA'MYA MARIE C    | 06/08/09    |    11 |       361413-5 |
+| PAYAN PEREDA       | ALIS VANESS       | 06/28/10    |    10 |       361413-5 |
+| REYES              | HENRY JONATHAN    | 08/09/10    |    10 |       361413-5 |
+| ROJAS              | ISRAEL            | 03/15/10    |    10 |       361413-5 |
+| ROSALES            | ROCIO             | 05/14/10    |    10 |       361413-5 |
+| RUBALCAVA MARTINEZ | JOANN             | 05/04/09    |    10 |       361413-5 |
+| SANDOVAL           | KAYLA             | 02/13/10    |    10 |       361413-5 |
+| TENORIO            | ANDREA ROSALBA    | 09/09/09    |    10 |       361413-5 |
+| URIAS              | ISAAC FRANCISCO   | 06/01/10    |    10 |       361413-5 |
+| VALENCIA           | JANIA JANINE      | 11/10/09    |    10 |       361413-5 |
+| VARGAS             | LILLIAN LUPE      | 10/12/09    |    10 |       361413-5 |
+| ZOTEA              | JENNIFER          | 06/27/10    |    10 |       361413-5 |
+|--------------------+-------------------+-------------+-------+----------------|
+| AHUMADA            | MARIA DE JESUS A  | 05/29/10    |    10 |       361413-8 |
+| ALVAREZ            | ROSA MARIA        | 11/21/09    |    10 |       361413-8 |
+| AMPARO             | JASON             | 02/17/10    |    10 |       361413-8 |
+| ANALCO MAYO        | MELANY            | 12/02/09    |    10 |       361413-8 |
+| ANDRADE            | CAITLYN           | 04/30/10    |    10 |       361413-8 |
+| BADO               | MELENY ALEXA      | 10/10/09    |    10 |       361413-8 |
+| CANTEYANO          | ARIANA JANETH     | 10/14/09    |    10 |       361413-8 |
+| CONTRERAS          | SAMUEL LEONARD    | 12/07/07    |    12 |       361413-8 |
+| CORNEJO-LUNA       | LESLIE SKY        | 09/06/09    |    10 |       361413-8 |
+| DAVIS              | JAYLIN TA'VON     | 09/25/09    |    10 |       361413-8 |
+| DODD               | DA'LEJA DANAE     | 08/12/10    |    10 |       361413-8 |
+| GARCIA             | ASHLEY CITLALY    | 08/12/10    |    10 |       361413-8 |
+| HERNANDEZ          | ARIEL SERBANDO    | 02/28/10    |    10 |       361413-8 |
+| HERRERA NAVA       | EVERARDO          | 05/25/10    |    10 |       361413-8 |
+| MENDEZ             | NATHAN ALEXANDER  | 02/11/10    |    10 |       361413-8 |
+| OSEGUEDA           | SABRINA DESERAY   | 04/28/10    |    10 |       361413-8 |
+| RUIZ               | EMILY             | 11/04/09    |    10 |       361413-8 |
+| SEGOVIA-MEJIA      | MALORIE DI        | 10/14/09    |    10 |       361413-8 |
+| SILVA              | TYSON RYDER       | 04/21/10    |    10 |       361413-8 |
+| SUAREZ             | HAYLEE CLARISSA   | 08/27/10    |    10 |       361413-8 |
+| VEGA               | JIANNA MARIE      | 04/04/10    |    10 |       361413-8 |
+| VERA               | VICTOR MANUEL     | 05/18/10    |    10 |       361413-8 |
+| WILLIAMS           | BREONNA AMYA      | 08/26/09    |    10 |       361413-8 |
+|--------------------+-------------------+-------------+-------+----------------|
+| ARCE               | DELILAH           | 11/29/08    |    12 |       361303-1 |
+| ARREOLA            | DIAMOND PRISILA   | 04/04/09    |    11 |       361303-1 |
+| AYALA              | AIDEN LEONARDO    | 01/08/08    |    12 |       361303-1 |
+| BELTRAN            | ARELY MENDOZA     | 03/27/08    |    12 |       361303-1 |
+| CABRERA            | JUAN CARLOS       | 07/24/09    |    11 |       361303-1 |
+| CASTILLO LOPEZ     | KARLA GUA         | 07/14/09    |    11 |       361303-1 |
+| CERON              | ANA MARIA         | 04/10/09    |    11 |       361303-1 |
+| CRUZ SALGUERO      | BRITTHANY         | 01/05/09    |    11 |       361303-1 |
+| DE SANTIAGO        | MIGUEL VENTU      | 05/07/09    |    11 |       361303-1 |
+| ESPINO             | ISAAC FERNANDO    | 10/27/08    |    11 |       361303-1 |
+| FARIAS MARTINEZ    | ELIZABET          | 08/10/07    |    12 |       361303-1 |
+| GARCIA             | KEVIN             | 09/01/08    |    12 |       361303-1 |
+| LEON               | JESUS EMILIO      | 02/16/09    |    11 |       361303-1 |
+| MARTINEZ           | MELISSA           | 11/30/08    |    12 |       361303-1 |
+| MARTINON           | ALEXIS            | 09/05/08    |    12 |       361303-1 |
+| MATEO NICOLAS      | ERICK             | 11/16/08    |    11 |       361303-1 |
+| MEDINA DIAZ        | STEVEN ERNES      | 07/24/08    |    12 |       361303-1 |
+| MEJIA              | ASHLEY MAITE      | 01/13/09    |    11 |       361303-1 |
+| MELGAR-GARCIA      | STEVEN ANT        | 10/24/08    |    11 |       361303-1 |
+| MONTES             | CRISTINA          | 02/16/09    |    11 |       361303-1 |
+| MUNOZ              | MILIANI JAYLYNN   | 08/13/09    |    11 |       361303-1 |
+| PENA               | SEBASTIAN  (P)    | 01/08/09    |    11 |       361303-1 |
+| PORFIRIO           | JANET MISHEL      | 02/11/09    |    11 |       361303-1 |
+| RIVERA             | MATHEW            | 10/08/08    |    11 |       361303-1 |
+| SANCHEZ            | AMERICA           | 12/18/07    |    12 |       361303-1 |
+| TOVAR FLORES       | DANIEL JONA       | 01/24/09    |    11 |       361303-1 |
+| VALENTE ORDUNA     | VICTOR MA         | 11/25/08    |    11 |       361303-1 |
+| VALENTIN DE NOVA   | YARELI            | 11/27/06    |    11 |       361303-1 |
+|--------------------+-------------------+-------------+-------+----------------|
+| ALVAREZ            | CRYSTAL DANIELLE  | 10/15/09    |    10 |      420109-15 |
+| AMAYA              | ESLY BEATRIZ      | 05/23/09    |    10 |      420109-15 |
+| ARREOLA            | PETER PERFECTO    | 08/21/10    |    10 |      420109-15 |
+| CABRERA            | MADALYNN          | 08/09/10    |    10 |      420109-15 |
+| CANTEYANO          | ARIANA JANETH     | 10/14/09    |    10 |      420109-15 |
+| CORNEJO-LUNA       | LESLIE SKY        | 09/06/09    |    10 |      420109-15 |
+| DIAZ               | MADELINE HEIDI    | 02/08/10    |    10 |      420109-15 |
+| GRIFFIN            | JAYSHA NEVAEH     | 07/31/10    |    10 |      420109-15 |
+| GUZMAN LOPEZ       | YESSICA ROS       | 11/29/10    |    10 |      420109-15 |
+| HERNANDEZ          | ARIEL SERBANDO    | 02/28/10    |    10 |      420109-15 |
+| HERRERA NAVA       | EVERARDO          | 05/25/10    |    10 |      420109-15 |
+| LOPEZ-DENOVA       | KAYLEE            | 09/11/09    |    10 |      420109-15 |
+| MELENDEZ           | SEBASTIAN         | 05/24/09    |    10 |      420109-15 |
+| NAVA               | LEAH JAQUELINE    | 09/21/09    |    10 |      420109-15 |
+| OBESO              | JACOB JOSE        | 01/20/10    |    10 |      420109-15 |
+| OSEGUEDA           | SABRINA DESERAY   | 04/28/10    |    10 |      420109-15 |
+| RESENDI            | JOSE              | 11/03/10    |    10 |      420109-15 |
+| ROJAS              | ISRAEL            | 03/15/10    |    10 |      420109-15 |
+| RUIZ               | JESUS SALVADOR    | 06/07/10    |    10 |      420109-15 |
+| SILVA              | TYSON RYDER       | 04/21/10    |    10 |      420109-15 |
+| TURCIOS            | CELESTE MICHELLE  | 10/25/09    |    10 |      420109-15 |
+| VARGAS             | LILLIAN LUPE      | 10/12/09    |    10 |      420109-15 |
+| ZAVALA-ONATE       | XIMENA            | 08/21/10    |    10 |      420109-15 |
+| ZOTEA              | JENNIFER          | 06/27/10    |    10 |      420109-15 |
