@@ -1,6 +1,7 @@
 #+title: Physics Syllabus
 #+author: Mr. Maxwell
 #+startup: indent
+#+options: toc:nil title:nil
 #+LATEX_HEADER:\usepackage[margin=2cm]{geometry}
 
 * Instructor
@@ -17,7 +18,7 @@ Physics is a laboratory-based college-preparatory course. Laboratory experiments
 
 ** Textbook
 
-**Physics in the Earth System: California HMH Science Dimensions**
+**Physics in the Universe: California HMH Science Dimensions**
 
 * Grading Policy - also how parents/students can find out their grades 
 ** Academic Grade 
