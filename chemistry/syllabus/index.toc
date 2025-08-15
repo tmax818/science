@@ -1,0 +1,16 @@
+\contentsline {section}{\numberline {1}Instructor}{1}{section.1}%
+\contentsline {section}{\numberline {2}Course Content}{2}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Textbook}{2}{subsection.2.1}%
+\contentsline {section}{\numberline {3}Grading Policy - also how parents/students can find out their grades}{2}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Academic Grade}{2}{subsection.3.1}%
+\contentsline {subsubsection}{\numberline {3.1.1}What is included in the academic grade?}{2}{subsubsection.3.1.1}%
+\contentsline {subsubsection}{\numberline {3.1.2}Grade Scale}{2}{subsubsection.3.1.2}%
+\contentsline {subsection}{\numberline {3.2}Work Habits Grade and Cooperation Grade}{2}{subsection.3.2}%
+\contentsline {section}{\numberline {4}Suggested Materials}{2}{section.4}%
+\contentsline {section}{\numberline {5}Planner Policy/Bathroom Policy}{2}{section.5}%
+\contentsline {section}{\numberline {6}Cell Phone Policy}{3}{section.6}%
+\contentsline {section}{\numberline {7}Class Rules/Expectations}{3}{section.7}%
+\contentsline {section}{\numberline {8}Homework expectations}{3}{section.8}%
+\contentsline {section}{\numberline {9}Tutoring Information}{3}{section.9}%
+\contentsline {section}{\numberline {10}Connections to Performing Arts in Core Curriculum}{3}{section.10}%
+\contentsline {section}{\numberline {11}Signatures}{3}{section.11}%
