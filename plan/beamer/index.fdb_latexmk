@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1755232484.31012 "/home/tyler/Desktop/science/plan/beamer/index.tex" "index.pdf" "index" 1755232484.87199 0
-  "/home/tyler/Desktop/science/plan/beamer/index.tex" 1755232480.21869 424 29e870b9619a6c0ed3885d6be28a04a1 ""
+["pdflatex"] 1755232881.10786 "/home/tyler/Desktop/science/plan/beamer/index.tex" "index.pdf" "index" 1755232881.65955 0
+  "/home/tyler/Desktop/science/plan/beamer/index.tex" 1755232880.92557 417 5ffc79ad54f87ed78aee534d2446479b ""
   "/usr/local/texlive/2025/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2025/texmf-dist/fonts/tfm/public/cm/cmr10.tfm" 1136768653 1296 45809c5a464d5f32c8f98ba97c1bb47f ""
   "/usr/local/texlive/2025/texmf-dist/fonts/tfm/public/cm/cmss10.tfm" 1136768653 1316 b636689f1933f24d1294acdf6041daaa ""
@@ -173,10 +173,10 @@
   "/usr/local/texlive/2025/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1755057531 5528033 0c358b2aae4aa21399659c485f38b4ac ""
   "/usr/local/texlive/2025/texmf-var/web2c/pdftex/pdflatex.fmt" 1755057618 3605719 ab088d6f8cbddae38a290a3ef6f1a2dd ""
   "/usr/local/texlive/2025/texmf.cnf" 1755057528.01727 455 5b996dcaa0eb4ef14a83b026bc0a008c ""
-  "index.aux" 1755232484.8297 719 572e16de66780eb60851374e7196524e "pdflatex"
-  "index.nav" 1755232484.82998 395 640a03f4d3f0f705896c1d8375ddfa75 "pdflatex"
-  "index.out" 1755232484.71899 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
-  "index.tex" 1755232480.21869 424 29e870b9619a6c0ed3885d6be28a04a1 ""
+  "index.aux" 1755232881.61804 719 572e16de66780eb60851374e7196524e "pdflatex"
+  "index.nav" 1755232881.61855 395 640a03f4d3f0f705896c1d8375ddfa75 "pdflatex"
+  "index.out" 1755232881.50937 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+  "index.tex" 1755232880.92557 417 5ffc79ad54f87ed78aee534d2446479b ""
   (generated)
   "index.aux"
   "index.log"
