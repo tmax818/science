@@ -46,7 +46,9 @@ Academic grades will reflect student mastery of course content as demonstrated o
 Work Habits and Cooperation grades are based on effort, responsibility, attendance, conduct, and class participation. 
 |---+----------------|
 | E | excellent      |
+|---+----------------|
 | S | satisfactory   |
+|---+----------------|
 | U | unsatisfactory |
 |---+----------------|
 
