@@ -1,6 +1,7 @@
 #+title: Chemistry Syllabus
 #+author: Mr. Maxwell
 #+startup: indent
+#+options: toc:nil
 #+LATEX_HEADER:\usepackage[margin=2cm]{geometry}
 
 * Instructor
