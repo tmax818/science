@@ -30,4 +30,4 @@ include sub-lists.
 ** What is Chemistry?
 
 
-[[https:https://www.youtube.com/watch?v=NDPad7BIQpU&pp=ygUed2hhdCBpcyBjaGVtaXN0cnkgd2FsdGVyIHdoaXRl][What is Chemistry?]]
+[[https://www.youtube.com/watch?v=NDPad7BIQpU&pp=ygUeYnJlYWtpbmcgYmFkIHdoYXQgaXMgY2hlbWlzdHJ5][What is Chemistry?]
