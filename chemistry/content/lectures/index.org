@@ -11,7 +11,7 @@
 #+EXPORT_SELECT_TAGS: export
 #+EXPORT_EXCLUDE_TAGS: noexport
 #+HTML_LINK_UP:
-#+HTML_LINK_HOME:
+#+HTML_LINK_HOME: https://www.tylermaxwell.co/chemistry
 
 
 * Introduction
