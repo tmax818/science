@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.28 (TeX Live 2025) (preloaded format=pdflatex 2025.8.12)  2 SEP 2025 19:13
+This is pdfTeX, Version 3.141592653-2.6-1.40.28 (TeX Live 2025) (preloaded format=pdflatex 2025.8.12)  2 SEP 2025 20:30
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**/home/tyler/Desktop/science/chemistry/content/lectures/index.tex
-(/home/tyler/Desktop/science/chemistry/content/lectures/index.tex
+**/home/tyler/Desktop/science/chemistry/content/lectures/01unit/latex/index.tex
+(/home/tyler/Desktop/science/chemistry/content/lectures/01unit/latex/index.tex
 LaTeX2e <2025-06-01> patch level 1
 L3 programming layer <2025-07-20>
 (/usr/local/texlive/2025/texmf-dist/tex/latex/beamer/beamer.cls
@@ -738,30 +738,16 @@ Dictionary: translator-theorem-dictionary, Language: English
 [1
 
 {/usr/local/texlive/2025/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{/usr/local/texlive/2025/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}]
-LaTeX Font Info:    Trying to load font information for U+msa on input line 46.
- (/usr/local/texlive/2025/texmf-dist/tex/latex/amsfonts/umsa.fd
-File: umsa.fd 2013/01/14 v3.01 AMS symbols A
-)
-LaTeX Font Info:    Trying to load font information for U+msb on input line 46.
- (/usr/local/texlive/2025/texmf-dist/tex/latex/amsfonts/umsb.fd
-File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-)
-LaTeX Font Info:    Trying to load font information for OT1+mathkerncmss on input line 46.
- (/usr/local/texlive/2025/texmf-dist/tex/latex/sansmathaccent/ot1mathkerncmss.fd
-File: ot1mathkerncmss.fd 2020/01/31 Fontinst v1.933 font definitions for OT1/mathkerncmss.
-)
+<./atomNotes.png, id=42, 418.56375pt x 434.62375pt>
+File: ./atomNotes.png Graphic file (type png)
+<use ./atomNotes.png>
+Package pdftex.def Info: ./atomNotes.png  used on input line 35.
+(pdftex.def)             Requested size: 215.10196pt x 223.35292pt.
+
 
 [2
 
-]
-
-[3
-
-]
-
-[4
-
-]
+ <./atomNotes.png>]
 \tf@nav=\write6
 \openout6 = `index.nav'.
 
@@ -780,18 +766,18 @@ Package rerunfilecheck Info: File `index.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 22108 strings out of 467801
- 421458 string characters out of 5431916
- 798408 words of memory out of 5000000
- 50274 multiletter control sequences out of 15000+600000
- 637692 words of font info for 69 fonts, out of 8000000 for 9000
+ 21973 strings out of 467801
+ 418233 string characters out of 5431916
+ 798346 words of memory out of 5000000
+ 50168 multiletter control sequences out of 15000+600000
+ 631384 words of font info for 48 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 128i,14n,123p,462b,570s stack positions out of 10000i,1000n,20000p,200000b,200000s
-</usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfss1095.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfss1440.pfb>
-Output written on index.pdf (4 pages, 36748 bytes).
+ 128i,14n,123p,475b,568s stack positions out of 10000i,1000n,20000p,200000b,200000s
+</usr/local/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfss1095.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfss1440.pfb>
+Output written on index.pdf (2 pages, 207471 bytes).
 PDF statistics:
- 145 PDF objects out of 1000 (max. 8388607)
- 125 compressed objects within 2 object streams
- 13 named destinations out of 1000 (max. 500000)
- 43 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 86 PDF objects out of 1000 (max. 8388607)
+ 69 compressed objects within 1 object stream
+ 7 named destinations out of 1000 (max. 500000)
+ 48 words of extra memory for PDF output out of 10000 (max. 10000000)
 
