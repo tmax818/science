@@ -1,5 +1,5 @@
 #+title: PACS Physical Science
 #+author: Mr. Maxwell
 
-* chemistry
-* physics
+* [[https://tylermaxwell.co/science/chemistry/][chemistry]]
+* [[https://tylermaxwell.co/science/physics][physics]]
