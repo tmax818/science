@@ -4,30 +4,23 @@
 #+DATE: September 2, 2025
 #+DESCRIPTION: 
 #+KEYWORDS: 
-#+LANGUAGE:  en
-#+OPTIONS:   H:2 num:t toc:nil \n:nil @:t ::t |:t ^:t -:t f:t *:t <:t
+#+LANGUAGE: en
+#+OPTIONS: H:1 num:t toc:nil \n:nil @:t ::t |:t ^:t -:t f:t *:t <:t
 #+OPTIONS:   TeX:t LaTeX:t skip:nil d:nil todo:t pri:nil tags:not-in-toc
 #+INFOJS_OPT: view:nil toc:nil ltoc:t mouse:underline buttons:0
 #+EXPORT_SELECT_TAGS: export
 #+EXPORT_EXCLUDE_TAGS: noexport
 #+HTML_LINK_UP:
-#+HTML_LINK_HOME: https://www.tylermaxwell.co/chemistry
+#+HTML_LINK_HOME:
 
 
 * Introduction
-** A simple slide
-This slide consists of some text with a number of bullet points:
-
-- the first, very @important@, point!
-- the previous point shows the use of the special markup which
-  translates to the Beamer specific /alert/ command for highlighting
-  text.
 
 
-The above list could be numbered or any other type of list and may
-include sub-lists.
+- [[https://www.youtube.com/watch?v=NDPad7BIQpU&pp=ygUeYnJlYWtpbmcgYmFkIHdoYXQgaXMgY2hlbWlzdHJ5][What is Chemistry?]]
+#+BEAMER: \pause
+  - The study of matter
+#+BEAMER: \pause
+  - The study of change
 
-** What is Chemistry?
-
-
-[[https://www.youtube.com/watch?v=NDPad7BIQpU&pp=ygUeYnJlYWtpbmcgYmFkIHdoYXQgaXMgY2hlbWlzdHJ5][What is Chemistry?]]
+*** 
