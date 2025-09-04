@@ -7,6 +7,6 @@
 
 ** Unit 1
 
-* [[https://tylermaxwell.co/science/physics][physics]]
+* [[https://tylermaxwell.co/science/physics/][physics]]
 
 ** Unit 1
