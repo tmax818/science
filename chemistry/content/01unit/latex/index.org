@@ -1,13 +1,23 @@
 #+TITLE: unit 1: atoms, isotopes, and ions
 #+AUTHOR: Mr. Maxwell
 #+EMAIL: tyler.maxwell@lausd.net
-#+startup: indent
+#+startup: indent num
 #+LANGUAGE: en
 #+HTML_LINK_HOME:
 
-*  Lesson: atomic structure
-** *objective:* label an electron cloud diagram of the atom showing the locations of [[electrons]], [[protons]], and [[neutron]]s
-*** electron diagram:
-#+ATTR_HTML: :align center
-#+ATTR_LATEX: :width 0.6\textwidth
-[[./atomNotes.png]]
+* lesson: atomic structure
+** objectives
+** vocabulary
+*** electron
+a negatively charged subatomic particle
+*** electron cloud
+*** proton
+*** neutron
+*** subatomic particles
+protons, neutrons, and electrons are the three (subatomic) particles that make up an atom
+*** periodic table
+*** atomic number
+** links
+*** [[https://phet.colorado.edu/sims/html/build-an-atom/latest/build-an-atom_all.html][PhET build and atom]]
+* lesson: isotopes
+* lesson: ions

@@ -2,6 +2,3 @@
 #+AUTHOR: Mr. Maxwell
 #+EMAIL: tyler.maxwell@lausd.net
 
-* atomic models
-
-* periodicity
