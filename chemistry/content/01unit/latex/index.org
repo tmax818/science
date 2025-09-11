@@ -17,7 +17,20 @@ a negatively charged subatomic particle
 protons, neutrons, and electrons are the three (subatomic) particles that make up an atom
 *** periodic table
 *** atomic number
-** links
-*** [[https://phet.colorado.edu/sims/html/build-an-atom/latest/build-an-atom_all.html][PhET build and atom]]
 * lesson: isotopes
+** objectives
+** vocabulary
+*** isotope
+*** mass number
+*** isotope notation
+*** average atomic mass
+*** relative abundance
 * lesson: ions
+** objectives
+** vocabulary
+*** anions
+*** cations
+*** ion
+** links
+* links
+*** [[https://phet.colorado.edu/sims/html/build-an-atom/latest/build-an-atom_all.html][PhET build and atom]]
