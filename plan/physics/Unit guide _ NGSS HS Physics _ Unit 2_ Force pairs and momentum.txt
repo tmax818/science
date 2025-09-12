@@ -1,0 +1,295 @@
+﻿Unit 2: Force pairs and momentum 
+________________
+Overview
+In this unit students will learn about Newton’s third law and force pairs. They will also learn about momentum, its conservation, and how it’s related to force.
+Lesson 1: Students will develop and use models to evaluate force pairs during interactions between objects.
+Lesson 2: Students will learn that momentum is the product of mass and velocity. They will also construct explanations to demonstrate how the total momentum is conserved within systems of interacting objects. 
+Lesson 3: Students will apply the concept of impulse to analyze how an object or system’s momentum changes. They will use mathematics and computational thinking to explore how the same impulse can result from varying combinations of force and time. 
+Lesson 4: Hands-on science activity (see below)
+________________
+
+
+Hands-on science activity  
+How do engineers design rescue cushions to save lives?
+Students define the problem of preventing a dropped egg from breaking. They engage in the engineering design process to construct explanations and design solutions by creating a "rescue pad" that safely cushions the egg's fall.  Click here for links to the activity.
+________________
+
+
+Standards
+Performance expectations: HS‑PS2‑2 | HS-PS2-3
+
+
+Disciplinary core ideas: HS‑PS2.A.2 | HS‑PS2.A.3 | HS-ETS1.B
+Science and engineering practices:
+	Crosscutting concepts:
+	  
+  
+
+	  
+  
+
+	  
+  
+
+	  
+  
+
+	Click here to read the full standards.
+________________
+
+
+Essential questions
+* Why don’t the equal and opposite forces described by Newton’s third law balance each other?
+* What does it mean for the momentum of a system to be conserved?
+* How does the relationship between force, time, and impulse determine an object's change in momentum?
+
+
+Lesson notes
+Lesson 1: Newton’s third law
+
+PE: HS‑PS2‑2
+DCIs: HS‑PS2.A.2, HS‑PS2.A.3
+	Resources  
+	Objectives
+	Teaching tips
+	* Use Newton’s third law to describe the force pairs present during interactions between objects.
+* Depict force pairs acting on a system of objects using models.
+* Analyze real-world interactions by applying Newton's third law to predict the magnitude and direction of forces and the resulting motions of both interacting objects.
+	* Incorporate demonstrations and hands-on activities to strengthen students’ understanding of Newton’s third law. For example:
+   * Connect two toy cars or physics carts using spring scales and string. Keep one car held at rest, while the other car is pulled, and compare the scale readings. Repeat with varying masses on the cars. The spring scale readings will always be identical.
+  
+
+   * Replace the string with two rubber bands that have been tied together. Choose rubber bands that have different thicknesses and will stretch different lengths with equal amounts of force applied. Repeat the procedure above, with one car attached to a thick band, and the other to a thinner band. The scale readings will still remain identical, as described by Newton’s third law.
+
+   * Use Newton’s second law to provide mathematical justification when discussing the effect of forces on objects of different masses.
+   * Encourage students to share their own observations of real-world interactions that can be explained using Newton’s third law. For example, when paddling a kayak, the paddle applies a force to the water. The water applies an equal magnitude force to the paddle, which propels it, the kayaker, and the kayak, forward.
+	Lesson 2: Momentum
+
+PE: HS‑PS2‑2
+DCIs: HS‑PS2.A.2, HS‑PS2.A.3
+	Resources
+  
+
+	Objectives
+	Teaching tips
+	   * Calculate the momentum of an object as the product of mass and velocity. 
+   * Demonstrate how Newton’s second law can be expressed in terms of momentum as  = Δ/Δ. 
+   * Apply conservation of momentum to explain changes in velocity after a collision between objects with different masses. 
+   * Use vector diagrams to show how the momentum before and after a collision remains the same in a closed system.
+
+
+	      * LEmphasize that momentum is a vector quantity. This is vital to understanding conservation of momentum, especially in scenarios where the total momentum of the system is zero while both objects are in motion. The video, “Conservation of momentum”, for this lesson provides a detailed example.
+      * Emphasize that momentum conservation applies when there are no unbalanced forces acting on a system from outside sources (such as friction), and that momentum can be transferred out of a system.
+
+      * Provide demonstrations (or videos) to help students visualize momentum transfer and conservation. Some examples include:
+         * observing a Newton’s cradle
+         * simulating different collisions using plunger carts of varying masses
+         * using a high-speed blower to propel a person on a skateboard
+	Lesson 3: Impulse
+
+PE: HS-PS2-3
+DCIs: HS‑PS2.A.3, HS-ETS1.B
+	Resources
+  
+
+	Objectives
+	Teaching tips
+	         * Calculate the impulse of an object as 
+Δ and as Δ. 
+         * Discuss how changing the time of interaction during a collision affects the force exerted on the interacting objects. 
+         * Apply the concept of impulse as Δ to different real world scenarios, such as automobile safety features.
+	            * Demonstrate that the unit for impulse (N*s) and the unit for momentum (kg*m/s) are the same. The video for this lesson, “Impulse”, provides a detailed comparison of these units.
+            * Discuss a variety of everyday situations where impulse is evident, such as airbags in cars, catching a fast-moving baseball, or a gymnast landing safely. See the Related phenomena section for guidance on implementing these real-world phenomena.
+            * Utilize force vs. time graphs to model the effect of time on force during collisions. The exercise “Apply: Impulse” for this lesson provides guided practice for understanding force vs time graphs . The demonstration set up. A wooden block with a partially embedded nail sits on a foam pad. 
+            * Try this demonstration to help students visualize the effect of interaction time on force during a collision. You will need a foam pad or pillow, a hammer, and a wooden block with a nail embedded about four centimeters in.
+               * Challenge students to hammer the nail further into the block while it sits on the foam pad. The hammer should begin about 15 centimeters above the nail. It will be very difficult  to force the nail into the wood.
+               * Move the wooden block to a hard surface, and demonstrate that the nail can easily be hammered into the block.
+               * Prompt students to explain why the foam surface prevented the nail from being hammered into the block.
+               * The behavior observed has many real-world connections. For instance, anvils were crafted to provide a surface that would not deform when struck. This allowed metal workers to maximize the force applied to the metal they were shaping.
+               * Implement the hands-on activity “How do engineers design rescue cushions to save lives” to explore the relationship between impulse, force, and time by challenging students to design and construct a rescue cushion that will protect a falling egg (see Lesson 4).
+	Lesson 4: Hands-on science activity
+How do engineers design rescue cushions to save lives?
+
+
+PEs: HS-PS2-3
+DCIs: HS‑PS2.A.2, HS-ETS1.B
+	Resources
+  
+	Description
+	Links
+	Students define the problem of preventing a dropped egg from breaking. They engage in the engineering design process to construct explanations and design solutions by creating a "rescue pad" that safely cushions the egg's fall.
+	               * Full activity overview (Khan Academy article)
+               * Student activity guide (Doc | PDF) 
+               * Teacher guide (Doc | PDF)
+	Related phenomena
+Example phenomenon Erika Fasana, a gymnast, bends her knees to reduce the impact force as she lands on a gym mat. 
+How do gymnasts prevent injury from impacts when landing?
+Background information
+Gymnasts perform routines on tall equipment including the high bar, uneven bars, and still rings. To dismount at the end of a routine, the gymnast doesn't just drop down; they usually perform a final feat that launches them even higher into the air. During some dismounts, the gymnast can fall from heights of over nine feet! An important part of scoring involves “sticking the landing”, which means that the gymnast does not take extra steps immediately after the landing. Sticking a landing is a challenging task, as the impact of colliding with the floor can be painful and cause injury if the landing is not performed properly.
+
+
+When a gymnast lands, they possess a certain momentum based on their mass and the velocity at which they were moving just before impact. To come to a stop, this momentum must be reduced to zero, which involves experiencing a force over a time interval. When dismounting from equipment, the addition of a floor mat provides cushioning that extends the time interval. Gymnasts also perform floor routines on special spring floors designed to reduce the force of repeated impacts. When a gymnast lands on a spring floor, the springs compress and bring their body to a stop gradually. However, mats and spring floors alone are not enough to prevent injury; gymnasts must also learn how to bend their knees upon landing to reduce the magnitude of the force they experience.
+
+Exploring this phenomenon helps students develop and master the following understandings:
+               * The momentum of an object is the product of its mass and velocity.
+               * Impulse is the change of an object's momentum, and is equal to the product of net force and time.
+               * The force experienced during a change in momentum depends on the duration over which it acts.
+Image credit
+	Tips for implementing phenomenon-based learning
+               * Introduce the phenomenon with a video of gymnasts sticking their landings. Ask students to look for similarities between techniques of gymnasts when they land.
+               * Many students may assume that the mat provides enough cushion for a safe landing. While the mat does provide some measure of safety, the landing technique of the gymnast is critically important for safety and scoring.
+               * Compare the landing techniques of gymnasts to the techniques used by animals, such as cats, to land safely from great heights.
+               * Relate the techniques used by gymnasts to those used by stunt performers. These professionals must land safely when falling from great heights, jumping from moving vehicles, or performing other daring feats.
+               * Prompts to engage student thinking:
+               * Why does landing from a greater height increase the risk of injury for a gymnast?
+               * What specific techniques do gymnasts use to reduce the force upon landing? How would the force applied to the gymnast’s body change if they locked their legs upon landing?
+               * How do mats and spring floors help gymnasts land safely?
+	
+
+Example phenomenon A crash test dummy impacts an airbag from the vehicle's steering wheel. 
+How do automobile safety features, such as airbags, seat belts, and crumple zones, help keep passengers safe during a collision? 
+Background information
+Automobile safety features are important to consider when purchasing a vehicle. Modern vehicles are designed to not only prevent collisions, but to greatly reduce the severity of injuries to occupants if a collision occurs. 
+
+
+A seatbelt prevents the occupant from colliding with the dash or windshield. A collision with a rigid part of the vehicle changes the occupant’s momentum over a very small time, and results in a much greater force applied to the occupant’s body. A seatbelt also distributes force across the body rather than concentrating it in a small area. 
+
+Airbags compliment seatbelts by providing a cushioning barrier. When a collision is detected, airbags rapidly inflate and begin to deflate almost immediately after. While in contact with the airbag,  the time over which the occupant’s momentum changes is significantly increased, thereby lowering the force experienced.
+
+
+Crumple zones are parts of the vehicle body designed to deform in a controlled manner during an impact. The deformation increases the time duration of the impact, which reduces the force applied to the occupants. Some people believe that vintage cars are safer because they are constructed with more rigid materials and do not incorporate crumple zones, but the opposite is true. Vehicles with a rigid frame will experience a greater force during impacts, resulting in more serious injuries for the occupants. 
+
+
+
+
+
+
+Exploring this phenomenon helps students develop and master the following understandings:
+               * Forces exist in pairs that are equal in magnitude and opposite in direction.
+               * Changing the momentum of an object requires an unbalanced force.
+               * Increasing the time during which momentum changes reduces the force applied.
+               * Momentum can be transferred out of a system by external forces.
+	Tips for implementing phenomenon-based learning
+               * It's important to acknowledge that some students may have experienced trauma related to vehicle accidents, which could make exploring this phenomenon emotionally challenging. Before you start exploring this phenomenon, consider holding a thoughtful and compassionate conversation to create a supportive environment. Emphasize that the purpose of this exploration is to understand how safety features in vehicles work and why continued advancements in safety technology are crucial for saving lives. Allow students to opt out of videos or assignments addressing this topic if they feel uncomfortable, and provide alternative assignments that allow them to engage with the material in a way that respects their emotional well-being.
+               * Introduce the phenomenon with a video of test crashes that use slow-motion video to show what happens to the exterior of the vehicle, and how the test dummy inside is affected. The Insurance Institute for Highway Safety provides some excellent videos and resources. The video “When Physics Meets Biology” provides a look at how the physics of a crash affects the body.
+               * Try this activity to reinforce the relationship between impulse, force, and time.
+               * Attach different bumpers, such as a compression spring, ball of putty, or a cotton ball, to the front of a toy car. Roll the cart down a ramp and into an obstacle, and observe how the different bumpers affect the collision. If available, have students use cell phones to record the collision in slow-motion, then compare the time to stop for each bumper. 
+               * Challenge students to design their own bumper that is more effective than the ones tested. Provide student groups with materials like cardboard strips, plastic straws, pipe cleaners, and toothpicks to construct the bumper. Include constraints like limiting the amount of materials, limiting the size of the bumper, or limiting the total mass of the car with the bumper attached.
+               * Extend the exploration of this phenomenon to include other means of reducing injury to drivers, like breakaway utility poles, semi-rigid highway guards, and water-filled highway barriers. You can find more information on highway safety practices from the Federal Highway Administration.
+               * Prompts to engage student thinking:
+               * How does the addition of crumple zones affect the force experienced by the vehicle and the passengers during a collision? 
+               * What happens to the airbag during the first few seconds of a collision, and how does it help to reduce injury? 
+               * How does the force felt by a passenger during a collision change if they are not wearing a seatbelt?
+	________________
+Common student misconceptions
+Possible misconception: The force pairs described by Newton’s third law always balance each other because they’re equal in magnitude and opposite in direction.
+Because Newton’s third law is often presented as “for every action there is an equal and opposite reaction”, students may mistakenly assume that “equal and opposite” means that the forces in a force pair act on the same object. Without proper context and a deeper explanation of Newton’s third law, it is common for students to incorrectly identify force pairs. For example, when considering an object sitting on the floor, the force applied by the floor (the normal force) and the force of gravity acting on the object may be misidentified as a force pair because they are equal in magnitude and opposite in direction.
+	Critical concepts
+               * Each force in a force pair acts on a different object.
+               * The net force acting on an object is the sum of all external forces acting on it.
+	How to address this misconception
+Rather than using the traditional definition of Newton’s third law, consider presenting it as a set of statements that provide context and guidelines for how it should be correctly applied. 
+Newton’s third law states that:
+               * forces result from an interaction between two objects and always exist in pairs
+               * the two forces in a force pair are always equal in magnitude
+               * the two forces in a force pair always point in opposite directions 
+               * the two forces in a force pair always act on different objects 
+               * the two forces in a force pair must be the same type of force (friction must pair with friction, gravity cannot pair with normal force, etc.) 
+
+The video “Newton’s third law” for this unit discusses the law and its implications in detail, and applies the law to simple, real-world experiences.
+
+Use examples that include diagrams of interacting objects and have students identify the force pairs. Emphasize that both forces in a force pair will never be shown on the free body diagram for a single object. Use colored vectors on free body diagrams to indicate force pairs when depicting two objects interacting, and include clarifying statements. In the example below, a battery-powered cart is pulling a box across the floor.
+ A cart pulls a box toward the right over a rough floor. The box is attached to cart by a string.
+The free body diagram for the box shows the normal force directed upward, and equal magnitude force of gravity directed downward. A force of tension is directed to the right, and an equal magnitude force of friction directed to the left.
+The free body diagram for the cart shows the normal force directed upward, and an equal magnitude force of gravity directed downward. These vectors are longer than those shown for the box. An applied force is directed to the right, and an equal magnitude force of tension is directed to the left. The force of tension is equal magnitude in both diagrams. 
+
+	________________
+
+
+
+
+Possible misconception: During a collision, the objects experience different forces based on their mass or speed.
+Students often intuitively believe that smaller or faster moving objects "feel" more force during a collision. This misconception arises from associating the observable effects of collisions—like damage or acceleration—with the magnitude of forces experienced. 
+	Critical concepts 
+                  * Newton’s second law explains why objects of different masses have different accelerations when experiencing the same net force.
+                  * Newton’s third law explains that forces always exist in pairs that act on different objects, and are equal in magnitude but opposite in direction.
+                  * Both objects experience an equal, but opposite change in momentum during the collision, and the duration of the force experiences is the same for both objects.
+	How to address this misconception
+Addressing this misconception presents an ideal opportunity to connect all three laws of motion with the concepts of impulse and momentum. For example, consider an ice skater with negligible frictional force between their skates and the ice holding a basketball. 
+                  * When the skater applies a force to the ball to push it away with a chest pass, Newton’s third law explains that an equal magnitude force is applied to the skater by the ball. 
+                  * According to Newton’s first law, the unbalanced force in the horizontal dimension acting on the ball and the skater causes each to accelerate. 
+                  * Newton’s second law explains why the ball has a higher magnitude acceleration than the skater during the force application, and why each has a different velocity after the interaction ends. 
+                  * Because the magnitude of force applied to the skater and the ball and the time of force application is the same, the magnitude of impulse experienced by each object must be the same as well.
+
+
+The exercises Understand: impulse and Apply: impulse allow students to check their understanding of impulse, and guide them through calculation-based examples.
+
+
+If you have access to force sensors and dynamics carts, students can collect and analyze data during collisions where the carts have different masses.
+	
+
+
+
+________________
+
+
+Unit resources
+  
+                  * PhET Collision Lab: Use this simulation for a virtual exploration of collisions and momentum conservation.
+                  * Crash Science in the Classroom: Use this resource, provided by the Insurance Institute for Highway Safety and the Highway Loss Data Institute, for materials to help you incorporate crash safety into your into your classroom.
+                  * When Physics Meets Biology: Show this video to examine the physics of how a vehicle crash affects the body.
+                  * Federal Highway Administration: Use this resource to learn more about the methods applied to keep drivers safe and limit injuries from crashes.
+                  * Article and video note taking template (Doc | PDF): Use this printable template for structured note taking on the articles and videos in this unit.
+                  * Graph paper template (Doc | PDF): Use this printable template for manual graphing exercises. 
+
+
+  
+
+                  * Crash Science in the Classroom: Explore this resource for videos, activities, and demonstrations provided by the Insurance Institute for Highway Safety and the Highway Loss Data Institute.
+                  * Weekly Khan Academy quick planning guide (Doc | PDF):  Use this template to easily plan your week.
+                  * Using Khan Academy in the classroom (Doc | PDF): Learn about teaching strategies and structures to support your students in their learning with Khan Academy.
+                  * Differentiation strategies for the classroom (Doc | PDF): Read about strategies to support the learning of all students.  
+                  * Using phenomena with the NGSS: Learn more about how to incorporate phenomena into NGSS-aligned  lessons.
+                  * Hands-on science activities from Khan Academy: Choose from Khan Academy’s collection of high-quality, ready-to-use, and free hands-on science activities. Each one is engaging, three-dimensional, phenomenon-based, and simple to implement.
+
+
+
+
+
+
+________________
+NGSS standards reference guide
+Performance expectations (PEs)
+                  * HS‑PS2‑2: Use mathematical representations to support the claim that the total momentum of a system of objects is conserved when there is no net force on the system.
+                  * HS‑PS2‑3: Apply scientific and engineering ideas to design, evaluate, and refine a device that minimizes the force on a macroscopic object during a collision.
+________________
+
+
+Disciplinary core ideas (DCIs)
+                  * HS‑PS2.A.2: Momentum is defined for a particular frame of reference; it is the mass times the velocity of the object.
+                  * HS‑PS2.A.3: If a system interacts with objects outside itself, the total momentum of the system can change; however, any such change is balanced by changes in the momentum of objects outside the system.
+                  * HS-ETS1.B: When evaluating solutions, it is important to take into account a range of constraints, including cost, safety, reliability, and aesthetics, and to consider social, cultural, and environmental impacts.
+________________
+
+
+Science and engineering practices (SEPs)
+                  * Asking questions and defining problems: Students progress to formulating, refining, and evaluating empirically testable questions and design problems using models and simulations.
+                  * Developing and using models: Students progress to using, synthesizing, and developing models to predict and show relationships among variables between systems and their components in the natural and designed worlds.
+                  * Using mathematics and computational thinking: Students progress to using algebraic thinking and analysis, a range of linear and nonlinear functions including trigonometric functions, exponentials and logarithms, and computational tools for statistical analysis to analyze, represent, and model data. Simple computational simulations are created and used based on mathematical models of basic assumptions.
+                  * Constructing explanations and designing solutions: Students progress to explanations and designs that are supported by multiple and independent student-generated sources of evidence consistent with scientific ideas, principles, and theories. 
+________________
+
+
+Crosscutting concepts (CCCs) and their implementation
+
+
+Crosscutting concept   
+	Unit implementation
+	Cause and effect (Mechanism and explanation): Events have causes, sometimes simple, sometimes multifaceted. A major activity of science is investigating and explaining causal relationships and the mechanisms by which they are mediated. Such mechanisms can then be tested across given contexts and used to predict and explain events in new contexts.
+	Students examine the cause and effect relationship between momentum and forces.
+	Systems and system models: Defining the system under study—specifying its boundaries and making explicitly a model of that system—provides tools for understanding and testing ideas that are applicable throughout science and engineering.
+	Students apply Newton’s third law to construct and evaluate models that depict force pairs.
+	Structure and function: The way in which an object or living thing is shaped and its substructure determine many of its properties and functions.
+	Students assess the structure and function of real-world rescue cushions to design and refine a device that minimizes the force on a macroscopic object during a collision
+	Stability and change: For natural and built systems alike, conditions of stability and determinants of rates of change or evolution of a system are critical elements of study.
+	Students examine how forces contribute to the stability of a system and cause changes in momentum.
