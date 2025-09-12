@@ -1,0 +1,262 @@
+﻿Unit 1: Motion and forces 
+________________
+Overview
+In this unit students will learn about how forces and motion are related through Newton's laws.
+Lesson 1: Students will analyze and predict the motion of an object or system by developing and using models and using mathematical and computational thinking.
+Lesson2: Students will develop and use models, such as free body diagrams, to describe the forces acting on an object or system and the effects of these forces.
+Lesson 3: Students will apply their understanding of stability and change using Newton’s first and second laws to explain the behavior of an object or system.
+Lesson 4: Hands-on science activity (see below)
+________________
+
+
+Hands-on science activity  
+How do engineers build strong bridges?
+Students will ask questions and define problems as they explore how different designs affect the strength and stability of bridges. Then they will design and construct a truss bridge with craft sticks.  Click here for links to the activity.
+________________
+
+
+Standards
+Performance expectations: HS-PS2-1
+
+
+Disciplinary core ideas: HS‑PS2.A.1 | HS‑ETS1.A.1 | HS‑ETS1.C.1
+Science and engineering practices:
+	Crosscutting concepts:
+	  
+  
+
+	  
+  
+
+	  
+  
+
+	  
+  
+
+	Click here to read the full standards.
+________________
+
+
+Essential questions
+* How can the motion of an object be predicted using mathematical and graphical models?
+* What does it mean for forces to be balanced or unbalanced, and how does each condition affect stability and change in the motion of objects?
+* What are the cause and effect relationships between force, mass, and acceleration, and how can we use Newton’s Second Law to explain and predict the motion of objects?
+Lesson notes
+Lesson 1: Describing motion
+
+PEs: HS-PS2-1
+DCIs: HS‑PS2.A.1
+	Resources
+  
+
+	Objectives
+	Teaching tips
+	* Explain the difference between vector and scalar quantities, and distinguish between position, distance, speed, and velocity.
+* Use mathematical models to predict the motion of an object moving at a constant  velocity or experiencing constant acceleration.
+* Interpret different types of graphs to describe an object’s motion.
+	* Use oil drop motion diagrams to help students visualize constant velocity and constant acceleration.
+* Engage students with short hands-on activities that will help introduce and deepen their understanding of key concepts.
+   * Collect position and time data for students walking and running at different constant speeds. Construct and compare graphs of the data.
+   * Graph a battery-powered car’s position over time to understand that the slope represents the car’s velocity.
+   * Use cell phone cameras to video an object (such as a toy car) rolling up and down a ramp in slow motion. Use a meter stick in the background to collect position data. Use the timestamps from the video, or place a stopwatch in the background of the video to collect time data. Graph and analyze the data to understand the relationship between position and time for an accelerating object.
+* Emphasize that the sign of a vector quantity represents direction. Consider asking students to write out the direction of vector quantities in their solutions. For example “-12 m/s  or 12 m/s to the west.”
+* Provide a card sorting activity using position, velocity, and acceleration vs time graphs to assess and improve conceptual understanding. 
+* Review the relationships for position-time graphs:  
+   * A horizontal line represents an object at rest.
+   * A diagonal line means constant velocity.
+   * A curve means acceleration.  
+* Review the relationships for velocity-time graphs: 
+   * A horizontal line means constant velocity.
+   * A diagonal line means acceleration.
+	
+
+
+
+
+Lesson 2: Forces
+
+PE: HS-PS2-1
+DCI: HS‑PS2.A.1
+	Resources
+  
+
+	Objectives
+	Teaching tips
+	* Identify and explain the forces that result from various interactions, such as the tension force that acts on an object attached to a taut rope, or the buoyant force that acts on an object in a fluid.
+* Model the forces acting on an object or system using a free-body diagram.
+* Use diagrams and models to determine if the forces acting on an object or system are balanced or unbalanced.
+* Apply vector addition to determine the magnitude and direction of the net force acting on an object or system.
+
+
+	* Reinforce the understanding that net force is the vector sum of all forces acting on an object.
+* Emphasize that the two common symbols used to represent net force ( net  and  ) mean the same thing.
+* Provide demonstrations of real-world scenarios, and challenge students to model them using free-body diagrams. For example, a vehicle traveling down the highway while on cruise control, or an elevator gaining speed as it’s raised by a cable. 
+* Encourage students to sum all the forces in the x (horizontal) dimension and then sum all the forces in the y (vertical) dimension to check for balanced forces when calculating the net force.
+* Encourage students to keep a list of forces that includes the name of the force, its symbol, and a brief explanation for reference. The list will be filled in as the course progresses. Here’s a sample student reference sheet and teacher guide.  Use this You can also display the forces on a large classroom chart for easy reference.
+	Lesson 3: Newton’s first and second laws
+
+PE: HS-PS2-1
+DCI: HS‑PS2.A.1
+	Resources  
+	Objectives
+	Teaching tips
+	   * Explain Newton’s first law and the concept of inertia, and describe how they explain an object’s resistance to changes in motion.
+   * Apply Newton’s second law to explain the relationship between force, mass, and acceleration and how these quantities affect the motion of an object or system.
+   * Use mathematical models to predict how changing force or mass influences an object’s acceleration.
+   * Evaluate everyday examples of Newton’s first and second laws and use evidence to argue how they account for observed behaviors and motions.
+   * Analyze and interpret data that demonstrates the relationship between net force, mass, and acceleration.
+	   * Reinforce the understanding that an object's motion is simultaneously governed by all laws of motion, not just a single law.
+   * Use quantitative demonstrations alongside practice problems to help students understand complex scenarios. For example, in a problem involving the forces experienced by an object on an elevator, have students observe the reading of a spring scale as an object is raised and lowered at constant speeds, then with different accelerations.
+   * Relate the net force acting on an object to its motion. When the net force is zero, the object’s velocity will not change over time. When the net force is not zero, the object’s velocity must change over time. Use “Forces and Motion” simulation from PhET for a virtual exploration.
+   * Use quantitative investigations to relate Newton’s second law to the real-world behavior of objects and systems. For example, students can collect and analyze motion data for a toy car being pulled across a horizontal surface by a falling mass.
+   * Implement the hands-on activity “How do engineers build strong bridges?” to explore how Newton's laws apply to structures (see Lesson 4).
+	Lesson 4: Hands-on science activity
+How do engineers build strong bridges?
+
+
+PEs: HS-PS2-1, 
+DCIs: HS‑PS2.A.1, HS‑ETS1.A.1, HS‑ETS1.C.1
+	Resources
+  
+
+
+	Description
+	Links
+	Students will ask questions and define problems as they explore how different designs affect the strength and stability of bridges. Then they will design and construct a truss bridge with craft sticks. 
+	   * Full activity overview (Khan Academy article)
+   * Student activity guide (Doc | PDF)
+   * Teacher guide (Doc | PDF)
+	Related phenomena
+Example phenomenon The Shinkansen high speed train sitting in a station. 
+How is a high speed train able to travel at very high speeds?
+Background information
+The fastest train in operation is the Shanghai Maglev train, which travels at a speed of 460 km/h! A high speed train uses a powerful motor to accelerate to its cruising speed. The design of these trains and their tracks minimizes the effect of frictional forces. Some of the trains use magnetic levitation to float above the track. High speed train tracks are usually built in straight lines for maximum efficiency. If a straight line path isn’t possible, the track includes large curves that allow the train to maintain its high speed.
+Exploring this phenomenon helps students develop and master the following understandings:
+   * Average speed is calculated as distance traveled divided by time. Average velocity is calculated as change in position divided by change in time. Acceleration is calculated as the change in velocity divided by the change in time.
+   * Objects resist changes in their state of motion due to inertia. External forces are required to overcome inertia.
+   * When the net force on an object is zero, it remains at rest or moves at a constant velocity. When the net force is not zero, the object accelerates.
+   * Air resistance (drag) is a resistive force. Resistive forces oppose an object’s motion.
+   * Newton’s second law describes the relationship between net force, mass, and acceleration.
+	
+
+
+Tips for implementing phenomenon-based learning
+   * Task students with calculating the travel time between train stations for different high speed trains.
+   * Incorporate the actual statistics of high speed trains into acceleration practice problems. Students can determine a train’s acceleration, maximum speed, etc. 
+   * Have students create velocity vs. time graphs for the motion of a high-speed train. The graph should include periods of acceleration and constant velocity.
+   * Students can construct force diagrams for each period of the train’s motion and apply Newton’s laws to qualitatively and quantitatively assess the train’s motion. 
+   * Prompts to engage student thinking:
+   * Why is the train’s speedometer reading positive when driving forward and backward? 
+   * Can the train’s engine ever cause a negative acceleration? Can the brakes ever cause a positive acceleration? 
+   * How would you describe the forces acting on the train at various points along its journey?
+   * How does the train maintain a constant maximum speed?
+
+
+	
+
+
+
+Example phenomenon Coffee sloshes out of a cup. 
+Why does a drink in a vehicle’s cup holder spill out when the vehicle suddenly changes speed or makes a sharp turn?
+Background information
+When a vehicle suddenly speeds up, slows down, or makes a sharp turn, the liquid in a cup can slosh out due to its inertia. According to Newton’s first law, the liquid tends to stay in motion in its original direction when the vehicle changes speed and/or direction. During a sudden stop the liquid continues moving forward at the speed the vehicle had. In a sharp turn, the vehicle changes direction, but the liquid does not. The cup experiences the vehicle's acceleration, but the liquid, not rigidly attached, continues along the original path, causing it to spill out of the cup.
+Exploring this phenomenon helps students develop and master the following understandings:
+   * Newton’s laws explain everyday experiences of motion and resistance to changes in motion.
+   * Unbalanced forces result in changes to an object’s speed or direction, explaining why objects move differently under various forces.
+   * Acceleration occurs when an object’s speed or direction changes. An object only accelerates if it experiences a net force (or unbalanced forces).
+   * The relationship between mass, force, and acceleration helps predict how objects respond under various conditions.
+	Tips for implementing phenomenon-based learning
+   * Engage students with an introductory activity that allows them to observe the phenomenon. Give each student a paper cup of water that is almost full. Ask students to predict the behavior of the water in the cup when they suddenly change speed or direction. Take students outside, and allow them to observe the effects of sudden changes in velocity.
+   * Challenge students with a fun and engaging task. Using a textbook or flat board, have students try to balance a small toy car in the center while they walk forward. Students can change their speed, and quickly change direction while observing the car’s motion. After the activity, have students analyze and discuss the forces that were acting on the car and apply Newton’s laws of motion to explain the behaviors observed.
+   * Invite students to find and share videos that show behavior similar to the liquid in the cup.
+   * Prompts to engage student thinking:
+   * Why does the liquid not slosh around while the vehicle is moving at a constant velocity?
+   * Why does the liquid in the cup not change speed or direction with the vehicle?
+   * Imagine you are holding the cup in your hand while the vehicle stops suddenly. How would the liquid move, and how might you prevent it from spilling?
+   * How does the behavior of the liquid help explain why seatbelts are an important safety feature?
+	Common student misconceptions
+Possible misconception: Positive acceleration means speeding up and negative means slowing down.
+Acceleration can be a confusing topic for physics students, since it refers to any change of velocity over time, not just speeding up. Students may assume that a negative acceleration always equals slowing down and that a positive acceleration always equals speeding up. 
+	Critical concepts
+   * Acceleration is defined as the rate of change of velocity over time.
+   * Acceleration is a vector quantity, meaning it has both magnitude and direction.
+   * Acceleration is the result of a net force, so the direction of acceleration is also the direction of the net force.
+	How to address this misconception
+Whether an object speeds up or slows down is not determined by the acceleration alone. It depends on both  the velocity and acceleration. This relationship can be summed in three statements: 
+   1. When  a  and  v  have the same signs (direction), speed increases. 
+   2. When  a  and  v  have opposite signs (direction), speed decreases. 
+   3. When  a = 0  speed remains constant. 
+Velocity vs time graphs can be very effective at helping students deepen their understanding of acceleration. The misconception is easily observed as a mathematical contradiction on a graph. The video “Interpreting motion data” provides students with detailed explanations and guidance.
+	
+
+Possible misconception: An object must always move in the direction of the net force.
+While an object may move in the same direction as the net force acting on it, this is not always the case. Students may incorrectly assume that an object’s velocity vector must always have the same direction as the net force vector. 
+	Critical concepts
+   * A moving object maintains a constant velocity, unless acted upon by an unbalanced force.
+   * An object accelerates when it experiences an unbalanced force.
+   * Acceleration is a change in velocity over time.
+	How to address this misconception
+Clarify the relationships between the velocity, acceleration, and net force vectors. The direction of the velocity vector gives the current direction of motion. The direction of the acceleration vector does not have to match the direction of the velocity vector, but it must match the direction of the net force vector. Simple demonstrations can reinforce these ideas. For example, roll a toy car across the floor and observe it as it slows to a stop. Ask students to draw a free body diagram of the car as it moves, and use it to determine if the car requires a force to keep it in motion. The net force acting on the car is the force of friction, which points in the opposite direction of the car’s velocity vector. The video “Newton’s second law” focuses on these concepts.
+	
+
+
+
+
+
+________________
+
+
+Unit resources
+  
+
+   * Forces reference sheet student version (Doc | PDF) | Forces reference sheet teacher guide (Doc | PDF): Use these reference sheets to help your students keep track of the forces discussed in the course and the laws of motion.
+   * PhET  Forces and Motion: Implement this simulation for a virtual investigation of the relationship between forces and motion.
+   * Article and video note taking template (Doc | PDF): Use this printable template for structured note taking on the articles and videos in this unit.
+   * Graph paper template (Doc | PDF): Use this printable template for manual graphing exercises. 
+   * Venn diagram template (Doc | PDF): Use this printable template for comparing and contrasting concepts. 
+
+
+  
+
+   * Weekly Khan Academy quick planning guide (Doc | PDF): Use this template to easily plan your week.
+   * Using Khan Academy in the classroom (Doc | PDF): Learn about teaching strategies and structures to support your students in their learning with Khan Academy. 
+   * Differentiation strategies for the classroom (Doc | PDF): Read about strategies to support the learning of all students. 
+   * Using phenomena with the NGSS: Learn more about how to incorporate phenomena into NGSS-aligned  lessons.
+   * Hands-on science activities from Khan Academy: Choose from Khan Academy’s collection of high-quality, ready-to-use, and free hands-on science activities. Each one is engaging, three-dimensional, phenomenon-based, and simple to implement.
+
+
+
+
+________________
+NGSS standards reference guide
+Performance expectations
+   * HS-PS2-1: Analyze data to support the claim that Newton’s second law of motion describes the mathematical relationship among the net force on a macroscopic object, its mass, and its acceleration.
+________________
+
+
+Disciplinary core ideas (DCIs)
+   * HS‑PS2.A.1: Newton’s second law accurately predicts changes in the motion of macroscopic objects.
+   *  HS‑ETS1.A.1: Criteria and constraints also include satisfying any requirements set by society, such as taking issues of risk mitigation into account, and they should be quantified to the extent possible and stated in such a way that one can tell if a given design meets them.
+HS‑ETS1.C.1: Criteria may need to be broken down into simpler ones that can be approached systematically, and decisions about the priority of certain criteria over others (trade-offs) may be needed. 
+Science and engineering practices (SEPs)
+      * Asking questions and defining problems: Students progress to formulating, refining, and evaluating empirically testable questions and design problems using models and simulations.
+      * Developing and using models: Students progress to using, synthesizing, and developing models to predict and show relationships among variables between systems and their components in the natural and designed worlds.
+      * Using mathematics and computational thinking: Students progress to using algebraic thinking and analysis, a range of linear and nonlinear functions including trigonometric functions, exponentials and logarithms, and computational tools for statistical analysis to analyze, represent, and model data. Simple computational simulations are created and used based on mathematical models of basic assumptions.
+      * Constructing explanations and designing solutions: Students progress to explanations and designs that are supported by multiple and independent student-generated sources of evidence consistent with scientific ideas, principles, and theories. 
+________________
+
+
+Crosscutting concepts (CCCs) and their implementation
+
+
+Crosscutting concept   
+	Unit implementation
+	Cause and effect (Mechanism and explanation): Events have causes, sometimes simple, sometimes multifaceted. A major activity of science is investigating and explaining causal relationships and the mechanisms by which they are mediated. Such mechanisms can then be tested across given contexts and used to predict and explain events in new contexts.
+	Students examine the cause and effect relationships between forces and motion.
+	Systems and system models: Defining the system under study—specifying its boundaries and making explicitly a model of that system—provides tools for understanding and testing ideas that are applicable throughout science and engineering.
+	Students use mathematical models to analyze and predict the motion of objects.
+	Structure and function: The way in which an object or living thing is shaped and its substructure determine many of its properties and functions.
+	Students use Newton's laws of motion to analyze the structure and function of bridge designs.
+	Stability and change: For natural and built systems alike, conditions of stability and determinants of rates of change or evolution of a system are critical elements of study.
+	Students apply Newton’s laws of motion to understand how forces impact the stability of systems and structures.
