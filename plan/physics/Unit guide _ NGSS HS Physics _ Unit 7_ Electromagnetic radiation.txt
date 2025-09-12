@@ -1,0 +1,357 @@
+﻿Unit 7: Electromagnetic radiation 
+________________
+Overview
+In this unit, students explore the electromagnetic (EM) spectrum and examine how light behaves as both a wave and a particle. They will also investigate the Sun’s EM radiation and its role in sustaining life on Earth. 
+Lesson 1: Students will analyze the properties of different types of EM radiation and explore how each band interacts with matter and transfers energy.
+Lesson 2: Students will examine the relationship between wave speed, frequency and wavelength. They will develop models to explain wave behaviors including refraction, diffraction, and interference.
+Lesson 3: Hands-on science activity (see below)
+Lesson 4: Students will explore the quantized nature of light through the photoelectric effect and the photovoltaic effect. They will also use models to examine how the transition of electrons between energy levels, by absorbing or emitting photons, produces unique atomic spectra.
+Lesson 5: Hands-on science activity (see below)
+Lesson 6: Students will examine blackbody radiation to understand how the EM radiation emitted from objects depends on temperature. They will explore atmospheric scattering and construct explanations for why the sky is blue, sunsets are red, and clouds appear white. Additionally, they will analyze and interpret climate data to explore the greenhouse effect, engaging in argument from evidence about its impact on Earth's climate and potential solutions to address climate change.
+Lesson 7: Hands-on science activity (see below)
+________________
+
+
+Hands-on science activities  
+Why do optical discs reflect rainbow colors?
+Students will explore how diffraction and interference create the rainbow effect visible from optical discs by observing red and white light interactions. They will also develop and use a model for how diffraction causes white light to disperse. Click here for links to the activity.
+
+How can starlight reveal the elements in a star?  
+Students will construct a spectroscope to examine the spectra of different light sources. Then, they will analyze and interpret the spectral data of various stars to determine the elements found within them. Click here for links to the activity.
+
+How do carbon dioxide and albedo affect how Earth interacts with sunlight?  
+Students will investigate the effect of carbon dioxide concentration and albedo on air temperature. Then, they will analyze real-world data and construct explanations about how these factors are related via feedback loops, and how Earth’s systems are being affected as a result.
+Click here for links to the activity.
+Standards
+Performance expectations: HS‑PS4‑1 | HS‑PS4‑2 | HS‑PS4‑3 | HS‑PS4‑4 | HS‑PS4‑5 | HS‑ESS2‑2 | HS‑ESS2‑4 | HS‑ESS3‑6
+
+
+Disciplinary core ideas: HS‑PS3.D.2 | HS‑PS4.A.1 | HS‑PS4.A.2 | HS‑PS4.A.3 | HS‑PS4.B.1 | HS‑PS4.B.2 | HS‑PS4.B.3 | HS‑PS4.B.4 | HS‑PS4.C.1 | HS‑ESS1.A.2 | HS‑ESS2.A.1 | HS‑ESS2.D.1 | HS‑ESS2.D.3
+Science and engineering practices:
+	Crosscutting concepts:
+	  
+  
+  
+
+	  
+  
+
+	  
+  
+  
+
+	  
+  
+  
+
+	Click here to read the full standards.
+________________
+
+
+Essential questions
+* What properties define the bands of radiation on the EM spectrum?
+* What observable interactions result from EM wave refraction, diffraction, and interference?
+* How do the particle-like behaviors of light explain phenomena like the photoelectric effect and absorption/emission spectra ?
+* In what ways does the Sun’s EM radiation interact with Earth’s atmosphere and surface?
+________________
+
+
+Lesson notes
+Lesson 1: The electromagnetic spectrum
+
+PEs: HS‑PS4‑1, HS‑PS4‑3, HS‑PS4‑4, HS‑PS4‑5
+DCIs: HS‑PS4.A.1, HS‑PS4.B.1, HS‑PS4.B.2, HS‑PS4.C.1
+	Resources
+  
+
+	Objectives
+	Teaching tips
+	* Explain how electromagnetic (EM) radiation transfers energy through an oscillating electromagnetic field.
+* Discuss how EM radiation can be described using both wave and particle models depending on scale and context.
+* Describe how EM radiation behaves as discrete energy packets called photons, and relate photon energy to EM wave frequency.
+* Compare applications of various bands of the EM spectrum.
+	* Engage students with a demonstration using infrared radiation, and follow with a discussion about how different bands of the EM spectrum have a variety of applications.
+   * Ask students to discuss how remote controls communicate with devices. After discussing student ideas, show a television remote control (or similar), and point out the transmitter at one end.
+   * Dim the lights, and ask students to observe the transmitter when a button is pressed. If the remote includes a red indicator light, you may want to cover it first. No light will be observed from the transmitter.
+   * Ask students to take out their smart phones and open the camera app, or set up your own phone so that everyone can see the screen. Aim the remote at the camera lens and press one of the buttons. A light should be visible on the screen!
+   * Explain that the remote control uses infrared radiation, which is undetectable by human eyes, to communicate with devices. Most smartphone cameras are equipped with sensors that can detect some wavelengths of infrared light and display it as visible light on the phone’s screen.
+* Introduce the concept of wave-particle duality. Show students an image like the classic “duck or rabbit” sketch, and invite them to discuss which one they see. After the discussion, explain that light can be thought of in a somewhat analogous manner, since its behavior depends on how it is observed. While specific wave and particle behaviors of light will be explored in later lessons, it is important to establish the understanding that light can be modeled as both a  wave and as a particle-like packet of energy, or photon.
+* Explain that photon energy is measured in electron volts (eV) because the joule (J) is too large for the tiny energy changes at the atomic scale. Clarify that one electron volt (1 eV) is the energy gained by an electron when accelerated through a potential difference of 1 volt.
+* Use a research-based activity that tasks students with exploring the different bands of the EM spectrum and their applications. As students complete the activity, encourage them to include information related to how all forms of EM radiation transfer energy.
+* Elicit student ideas about the nature of radiation—what it is, how it is used, and its potential effects. Encourage discussion to uncover prior knowledge and misconceptions. Then, clarify that radiation refers to all wavelengths of the electromagnetic spectrum, not just harmful types, and address any fears or misunderstandings.
+	Lesson 2: Wave behaviors of EM radiation
+
+PEs: HS‑PS4‑1, HS‑PS4‑2, HS‑PS4‑3, HS‑PS4‑5
+DCIs: HS‑PS4.A.1, HS‑PS4.A.2, HS‑PS4.A.3, HS‑PS4.B.1, HS‑PS4.C.1
+	Resources
+  
+
+	Objectives
+	Teaching tips
+	* Analyze a model of an electromagnetic wave and discuss its defining features, including the perpendicular oscillation of electric and magnetic fields.
+* Relate the amplitude of an EM wave to the maximum strength of its electric and magnetic fields and the wave’s energy.
+* Describe wavelength as the distance between consecutive points on a wave with the same phase, and identify wavelength using a model.
+* Describe frequency as the number of wave cycles passing a point per second.
+* Relate the equation  to the inverse relationship between frequency and wavelength for a given wave. Discuss the implications of this relationship for different EM waves, which all travel at the same speed  in a vacuum.
+* Explain how EM radiation is used for producing, transmitting, and capturing signals for communication applications.
+* Describe refraction as the bending of a wave when crossing a boundary into a different medium, and analyze models of wavefronts to explain why refraction causes EM radiation to bend.
+* Describe diffraction as the bending of light around a boundary, and explain how EM wave interference contributes to diffraction patterns visible as alternating bright and dark bands.
+* Use models to predict how and where waves  experience constructive interference and destructive interference.
+	   * Use the PhET simulation “Wave on a String” to explore the properties of amplitude, wavelength, and frequency. Although the simulation uses a mechanical wave, the same properties apply to EM waves.
+   * Guide students to discover the inverse relationship between frequency and wavelength using the oscillate setting. Check the “rulers” box to display a horizontal and vertical ruler. With the simulation paused, students measure the distance between two adjacent wave crests or troughs. Increase the frequency multiple times and repeat the measurements. As the frequency increases, the wavelength will decrease.
+   * Introduce refraction with a series of demonstrations, including the “broken straw” illusion, reversing the direction of an arrow drawn on paper, and dispersion of white light using a prism. Have students share ideas and explanations about what they observe. 
+  
+   * Explore refraction further with the PhET simulation “Bending Light.” 
+      * Select “More Tools” and switch to the wave model view.
+      * Allow students time to explore the simulation.
+      * Instruct them to sketch a diagram illustrating how the speed and direction of wavelets change as they pass into a new medium.
+      * After exploring the model, implement the lesson video “Refraction,”  The video uses models similar to the one used in the simulation to summarize the behavior or light during refraction. 
+      * Use a laser and strand of hair or single thread to produce a diffraction pattern like the one seen in the lesson video “Diffraction and interference of light."
+      * First, have students predict what pattern will appear on a screen when an obstacle, such as a pencil, is placed in front of a flashlight beam. Perform a short demo to show that the obstacle blocks the light, with a single shadow appearing on the screen.
+      * Next, ask students to predict what pattern will appear on a screen when a very small obstacle, such as a thread or strand of hair, is placed in front of a laser beam. Instead of a single shadow appearing on the screen, a spreading pattern of light will be visible. Elicit student ideas about what happened to the light in order for the pattern to appear.
+      * Model wave interference in mechanical waves with a Slinky or rope. Emphasize that mechanical waves and EM waves share the same behaviors. Have two students hold each end of a long Slinky placed on a smooth floor. Each student should send an identical pulse down the slinky toward the middle. Use slow motion video to capture the moment when the wave pulses meet and constructively interfere. Repeat the demonstration with opposite pulses to show destructive interference.
+      * Follow up with the PhET simulation “Wave Interference”, and have students observe the patterns made when waves interfere.
+      * Use the interference module of the simulation. Select the light source and check the box to display a screen. Activate only one light and allow the wave pattern to fill the area. Students will notice a dim, but continuous, light across on the screen.
+      * Activate the second source. The two waves will interfere,   producing sharp, well-defined areas where constructive interference occurs and fuzzy areas where destructive interference occurs. Have students relate these areas to the light and dark pattern that appears on the screen.
+      *  Implement the hands-on activity “Why do optical discs reflect rainbow colors?” to have students further explore light wave diffraction and understand how diffraction and interference of light produce the rainbow colors reflected from an optical disc (see Lesson 3).
+	Lesson 3: Hands-on science activity
+Why do optical discs reflect rainbow colors?
+
+
+PEs: HS‑PS3‑4
+DCIs: HS‑PS4.A.3, HS‑PS4.B.1
+	Resources
+  
+
+
+	Description
+	Links
+	Students will explore how diffraction and interference create the rainbow effect visible on optical discs by observing red and white light interactions. They will also develop and use a model to illustrate why diffraction causes white light to disperse.
+	      * Full activity overview (Khan Academy article)
+      * Student activity guide (Doc | PDF)
+      * Teacher guide (Doc | PDF)
+	Lesson 4: Particle behaviors of EM radiation
+
+PEs: HS‑PS4‑3, HS‑PS4‑5
+DCIs: HS‑PS4.B.1, HS‑PS4.B.3, HS‑PS4.B.4
+	Resources
+  
+
+	Objectives
+	Teaching tips
+	      * Describe the photoelectric effect as the emission of electrons when photons are absorbed in a metal’s surface, and explain how it supports the particle model of light.
+      * Describe how the photovoltaic effect converts light energy into electrical energy by generating a voltage across a photovoltaic (PV) cell.
+      * Describe how electrons in atoms exist at specific energy levels, and explain how atoms absorb or emit photons of specific energy when electrons transition between energy levels.
+      * Differentiate between absorption spectra and emission spectra, and explain how they can be used to identify elements.
+	      * Revisit the wave-particle duality of light, as students may find this conceptually challenging. Clarify that light does not switch between wave and particle behavior but exhibits both simultaneously. In some scenarios, one model or the other may be more appropriate.
+      * Clarify that "discrete" in the context of photons means that light energy is not continuous but comes in individual packets, each with a specific amount of energy.
+      * Emphasize that increasing the intensity of light increases the amount of photons, not the energy of individual photons. Use this distinction to help students understand why certain colors (frequencies) of light will not trigger the photovoltaic effect on some materials, regardless of how bright the light is.
+      * Implement the lesson video “The photoelectric and photovoltaic effects” for explanations of these processes that utilize simple diagrams.
+      * Review (or introduce) the Bohr model to illustrate how electrons occupy discrete energy levels. Use diagrams and analogies to show how atoms absorb photons to move electrons to higher energy levels and emit photons when electrons return to lower levels. The lesson video “Atomic spectra” provides an analogy to help students understand the transition of electrons between energy levels.
+      * Have students analyze spectra of different elements and match them to known reference spectra to identify the elements. Use the spectroscopy demonstrator by Foothill College to explore emission and absorption spectra. The tool allows students to select several elements and display their spectra simultaneously.
+      * Implement the hands-on activity “How can starlight reveal the elements in a star?” for an exploration of absorption and emission spectra and how spectroscopy is used to determine the composition of stars (see Lesson 5).
+	Lesson 5: Hands-on science activity
+How can starlight reveal the elements in a star?
+
+
+PEs: HS‑PS4‑5
+DCIs: HS‑ESS1.A.2, HS‑PS4.B.4
+	Resources
+  
+
+
+	Description
+	Links
+	Students will construct a spectroscope to examine the spectra of different light sources. Then, they will analyze and interpret the spectral data of various stars to determine the elements found within them.
+	      * Full activity overview (Khan Academy article)
+      * Student activity guide (Doc | PDF)
+      * Teacher guide (Doc | PDF)
+	Lesson 6: EM radiation from the Sun
+
+PEs: HS‑ESS2‑2, HS‑ESS2‑4, HS‑ESS3‑6, HS‑PS4‑4
+DCIs: HS‑ESS2.A.1, HS‑ESS2.D.1, HS‑ESS2.D.3, HS‑PS4.B.2
+	Resources
+  
+
+	Objectives
+	Teaching tips
+	      * Describe and analyze how blackbody radiation is emitted by an object due to its temperature.
+      * Explain why cooler objects emit longer wavelengths of EM radiation  while hotter objects emit shorter wavelengths.
+      * Relate the color of a star to its surface temperature.
+      * Describe how the albedo of a surface determines how it interacts with incoming solar radiation.
+      * Apply an understanding of the EM spectrum and the process of scattering to explain why the sky appears blue and why the sunrises and sunsets appear red.
+      * Explain how greenhouse gases in Earth’s atmosphere (CO₂, H₂O, CH₄) absorb and re-emit infrared radiation, while others (N₂, O₂) do not.
+      * Discuss the potential consequences of enhanced greenhouse effects, including climate change and environmental feedback.
+	      * Introduce the lesson by examining objects that are good approximations of blackbodies, such as the heating element of an electric stove or an incandescent bulb. 
+      * To show how the wavelengths of radiation emitted depends on temperature, use an increasing number of 1.5 V batteries to power an incandescent bulb (such as a flashlight bulb). The bulb’s filament will begin glowing red and change colors to orange and yellow as its temperature increases. 
+      * Use the PhET simulation “Blackbody Spectrum” to supplement the demonstration and have students estimate the bulb’s temperature based on its color.
+      * Use the example of thermal imaging cameras to show that objects emit radiation even when they aren’t visibly glowing. This will help reinforce the understanding that the emission of radiation from a blackbody depends on temperature. 
+      * Relate the effects of albedo to the choice of clothing on a hot, sunny day. White or light colored clothing has a higher albedo and will absorb less radiation than darker colors, keeping you cooler. Ask students to brainstorm other scenarios where the albedo of objects is used to increase or decrease the absorption of EM radiation.
+      * Use a simple demonstration to show how scattering affects the color of the sky. You’ll need a flashlight, a clear rectangular tub filled with water, and a small amount of milk. Once set up, darken the room.
+      * Position the light so that it shines through the shorter part of the tub. The light should appear white when observed from the opposite side. The water will appear dark.
+      * Add a couple drops of milk to the water and stir. Milk is an emulsion of water and milk fat, and the milk particles will mimic the molecules in the atmosphere. Observe the light again. It will appear yellowish, and the surrounding water will have a blue tint.
+      * Reposition the light so that it shines through the long part of the tub and observe it from the opposite end. The light will now have a distinct reddish or orange appearance and be dimmer.
+      * After the activity, guide students to apply what they have learned in previous lessons to explain their observations. The lesson video “Why is the sky blue?” provides a detailed explanation with diagrams.
+      * Investigate how atmospheric scattering due to suspended particles from fires, volcanic eruptions, and dust storms can alter the color of sunsets and sunrises.
+      * Implement the hands-on activity “How do carbon dioxide and albedo affect how Earth interacts with sunlight?” to have students investigate how greenhouse gases interact with EM radiation, and how the albedo of a surface can impact atmospheric temperature (see Lesson 7).
+	Lesson 7: Hands-on science activity
+How do carbon dioxide and albedo affect how Earth interacts with sunlight?
+
+
+PEs: HS‑ESS2‑2, HS‑PS4‑4
+DCIs: HS‑ESS2.A.1, HS‑ESS2.D.1, HS‑PS4.B.2
+	Resources
+  
+
+
+
+
+	Description
+	Links
+	Students will investigate the effect of carbon dioxide concentration and albedo on air temperature. Then, they will analyze real-world data and construct explanations about how these factors are related via feedback and how Earth’s systems are being affected as a result.
+	      * Full activity overview (Khan Academy article)
+      * Student activity guide (Doc | PDF)
+      * Teacher guide (Doc | PDF)
+	________________
+
+
+Related phenomenon
+Example phenomenon A satellite image shows the lack of ozone over Antarctica. 
+What role does the ozone layer play in UV protection, and why is sunscreen still necessary?
+Background information
+The Sun is a main sequence star that is hot enough to emit the entire spectrum of EM radiation. While the most intense band of EM radiation emitted by the Sun is the visible spectrum, it also emits a band of ultraviolet (UV) radiation. The higher frequency of UV radiation means its photons are more energetic, and prolonged exposure to UV radiation can severely burn the skin and damage cells.
+
+
+The UV band of radiation falls after violet light on the visible spectrum. The wavelengths of UV radiation range from about 100 nm to 400 nm and are separated into three sub-bands: UV-A (315-400 nm), UV-B (280-315 nm), and UV-C (100-280 nm). Most of the UV radiation that reaches Earth’s surface is UV-A. Most of the UV-B band and all of the UV-C band are absorbed by the atmosphere’s ozone layer.
+
+
+The ozone layer in Earth's stratosphere plays a critical role in filtering UV radiation. When UV-B or UV-C radiation strikes an ozone molecule (O3), the radiation is absorbed and the molecule’s electrons become excited, which breaks molecular bonds to form O2 and O. The free oxygen atom will quickly bond with an oxygen molecule to form ozone. This process keeps the amount of ozone in the stratosphere stable. It also effectively shields Earth from the more harmful shortwave UV radiation. The wavelengths of UV-A radiation are too long to excite the electrons in ozone, so it freely passes through the ozone layer and reaches the surface. Sunscreen offers protection against the UV-A and the small amount of UV-B radiation that reaches the surface. It contains molecules that absorb UV radiation, causing their electrons to become excited and jump to higher energy states. When the excited electrons return to their lower energy states, the energy is released as heat.
+
+
+Exploring this phenomenon helps students develop and master the following understandings:
+      * Shorter wavelengths of EM radiation correspond to higher frequencies and higher photon energy.
+      * EM radiation interacts with matter differently based on its frequency and the properties of the matter.
+      * Atoms and molecules can absorb EM radiation at specific wavelengths and excite electrons. The absorbed energy can break bonds or be re-emitted as EM radiation at different wavelengths.
+	Tips for implementing phenomenon-based learning
+      * Provide students with a research-based activity to explore the history and future of the ozone hole. Have students study the use of CFCs and the subsequent erosion of the ozone layer. Compare satellite imagery since the 1970s to the present day to show how regulations on CFC usage has allowed the ozone hole to repair itself. You can find additional information and resources about the ozone hole at NASA’s Ozone Hole Watch and NOAA’s Global Monitoring Laboratory.
+      * Use a short activity to show that  sunscreen reduces the amount of UV radiation reaching the skin. 
+      * Provide student groups with four samples of white, UV sensitive beads that will change color when exposed to UV radiation. Apply different strengths of sunscreen, e.g. SPF 15, 50, and 100, to three of the samples. Leave one sample clean. The samples can be placed into small plastic bags and stored in an opaque container.
+      * With the room darkened, expose each sample to the visible band of the spectrum using a lamp or flashlight. The beads should remain white, as the household light sources do not emit any appreciable amount of UV radiation.
+      * Next, take each sample outside into the sunlight. Keep the samples covered with an opaque material before revealing them and exposing them to sunlight. Have students compare the degree of color change between samples. You can also use a handheld UV light to compare the color change for each sample. Take the samples out on a cloudy day to show that UV radiation penetrates clouds.
+      * Sample prompts to engage student thinking:
+      * What characteristics of UV radiation make it more harmful than visible light?
+      * How does the ozone layer act as a natural shield against UV radiation?
+      * How did human activities lead to ozone depletion, and what was done to stop it?
+	
+
+Common student misconceptions
+Possible misconception: The true color of the Sun is yellow.
+It’s a common belief that the Sun is yellow because that is how it appears in the sky. In comic book lore, Superman draws his powers from the light of our yellow sun. However, this yellow color of the Sun is due to atmospheric scattering rather than the Sun’s actual color. In space, without atmospheric interference, the Sun appears white. Earth’s atmosphere scatters blue light the most, and the remaining light reaching our eyes straight from the Sun is shifted toward yellow-orange hues. When directly overhead on a clear day, the scattering by the atmosphere is at a minimum, and the Sun will appear mostly white with a slight yellow tint.
+	Critical concepts
+      * White light includes all wavelengths of the visible spectrum.
+      * The temperature of a blackbody determines the spectrum of visible light it emits and its resulting color.
+      * Atmospheric scattering occurs when incoming sunlight is redirected to different angles, based on wavelength, by molecules and suspended particles in Earth’s atmosphere.
+      * Molecules in Earth’s atmosphere scatter shorter wavelengths of visible light more than longer wavelengths.
+	How to address this misconception
+Have students view the video “Why is the sky blue” in Lesson 6 for a detailed explanation of atmospheric scattering. You can also use the activity shown in the video and outlined in the teaching tips for the lesson to demonstrate how the sun’s appearance changes with the amount of scattering. Reinforce the understanding that sunlight is composed of all wavelengths of light by using a prism to separate sunlight into all colors of the visible spectrum. Implement the activity “How can starlight reveal the elements in a star?” to address the misconception. In the activity, students construct a spectroscope and use it to examine the sun’s spectrum. For a deeper dive into the color of the sun, check out the article “What color is the sun?” from NASA. Explain that images of the sun taken from space are often filtered to give it the appearance of being yellow or orange. 
+	
+
+
+Possible misconception: The speed of EM radiation always depends on its wavelength.
+Students may confuse the idea that different wavelengths of EM radiation behave differently in materials (e.g., refraction) with the idea that their speed in a vacuum changes. Wavelength affects speed only when light travels through a medium, not in a vacuum. In a vacuum, all EM waves travel at the same constant speed:
+c = 3.0 x 108 m/s. While different wavelengths correspond to different frequencies, their product always equals c, meaning their speeds remain unchanged. However, in materials like glass or water, shorter wavelengths (e.g., blue light) slow down more than longer wavelengths (e.g., red light). This causes dispersion, such as the separation of colors in a prism, supporting the misunderstanding that wavelength always affects speed.
+	Critical concepts 
+      * All EM radiation travels the same speed in a vacuum, c = 3.0 x 108 m/s. 
+      * The relationship between wavelength and frequency is represented by the equation 𝑐 = 𝜆𝑓. The product of wavelength and frequency of EM waves will always yield c = 3.0 x 108 m/s in a vacuum.
+      * The speed of light changes slightly when traveling through materials like glass, water, or air.
+	How to address this misconception
+Provide exercises where students apply the mathematical relationship 𝑐 = 𝜆𝑓, such as the “Apply: electromagnetic waves” exercise from Lesson 1. Invite students to discuss the question “If a supernova occurred 20 light years from Earth, which band of the EM spectrum would arrive at Earth first?” Explain that if different wavelengths of EM radiation traveled at different speeds through the vacuum of space, then different bands of radiation from a star or other celestial objects would reach Earth at different times, which doesn't happen. Emphasize that EM radiation changes speed only when it travels through a material. This results in the dispersion of white light, which can be observed when sunlight passes through raindrops to produce a rainbow. Optical fiber dispersion can occur in fiber optic cables because the different wavelengths of light propagate through the cable at different speeds, resulting in signal loss.
+	________________
+Unit resources
+  
+
+      * Rabbit or duck?: Use this classic sketch to initiate a discussion about wave-particle duality.
+      * PhET Wave Interference: Use this simulation to explore wave interference and diffraction patterns.
+      * PhET Waves on a String: Use this simulation to investigate the properties of waves, and the relationship between wave speed, wavelength, and frequency.
+      * PhET Bending Light: Use this simulation to examine how light refracts using a wavefront model.
+      * Spectroscopy demonstrator: Use this simple simulation by Foothill College to examine atomic spectra.
+      * NASA Ozone Watch and NOAA Global Monitoring Laboratory: Use these resources to learn more about the ozone layer and the ozone hole.
+      * UV sensitive beads: Use these beads to explore the effectiveness of sunscreen at blocking UV radiation.
+      * Article and video note taking template (Doc | PDF): Use this printable template for structured note taking on the articles and videos in this unit.
+      * Graph paper template (Doc | PDF): Use this printable template for manual graphing exercises. 
+
+
+  
+
+      * UV Beads: Engage your students in exploring more about the EM spectrum with these UV-sensitive beads.
+      * Weekly Khan Academy quick planning guide (Doc | PDF):  Use this template to easily plan your week.
+      * Using Khan Academy in the classroom (Doc | PDF): Learn about teaching strategies and structures to support your students in their learning with Khan Academy.
+      * Differentiation strategies for the classroom (Doc | PDF): Read about strategies to support the learning of all students. 
+      * Using phenomena with the NGSS: Learn more about how to incorporate phenomena into NGSS-aligned lessons.
+      * Hands-on science activities from Khan Academy: Choose from Khan Academy’s collection of high-quality, ready-to-use, and free hands-on science activities. Each one is engaging, three-dimensional, phenomenon-based, and simple to implement.
+
+
+
+
+
+
+________________
+NGSS standards reference guide
+Performance expectations (PEs)
+      * HS‑PS4‑1: Use mathematical representations to support a claim regarding relationships among the frequency, wavelength, and speed of waves traveling in various media.
+      * HS‑PS4‑2: Evaluate questions about the advantages of using digital transmission and storage of information.
+      * HS‑PS4‑3: Evaluate the claims, evidence, and reasoning behind the idea that electromagnetic radiation can be described either by a wave model or a particle model, and that for some situations one model is more useful than the other.
+      * HS‑PS4‑4: Evaluate the validity and reliability of claims in published materials of the effects that different frequencies of electromagnetic radiation have when absorbed by matter.
+      * HS‑PS4‑5: Communicate technical information about how some technological devices use the principles of wave behavior and wave interactions with matter to transmit and capture information and energy.
+      * HS‑ESS2‑2: Analyze geoscience data to make the claim that one change to Earth’s surface can create feedbacks that cause changes to other Earth systems.
+      * HS‑ESS2‑4: Use a model to describe how variations in the flow of energy into and out of Earth’s systems result in changes in climate.
+      * HS‑ESS3‑6: Use a computational representation to illustrate the relationships among Earth systems and how those relationships are being modified due to human activity.
+________________
+
+
+Disciplinary core ideas (DCIs)
+      * HS‑PS3.D.2: Solar cells are human-made devices that likewise capture the Sun’s energy and produce electrical energy
+      * HS‑PS4.A.1: The wavelength and frequency of a wave are related to one another by the speed of travel of the wave, which depends on the type of wave and the medium through which it is passing.
+      * HS‑PS4.A.2: Information can be digitized (e.g., a picture stored as the values of an array of pixels); in this form, it can be stored reliably in computer memory and sent over long distances as a series of wave pulses.
+      * HS‑PS4.A.3: Waves can add or cancel one another as they cross, depending on their relative phase (i.e., relative position of peaks and troughs of the waves), but they emerge unaffected by each other.
+      * HS‑PS4.B.1: Electromagnetic radiation (e.g., radio, microwaves, light) can be modeled as a wave of changing electric and magnetic fields or as particles called photons. The wave model is useful for explaining many features of electromagnetic radiation, and the particle model explains other features.
+      * HS‑PS4.B.2: When light or longer wavelength electromagnetic radiation is absorbed in matter, it is generally converted into thermal energy (heat). Shorter wavelength electromagnetic radiation (ultraviolet, X-rays, gamma rays) can ionize atoms and cause damage to living cells.
+      * HS‑PS4.B.3: Photoelectric materials emit electrons when they absorb light of a high-enough frequency.
+      * HS‑PS4.B.4: Atoms of each element emit and absorb characteristic frequencies of light. These characteristics allow identification of the presence of an element, even in microscopic quantities.
+      * HS‑PS4.C.1: Multiple technologies based on the understanding of waves and their interactions with matter are part of everyday experiences in the modern world (e.g., medical imaging, communications, scanners) and in scientific research. They are essential tools for producing, transmitting, and capturing signals and for storing and interpreting the information contained in them.
+      * HS‑ESS1.A.2: The study of stars’ light spectra and brightness is used to identify compositional elements of stars, their movements, and their distances from Earth.
+      * HS‑ESS2.A.1: Earth’s systems, being dynamic and interacting, cause feedback effects that can increase or decrease the original changes.
+      * HS‑ESS2.D.1: The foundation for Earth’s global climate systems is the electromagnetic radiation from the Sun, as well as its reflection, absorption, storage, and redistribution among the atmosphere, ocean, and land systems, and this energy’s re-radiation into space.
+      * HS‑ESS2.D.3: Changes in the atmosphere due to human activity have increased carbon dioxide concentrations and thus affect climate.
+________________
+
+
+Science and engineering practices (SEPs)
+      * Asking questions and defining problems: Students progress to formulating, refining, and evaluating empirically testable questions and design problems using models and simulations.
+      * Developing and using models: Students progress to using, synthesizing, and developing models to predict and show relationships among variables between systems and their components in the natural and designed worlds.
+      * Planning and carrying out investigations: Students progress to include investigations that provide evidence for and test conceptual, mathematical, physical, and empirical models.
+      * Analyzing and interpreting data: Students progress to introducing more detailed statistical analysis, the comparison of data sets for consistency, and the use of models to generate and analyze data.
+      * Constructing explanations and designing solutions: Students progress to explanations and designs that are supported by multiple and independent student-generated sources of evidence consistent with scientific ideas, principles, and theories. 
+      * Engaging in argument from evidence: Students progress to using appropriate and sufficient evidence and scientific reasoning to defend and critique claims and explanations about the natural and designed world(s). Arguments may also come from current scientific or historical episodes in science.
+
+
+________________
+
+
+Crosscutting concepts (CCCs) and their implementation
+
+
+Crosscutting concept
+	Unit implementation
+	Patterns: Observed patterns of forms and events guide organization and classification, and they prompt questions about relationships and the factors that influence them.
+	Students identify patterns among properties of the different types of EM radiation. 
+	Cause and effect (Mechanism and explanation): Events have causes, sometimes simple, sometimes multifaceted. A major activity of science is investigating and explaining causal relationships and the mechanisms by which they are mediated. Such mechanisms can then be tested across given contexts and used to predict and explain events in new contexts.
+	Students examine how human activities can disrupt feedback loops that keep Earth’s systems stable. For example, increased carbon emissions enhance the greenhouse effect.
+	Systems and system models: Defining the system under study—specifying its boundaries and making explicitly a model of that system—provides tools for understanding and testing ideas that are applicable throughout science and engineering.
+	Students utilize models to illustrate how EM radiation interacts with various Earth systems.
+	Energy and matter (Flows, cycles, and conservation): Tracking fluxes of energy and matter into, out of, and within systems helps one understand the systems’ possibilities and limitations.
+	Students investigate how EM radiation interacts with matter in processes such as blackbody radiation, atmospheric scattering, and the photoelectric effect.
+	Structure and function: The way in which an object or living thing is shaped and its substructure determine many of its properties and functions.
+	Students evaluate the function of  various technologies that enable the use of EM radiation for electricity generation, communication, and space exploration.
+	Stability and change: For natural and built systems alike, conditions of stability and determinants of rates of change or evolution of a system are critical elements of study.
+	Students analyze how the energy transferred by EM radiation drives stability and change in Earth systems.

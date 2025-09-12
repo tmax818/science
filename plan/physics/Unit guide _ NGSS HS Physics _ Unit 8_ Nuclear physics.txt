@@ -1,0 +1,411 @@
+﻿Unit 8: Nuclear physics
+
+
+________________
+
+
+Overview
+In this unit, students will explore radioactive decay, half-life and its application to radiometric dating, and the processes of nuclear fission and fusion.
+Lesson 1: Students will develop and use models to represent the radioactive decay processes by which unstable parent nuclei spontaneously emit particles and change into daughter nuclei. 
+Lesson 2: Students will learn about half-life as a statistical property of radioisotopes and its use in radiometric dating.  Using mathematics and computational thinking, students will analyze scenarios to determine the half-life of a radioisotope, the number of elapsed half-lives, or the remaining sample quantity.
+Lesson 3: Hands-on science activity (see below) 
+Lesson 4: Students will use models of nuclear reactions to construct explanations for how nuclear fusion powers stars and produces elements.
+Lesson 5: Students will explore nuclear fission and learn about its application in power generation through chain reactions. 
+________________
+
+
+Hands-on science activity
+How do we know when dinosaurs lived on Earth?  
+Students will analyze and interpret data to model the exponential decay pattern observed for radioactive decay. Using this model, students will predict changes in a radioisotope sample over time and apply their understanding of half-life to a radiometric dating problem. 
+ Click here for links to the activity.
+________________
+
+
+Standards
+Performance expectations: HS-PS1-8 | HS-ESS1-1 | HS-ESS1-3 | HS-ESS1-6 
+Disciplinary core ideas:  HS‑PS1.C.1 | HS‑PS1.C.2 | HS‑ESS1.A.1 | HS-ESS1.A.4 | HS-PS3.D.4 
+Science and engineering practices:
+	Crosscutting concepts:
+	  
+  
+
+	  
+  
+
+	  
+  
+
+	  
+  
+
+	Click here to read the full standards.
+
+
+________________
+Essential questions
+* What are the similarities and differences between the alpha, beta, and gamma decay?
+* How do scientists use radiometric dating to determine the ages of ancient artifacts, fossils, and rocks?
+* What conditions are necessary for nuclear fusion and nuclear fission to occur, and how do these processes compare in terms of reactants, products, and energy output?
+Lesson notes
+Lesson 1: Radioactive decay
+
+PEs: HS-PS1-8
+DCIs: HS‑PS1.C.1
+	Resources
+  
+
+	Objectives
+	Teaching tips
+	* Explain why some nuclei are unstable, causing them to undergo radioactive decay.
+* Describe the structure of an alpha particle as a helium nucleus, beta particles as electrons or positrons, and gamma rays as electromagnetic radiation.
+* Compare the penetration power and ionizing ability of alpha, beta, and gamma radiation.
+* Interpret, write, and balance equations for  alpha, beta, and gamma decays.
+* Describe how the emission of alpha or beta particles affects the stability of the parent nucleus.
+* Predict the type of radioactive decay a particular nucleus will undergo based on its neutron to proton ratio and position on the periodic table.
+	* Introduce the unit with the early history of nuclear radiation discoveries by such figures as Roentgen, Becquerel,  Rutherford, and the Curies.
+* Review basic atomic structure and the principles of Coulomb's law from Unit 4. Emphasize that there are competing forces in the nucleus—the electric force of positively charged protons repelling each other and the attractive strong nuclear force holding nucleons (protons and neutrons) together. The ratio of protons to neutrons and the size of the nucleus will affect the balance of these forces and the stability of the nucleus.
+* Use graphic organizers, such as Venn diagrams, to help students differentiate between the types of nuclear radiation and their properties. 
+* Implement the PhET simulation “Build a Nucleus” to explore the different types of radioactive decay.  
+   * Assign each student several elements to explore. Students can build a nucleus of each element in the “Decay” module of the simulation. Nuclei that will decay are labeled as unstable.
+   * Task students with discovering two or three unstable isotopes of each element. The most likely type of decay will be highlighted in the “Available Decays” list when an unstable nucleus is formed. Have students record the type of decay most likely to occur, and write the corresponding nuclear decay equation.
+   * Extend the activity by inviting students to research the uses of the unstable isotopes they uncovered. (Some isotopes have no practical use due to an extremely short half life.)
+   * Discuss how a Geiger counter works to detect ionizing radiation. Some science suppliers offer radiation probes and safe samples of radioactive materials for demonstrations. Students can learn more about how Geiger counters work with this article from the NRC and this video by SciShow.
+   * For a virtual exploration of how a Geiger counter functions and comparison of the penetration of different types of radiation, check out the Geiger-Müller Tube simulation provided by Gigaphysics.
+   * Have students record data on the penetration power of the three radiation types by first recording the count without a barrier, then by adding in different types of barriers at varying thicknesses.
+   * Students can then select the unknown source and use their previous results to predict which type of radiation it emits.
+   * Encourage students to explore the PhET simulations  “Alpha Decay” and “Beta Decay” to visualize radioactive decay.
+	Lesson 2: Half-life and radiometric dating
+
+PEs: HS-ESS1-6
+DCIs: HS‑PS1.C.2
+	Resources
+  
+
+	Objectives
+	Teaching tips
+	   * Explain how the half-life of a radioisotope is used to predict the decay of a sample of the radioisotope.
+   * Explain why radioactive decay is a random process at the atomic level but predictable in large samples.
+   * Analyze decay graphs to interpret how the quantity of a radioactive isotope decreases over time.
+   * Apply knowledge of half-life and decay rates to explain how scientists use radiometric dating to approximate the ages of rocks, fossils, and artifacts.
+	   * Engage students with a short investigation about natural mummies, such as the Lindow Man, discovered in the bogs of northwest England, or Otzi the Iceman, found at the border of Austria and Italy. 
+   * Initially, have students explore the discovery of the natural mummies and introduce them to the idea that radioactive decay played a vital role in piecing together their past lives.
+   * Students can revisit this phenomenon after learning about half-life and explore how scientists used radiometric dating to determine the time period in which the humans lived.
+   * Review the lesson video “Half life” for an in-depth explanation of half-life that includes analogies and a breakdown of decay graphs.
+   * Use the PhET simulation “Radioactive Dating Game”  to explore half-life and radiometric dating techniques. This PhET activity offers a guided investigation of the simulation. Create a free PhET teacher account to access it.  Before implementing the simulation, discuss why different techniques (e.g., carbon-14, uranium-lead) are used for different objects.
+   * Implement the hands-on activity “How do we know when dinosaurs lived on Earth?” for deeper exploration of the random, yet predictable nature of radioactive decay and applications of radiometric dating (see Lesson 3).
+
+
+
+
+
+
+
+
+
+
+
+
+	Lesson 3: Hands-on science activity
+How do we know when dinosaurs lived on Earth?
+
+
+PEs: HS-ESS1-6
+DCIs: HS‑PS1.C.2
+	Resources
+  
+	Description
+	Links
+	Students will analyze and interpret data to model the exponential decay pattern observed for radioactive decay. Using this model, students will predict changes in a radioisotope sample over time and apply their understanding of half-life to a radiometric dating problem. 
+	   * Full activity overview (Khan Academy article)
+   * Student activity guide (Doc | PDF) 
+   * Teacher guide (Doc | PDF)
+
+
+	Lesson 3: Nuclear fusion
+
+PEs: HS-PS1-8, HS-ESS1-1, HS-ESS1-3
+DCIs: HS‑ESS1.A.1, HS-ESS1.A.4, HS-PS1.C.1, HS-PS3.D.4 
+	Resources
+  
+
+	Objectives
+	Teaching tips
+	      * Analyze the conditions required for initiating and sustaining fusion reactions, including temperature and pressure.
+      * Model the fusion of hydrogen isotopes into helium using nuclear equations.
+      * Explain how fusion powers stars and describe the sequence of nuclear reactions in the proton-proton chain in the Sun.
+      * Discuss the energy release in nuclear fusion and explain how mass is related to energy by E = mc².
+      * Describe how stellar nucleosynthesis produces new elements, and explain why stars can’t release energy by fusing elements heavier than iron.
+      * Explain why the conditions necessary to fuse elements heavier than iron are only met during supernova events.
+	      * Introduce the lesson with a thought-provoking question like “Where did the atoms that make up your body really come from?” Guide the class discussion toward the idea that lighter elements can combine into heavier ones through fusion. Before moving on, pose the follow up question “Why doesn’t fusion happen spontaneously all the time?”
+      * Discuss the types of nuclei involved in fusion reactions (e.g., light nuclei like hydrogen isotopes). Use a chart or graphic organizer to help students recognize that atomic number and mass number must balance on both sides of a nuclear equation.
+
+
+  
+
+
+
+      * Help students transition from the idea of mass and energy being separately conserved (in chemical reactions) to understanding mass-energy equivalence. Introduce E = mc² to quantify how mass is energy. Guide students through the real-world example of electron-positron annihilation. During the process, an electron and positron collide and cease to exist. The energy, released as gamma rays, is equivalent to the total mass-energy of the electron and positron (1.64 x 10-13 J or 1.02 MeV). Help students connect this to the broader idea that mass is energy, and in nuclear interactions small amounts of mass change correspond to large energy changes. Reinforce that this relationship is key to understanding nuclear reactions, and connect it to the loss of mass experienced by the Sun through fusion. Follow up with this video about the real meaning of E=mc2.
+      * Engage students with an exploration of star life cycles to introduce cross-curricular concepts. NASA offers a detailed look at the life cycles of stars and the role of fusion in creating heavier elements.
+	Lesson 4: Nuclear fission
+
+PEs: HS-ESS3-2, HS-PS1-8
+DCIs: HS-PS1.C.1
+	Resources
+  
+
+	Objectives
+	Teaching tips
+	      * Describe the fundamental differences between fission and fusion reactions in terms of the processes involved, the types of nuclei reacting, and the products.
+      * Discuss the energy release in nuclear fission and explain how mass is related to energy by E = mc².
+      * Analyze or create a model that illustrates how fission chain reactions release more energy than individual fission reactions.
+      * Balance and interpret nuclear fission equations, and determine the number of neutrons released in different reactions.
+      * Analyze the conditions required for initiating and sustaining fission chain reactions, such as critical mass and temperature.
+      * Compare controlled and uncontrolled chain reactions and differentiate between the types of reactions used in  nuclear reactors and atomic bombs.
+      * Explain how neutron absorption and fuel enrichment regulate fission reactions in nuclear reactors.
+	      * Launch the lesson by asking students “Why can nuclear power plants run safely, but nuclear bombs cause massive destruction?” Show a short video clip of a nuclear fission bomb detonation and a short video or image of a nuclear reactor. Guide students toward the conclusion that nuclear bombs are the result of uncontrolled nuclear reactions, while nuclear reactors implement numerous control measures.
+      * Discuss the types of nuclei involved in fission reactions (e.g., specific heavy nuclei like uranium-235) and the products of fission reactions. Use the Venn diagram template to have students compare and contrast fission and fusion. 
+      * Use a chart or graphic organizer to help students keep track of mass number and atomic number on both sides of nuclear equations for fission reactions. Provide examples where students must determine different parts of the equation from the information available. In the example given, the nuclear equation can be assembled from information in the chart, or the completed equation can be used to fill out the chart. Students may need extra support in reconciling the number of neutrons released during fission processes.
+
+                 
+      
+
+         * Use the PhET simulation “Nuclear Fission” to help students to visualize this process and understand why enrichment is important to increasing the amount of energy released during fission.
+         * Have students create a data table that includes the number of starting nuclei and the percent of nuclei fissioned. 
+
+
+
+
+
+# starting U-235 nuclei
+	% of starting nuclei fissioned
+	Trial 1
+	Trial 2
+	Trial 3
+	Total
+	10
+	
+
+	
+
+	
+
+	
+
+	20
+	
+
+	
+
+	
+
+	
+
+	30
+	
+
+	
+
+	
+
+	
+
+	40
+	
+
+	
+
+	
+
+	
+
+	50
+	
+
+	
+
+	
+
+	
+
+	
+
+         * Select the “chain reaction” module and begin with 10 nuclei of U-235. 
+         * Fire a neutron, watch the resulting chain reaction, and record the percentage of U-235 fissioned. Repeat the process two more times, then average the results.
+         * Increase the number of U-235 nuclei by 10, and repeat.
+         * Ask students to explain why enrichment of fissile materials is important, and why different amounts of enrichment have different applications (e.g., nuclear reactors vs nuclear bombs.)
+         * Students can also use the “nuclear reactor” module to explore how control rods limit the number of reactions by absorbing free neutrons.
+         * See the Related phenomena section for more information about how nuclear power plants utilize fission reactions to produce electricity while operating safely.
+	
+
+________________
+
+
+Related phenomena
+Example phenomenon  
+How do nuclear power plants safely use fission chain reactions to generate electricity?
+Background information
+Nuclear power plants safely generate electricity by using controlled nuclear fission chain reactions. In a fission reaction, a free neutron is absorbed by a fissile nucleus like  uranium-235 or plutonium-239, causing it to split it into smaller nuclei and release energy. This energy heats water to produce steam, which drives turbines connected to electrical generators. (In a coal or gas-fired plant, the steam is produced by combusting fuel to heat water.)
+Inside a nuclear reactor core, fuel rods containing fissile material are bombarded by neutrons to initiate fission reactions. Neutrons produced by these initial fission reactions go on to bombard other nuclei, leading to a self-sustaining chain reaction. To regulate this reaction, control rods made of neutron-capturing isotopes of boron, indium, or cadmium can be inserted into the reactor core to reduce the reaction rate or withdrawn to increase it.
+The fuel rods are immersed in water, which absorbs energy from the reaction to be used in generating electricity. Nuclear power plants in the United States use either a boiling-water reactor or a pressurized-water reactor. Both types of reactors use water heated by the reactor core to heat water into steam that is then used to spin turbines connected to an electric generator.
+In a boiling-water reactor, the reactor core heats water, producing steam directly to power a turbine. The steam is then condensed using a separate source of cooler, clean water and recirculated. In a pressurized-water reactor, the core heats pressurized water, which remains liquid under pressure and transfers heat to a separate water supply in a steam generator. This water turns to steam, drives turbines, and is then cooled and reused, while the pressurized  water cycles back to the core for reheating. The cloud or mist seen above cooling towers is always clean, non-radioactive water vapor.
+
+Exploring this phenomenon helps students develop and master the following understandings:
+         * Nuclear fission releases energy by splitting heavy nuclei such as uranium-235, producing smaller nuclei, neutrons, and releasing energy.
+         * A chain reaction sustains fission because released neutrons trigger additional fission events, enabling continuous energy production.
+         * Control rods regulate fission within a nuclear reactor by absorbing neutrons,  preventing an uncontrolled chain reaction and ensuring safe operation.
+	Tips for implementing phenomenon-based learning
+         * Ideas to encourage student engagement:
+         * Enhance student learning by connecting with nuclear energy professionals. If there is a nuclear power plant in your region, reach out to inquire about guest speakers, field trips, or educational materials. For schools without local plants, consider video conferencing with a nuclear engineer. Additionally, the U.S. Navy’s Nuclear Power Training Command may offer opportunities to hear from personnel who operate and maintain nuclear-powered submarines. Universities with nuclear engineering programs and agencies like the Nuclear Regulatory Commission (NRC) may also provide valuable educational resources. These connections help students explore real-world applications of nuclear energy, safety protocols, and career pathways in the field.
+         * Use the PhET simulation “Nuclear Fission” to help students visualize a chain fission reaction and understand how control rods regulate fission inside a nuclear reactor.
+         * Address the misconception that the clouds of condensation seen over cooling towers are harmful or radioactive. Explain to students that only clean water is cooled in the towers, and that the clouds are just condensed water.
+         * Discuss the various nuclear disasters that have occurred throughout history, such as the 1986 Chernobyl accident and the 2011 Fukushima disaster. Explain how the loss of cooling systems can lead to the meltdown of a nuclear reactor, in which the chain fission reaction becomes uncontrolled. There are a number of documentaries detailing these events. Be mindful that such events often involve the loss of human lives, and the topic may be sensitive for your students. Emphasize that nuclear power accidents are extremely rare and that the vast majority of nuclear plants operate for decades without incident, reliably producing large amounts of carbon-free power. This video from Kurzgesagt highlights the two worst nuclear accidents in history and compares the dangers from nuclear energy to other energy production methods.
+         * Implement a research activity that tasks students to compare nuclear energy to fossil fuels for large-scale electricity generation. Have students discuss the pros and cons of each, and address challenges such as the storage of spent nuclear fuel and carbon emissions.
+         * Sample prompts to elicit student ideas and encourage discussion:
+         * What isotopes are used for nuclear fission, and why?
+         * How is the nuclear fission reaction inside a reactor core sustained?
+         * How do control rods reduce the rate of the fission chain reaction when inserted into the reactor core?
+         * How is the energy released from fission reactions converted to electricity?
+         * What are the advantages and disadvantages of using nuclear fission to generate electricity compared to fossil fuels like coal and gas?
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+Example phenomenon  
+Where do we encounter natural and artificial sources of radiation?
+Background information
+Radiation is often associated with nuclear power and weapons, but in reality nuclear radiation is a natural and unavoidable part of our environment. Nuclear radiation refers to alpha particles, beta particles, and gamma rays which originate from radioactive decay. The sources of nuclear radiation can be categorized into natural sources, such as terrestrial background radiation, and manmade devices, such as medical devices and consumer products that contain or use radioisotopes.
+
+Terrestrial radiation comes from radioactive elements naturally present in the Earth’s crust. These elements have been around since the formation of the planet and continue to emit radiation as they decay over time. Certain rocks and soil naturally contain radioactive elements such as uranium-238, thorium-232, and potassium-40. Because of this, many foods naturally contain trace amounts of radioactive isotopes. For example, bananas contain potassium-40, which emits a small but measurable amount of nuclear radiation.
+A major source of natural radiation exposure is radon gas that seeps from the Earth’s crust. Radon is a colorless, odorless, and tasteless radioactive gas that comes from the natural decay of uranium-238 in rocks and soil. Because radon is a gas, it can move through the ground and enter buildings through cracks in foundations, basements, and water supplies. In poorly ventilated homes, radon can accumulate and pose health risks. Radon testing kits are available for homeowners to measure indoor radon levels.
+
+In addition to these natural sources, everyday items and technologies also expose us to safe amounts of radiation. For instance, smoke detectors use americium-241, a radioactive isotope, to detect smoke particles. Tritium, hydrogen-3, is used in watches and nightsight scopes for illumination. Compact fluorescent bulbs may contain a small amount of promethium-147 which helps to ionize gas inside the bulb as it powers on. In each of these applications, the nuclear radiation emitted is contained within the devices or is in amounts too small to be harmful. Nuclear radiation also has many applications in medicine, including SPECT scans and PET scans. Controlled use of nuclear radiation in technology and medical applications is both safe and beneficial.
+
+Exploring this phenomenon helps students develop and master the following understandings:
+         * Some atomic nuclei are unstable due to an imbalance of protons and neutrons, causing them to undergo radioactive decay to achieve stability.
+         * Different types of radiation (alpha, beta, and gamma) vary in composition, penetration power, and ionizing power.
+         * Natural and artificial radiation sources contribute to nuclear radiation exposure.
+	Tips for implementing phenomenon-based learning
+         * Ideas to encourage student engagement:
+         * After introducing nuclear decay, show a video, such as this one, that demonstrates the penetrating power of the different types of nuclear radiation. 
+         * Explain how a radon testing kit works and discuss why periodic radon testing is important. Provide students with a sample copy of  the results from a household radon test kit. Discuss the results and explain how a radon reduction system works. For more information about radon and radon testing, visit the EPA and the CDC.
+         * If you have access to a Geiger counter, use it to measure the background radiation levels at various locations around the building or campus. You can also use it to show that certain foods and materials, like bananas, low-sodium salt (with potassium), and granite, emit detectable levels of radiation above background levels. If you do not have access to a Geiger counter, consider reaching out to local city officials, fire departments, or first responders. They may be willing to bring in a Geiger counter and demonstrate its use. Alternatively, this video from BBC Earth Science demonstrates how many common household materials are radioactive. 
+         * Sample prompts to elicit student ideas and encourage discussion:
+         * Do you think nuclear radiation is always dangerous? Why or why not?
+         * What factors determine whether radiation exposure is harmful?
+         * Why are some radioactive materials, like americium-241 found in smoke detectors, able to be used safely inside homes?
+         * Why do different locations on Earth have different levels of background radiation?
+	Common student misconceptions
+Possible misconception: Exposure to radioisotopes undergoing alpha, beta, or gamma decay can make objects radioactive.
+A common misunderstanding is that exposure to particles emitted during alpha, beta, or gamma decay can make objects, such as clothing, food, or living things, radioactive. While materials can become contaminated with radioactive particles emitted during decay, external exposure to these particles does not make objects themselves radioactive.
+	Critical concepts
+         * Radioisotopes undergoing decay emit alpha particles, beta particles, or gamma radiation. Radioisotopes may decay into other radioisotopes, which also emit nuclear radiation, and can contaminate other materials.
+         * Direct contact with radioactive material can cause contamination, but the contaminated material itself does not become radioactive.
+         * Alpha and beta particles have low penetration and cannot deeply alter materials. Gamma rays pass through objects without making them radioactive.
+	How to address this misconception
+Explain that contamination results from exposure to actual radioactive material (such as dust particles) that collect on surfaces and can persist in the environment, often in the soil. These particles can transfer to clothing and other objects or can be ingested by animals. Emphasize that the half-life of radioactive contaminants can be used to estimate how long they will remain in the environment.
+Make sure students understand that patients undergoing radiation therapy do not become radioactive. Highlight that internal radiation sources (e.g., iodine-131 for thyroid treatment) actually make patients temporarily emit radiation, but that the source of the radiation is the radioisotope within the patient’s body. 
+
+Consider discussing processes that can induce radioactivity in materials, and differentiating these processes from natural radioactive decay.  For instance, when bombarded by neutrons, stable nuclei can absorb the neutrons, become unstable, then decay and emit nuclear radiation. This process, called neutron activation, occurs within nuclear reactors and causes some components to become radioactive.
+	
+
+Possible misconception: Nuclear power does not produce any waste because it is clean energy.
+Students may misunderstand the concept of clean energy and assume that since nuclear power is referred to as “clean energy,” it does not produce any waste products. Although nuclear energy does not emit carbon dioxide or other greenhouse gases directly, it does produce radioactive waste products that must be carefully managed.  
+	Critical concepts 
+         * During nuclear fission, fissile nuclei split into daughter nuclei. The daughter nuclei may be radioactive.
+         * "Clean energy" means low carbon emissions, not zero waste. Nuclear power does not produce greenhouse gases (during operation), but it still generates radioactive waste.
+         * Radioactive isotopes eventually decay into stable elements. Some isotopes decay in hours or even minutes, but others decay very slowly. The half-life of a radioisotope can be used to estimate its decay rate.
+	How to address this misconception
+Explain that nuclear fission produces radioactive byproducts, referred to as “nuclear waste,” which must be carefully stored. During the fission process, two things happen to the uranium in the fuel. First, uranium atoms split, releasing energy that is used to produce electricity. The fission reaction also yields radioactive daughter isotopes of lighter elements such as cesium-137 and strontium-90. These daughter isotopes  account for most of the penetrating radiation in nuclear waste. Second, some uranium atoms capture neutrons produced during fission. These atoms form heavier elements such as plutonium. These heavier-than-uranium elements (called transuranic waste) do not produce nearly the amount of penetrating radiation that fission products do, but they take much longer to decay. These wastes account for most of the radioactive hazard remaining in high-level waste after 1,000 years.
+
+
+Explore how storage facilities are constructed and the challenges associated with disposal and safe storage of nuclear waste. You can learn more about nuclear waste, its handling and storage by visiting the Nuclear Regulatory Commission and the Environmental Protection Agency. Beyond storage and disposal, it's also important to examine the broader environmental impact of nuclear energy, including the carbon footprint of uranium mining and processing. Consider investigating the carbon emissions produced from mining and enrichment of uranium ore and comparing the net emissions produced by nuclear power to those produced by fossil fuel power.
+	Unit resources
+  
+
+         * PhET Build a Nucleus: Use this simulation to investigate what makes a nucleus unstable and to explore the different types of radioactive decay.
+         * What is a Geiger counter?: Review this article from the NRC for a detailed summary of how a Geiger counter works.
+         * What makes a Geiger counter click?:  Show this short video from SciShow for a quick explanation of why Geiger counters make a clicking noise.
+         * Gigaphysics Geiger-Müller Tube: Use this simulation to explore how a Geiger counter functions and collect data from various radioactive samples.
+         *  PhET Alpha Decay and Beta Decay: Use these simulations to help students visualize alpha and beta decay.
+         * The Lindow Man and Who was Ozti the Iceman?: Learn about how scientists determine the age of natural mummies using radiometric dating.
+         * What is a half-life?: Use this short activity to introduce the concept of half-life.
+         * PhET Radioactive Dating Game and Activity: Implement this simulation to have students apply their understanding of radioactive decay and radiometric dating techniques.
+         * The Real Meaning of E=mc2: Show this video from PBS Space Time for a deeper exploration of E=mc2.
+         * NASA Star Basics: Use this resource to learn more about stars and the role of fusion in creating new elements.
+         * PhET Nuclear Fission: Use this simulation to help students to visualize nuclear fission and understand why enrichment is important to increasing the amount of energy released during fission.
+         * Worst Nuclear Accidents in history: Show this video from Kurzgesagt to supplement your discussion of nuclear power safety.
+         * Radon information and Radon map: Use these resources from the US Environmental Protection Agency to learn more about radon and where it is most concentrated in continental the United States.
+         * Radon testing information: review this resource from the Centers for Disease Control  to learn more about radon testing.
+         * Radiation penetration: Show this video to demonstrate the penetration power of different types of nuclear radiation.
+         * Radioactive Waste: Use this resource by the EPA to learn about the different types of radioactive waste and how it is handled.
+         * Are Brazile nuts radioactive?: Show this video to help students understand that natural sources of radiation are all around us.
+         * Article and video note taking template (Doc | PDF): Use this printable template for structured note taking on the articles and videos in this unit.
+         * Graph paper template (Doc | PDF): Use this printable template for manual graphing exercises. 
+         * Venn diagram template (Doc | PDF): Use this printable template for comparing and contrasting concepts.  
+
+
+
+
+
+
+  
+
+         * US Navy Nuclear Power Training Command: Reach out to the US Navy for information about educational opportunities and school visits. 
+         * NRC Backgrounder on radioactive waste: Use this resource to learn more about radioactive waste. PubChem Periodic Table of Elements and Printable Periodic Tables: Download various versions of the periodic table, including a blank template.
+         * Weekly Khan Academy quick planning guide (Doc | PDF):  Use this template to easily plan your week.
+         * Using Khan Academy in the classroom (Doc | PDF): Learn about teaching strategies and structures to support your students in their learning with Khan Academy.
+         * Differentiation strategies for the classroom (Doc | PDF): Read about strategies to support the learning of all students.  
+         * Using phenomena with the NGSS: Learn more about how to incorporate phenomena into NGSS-aligned  lessons.
+         * Hands-on science activities from Khan Academy: Choose from Khan Academy’s collection of high-quality, ready-to-use, and free hands-on science activities. Each one is engaging, three-dimensional, phenomenon-based, and simple to implement.
+
+
+________________
+
+
+NGSS standards reference guide
+Performance expectations (PEs)
+         * HS-PS1-8: Develop models to illustrate the changes in the composition of the nucleus of the atom and the energy released during the processes of fission, fusion, and radioactive decay.
+         * HS-ESS1-1: Develop a model based on evidence to illustrate the life span of the sun and the role of nuclear fusion in the sun’s core to release energy that eventually reaches Earth in the form of radiation.
+         * HS-ESS1-3: Communicate scientific ideas about the way stars, over their life cycle, produce elements.
+         * HS-ESS1-6: Apply scientific reasoning and evidence from ancient Earth materials, meteorites, and other planetary surfaces to construct an account of Earth’s formation and early history.
+________________
+
+
+Disciplinary core ideas (DCIs)
+         * HS‑PS1.C.1: Nuclear processes, including fusion, fission, and radioactive decays of unstable nuclei, involve release or absorption of energy. The total number of neutrons plus protons does not change in any nuclear process.
+         * HS‑PS1.C.2: Spontaneous radioactive decays follow a characteristic exponential decay law. Nuclear lifetimes allow radiometric dating to be used to determine the ages of rocks and other materials.
+         * HS‑ESS1.A.1: The star called the sun is changing and will burn out over a lifespan of approximately 10 billion years.
+         * HS‑ESS1.A.4: Other than the hydrogen and helium formed at the time of the Big Bang, nuclear fusion within stars produces all atomic nuclei lighter than and including iron, and the process releases electromagnetic energy. Heavier elements are produced when certain massive stars achieve a supernova stage and explode.
+         * HS‑PS3.D.4: Nuclear fusion processes in the center of the sun release the energy that ultimately reaches Earth as radiation.
+________________
+
+
+Science and engineering practices (SEPs)
+         * Developing and using models: Students progress to using, synthesizing, and developing models to predict and show relationships among variables between systems and their components in the natural and designed worlds.
+         * Using mathematics and computational thinking: Students progress to using algebraic thinking and analysis, a range of linear and nonlinear functions including trigonometric functions, exponentials and logarithms, and computational tools for statistical analysis to analyze, represent, and model data. Simple computational simulations are created and used based on mathematical models of basic assumptions.
+         * Analyzing and interpreting data: Students progress to introducing more detailed statistical analysis, the comparison of data sets for consistency, and the use of models to generate and analyze data.
+         * Constructing explanations and designing solutions: Students progress to explanations and designs that are supported by multiple and independent student-generated sources of evidence consistent with scientific ideas, principles, and theories.
+________________
+
+
+Crosscutting concepts (CCCs) and their implementation
+Crosscutting concept
+	Unit implementation
+	Systems and system models: Defining the system under study—specifying its boundaries and making explicitly a model of that system—provides tools for understanding and testing ideas that are applicable throughout science and engineering.
+	Students utilize models of nuclear changes to explain what happens during nuclear decay and nuclear reactions.
+	Energy and matter: Flows, cycles, and conservation. Tracking fluxes of energy and matter into, out of, and within systems helps one understand the systems’ possibilities and limitations.
+	Students evaluate the mass loss that occurs during  nuclear reactions to explain why fission and fusion release large amounts of energy.
+	Stability and change: For natural and built systems alike, conditions of stability and determinants of rates of change or evolution of a system are critical elements of study.
+	Students investigate how radioisotopes undergo nuclear changes to become stable.
+	Patterns: Observed patterns of forms and events guide organization and classification, and they prompt questions about relationships and the factors that influence them.
+	Students recognize patterns in the decay rates of radioisotopes and use the concept of half-life to make predictions about the remaining quantity of a substance over time, the age of geological and archaeological samples, and the stability of different isotopes.

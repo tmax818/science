@@ -1,0 +1,237 @@
+﻿Unit 4: Electrostatics
+________________
+Overview
+In this unit, students will investigate the electric force through Coulomb’s law and discover how this fundamental force is responsible for contact forces, such as friction, and determines the properties of materials.
+Lesson 1: Students will use mathematical thinking to explore the relationship between electric charge and the electric force as described by Coulomb’s law and use models to examine how charges behave in an electric field.
+Lesson 2: Students will examine how electrically neutral objects can develop a static net charge by gaining or losing electrons. They will investigate how objects with opposite charges attract, like charges repel, and construct explanations to explain how neutral objects can be attracted to charged objects by polarization.
+Lesson 3: Hands-on science activity (see below)
+________________
+
+
+Hands-on science activity  
+Why do clothes develop static cling in a dryer?
+Students will construct an electroscope and carry out an investigation using a charged balloon to develop an understanding of Coulomb’s law. They will analyze the cause and effect relationships behind static electricity and construct an explanation using evidence to explain why dryers cause significant static electricity to accumulate and why clothes stick together. Click here for links to the activity.
+________________
+
+
+Standards
+Performance expectations: HS‑PS2‑4
+
+
+Disciplinary core ideas: HS‑PS2.B.1 |  HS‑PS2.B.2 |  HS‑PS2.B.3
+Science and engineering practices:
+	Crosscutting concepts:
+	  
+  
+  
+
+	  
+  
+
+	  
+  
+
+	  
+
+	Click here to read the full standards.
+
+
+________________
+Essential questions
+* What is the relationship between electric charge, distance, and the electric force?
+* How can an electrically neutral object develop a net charge?
+* How do charged and uncharged macroscopic objects interact with each other at a distance?
+________________
+
+
+Lesson notes
+Lesson 1: Coulomb’s law
+
+PEs: HS‑PS2‑4
+DCIs: HS‑PS2.B.1, HS‑PS2.B.2, HS‑PS2.B.3 
+	Resources
+  
+
+	Objectives
+	Teaching tips
+	* Describe the attraction and repulsion between electric charges. 
+* Explain what it means for an object to have a net charge that is positive or negative.
+* Describe how a charge behaves in an electric field. 
+* Apply mathematical thinking to explain how the electric force between two objects is affected by the charges of the objects and by the distance between their centers using Coulomb’s law.
+	* Introduce the unit with a short lesson on the charges of subatomic particles, and elicit students’ ideas about how charges behave. 
+* Guide students to compare and contrast Coulomb’s law with Newton’s law of gravitation. A Venn diagram may help students organize their ideas. Highlight that both laws exhibit inverse square relationships, and that both forces depend on separation distance.
+* Use demonstrations (such as showing the interaction between charged balloons) to illustrate the relationships between electric force, charge, and distance. 
+* The PhET activity “Coulomb’s Law” provides a virtual exploration of Coulomb’s law, and includes visuals to enhance student understanding of the relationships between variables. Have students create a data table to record the magnitude of force between the objects as the distance between them increases, then model the relationship with a graph of force vs distance. The graph will show an inverse square relationship. Consider following up the activity with discussion questions. Here are some sample questions:
+   * How does the force acting on each charged object at the macro scale compare in magnitude and direction when the amount of charge is the same? How do they compare when one charge is twice as strong as the other? Which of Newton’s laws describes the behavior of this force pair?
+   * How does the force acting on each charged object at the macro scale object change as the distance between the charges increases? If the distance between each object was doubled, how would the force change?
+* Use a hands-on activity to help students understand the "why" behind an inverse square relationship. Have them shine a flashlight through a 1 cm square cutout onto a sheet of 1 cm grid paper so the light initially fills one square. Then, double the distance between the cutout and the paper, and record how many squares the light now covers. Repeat this process several times and create a corresponding graph to reveal an inverse square relationship.
+
+
+
+
+	Lesson 2: Static electricity
+
+PEs: HS‑PS2‑4
+DCIs: HS‑PS2.B.1 
+	Resources
+  
+
+	Objectives
+	Teaching tips
+	* Develop and use models to explain the process of electric charge polarization and describe the distribution of charge on a polarized object.
+* Explain how friction can facilitate the transfer of charge between materials to produce static electricity.
+* Apply an understanding of static electricity to construct explanations of real-world interactions, such as a charged balloon attracting neutral paper bits by analyzing charge transfer, electric forces, and polarization.
+
+
+	* Explain that the term "electrostatic force" specifically describes the electric force between stationary (or slow-moving) charged particles or objects. 
+* Introduce the concept that electrical conductors allow charge to easily flow, and insulators inhibit the flow of charge. These concepts will be discussed more in Unit 6.
+* Explain that contact forces, such as friction and tension, are a result of electrostatic forces between the atoms of each surface in contact.
+* Use short activities or demonstrations that allow students to explore static electricity. For an inquiry-based approach, provide student groups with a set of materials (such as balloons, cloth strips, fleece, pieces of PVC pipe, aluminum foil, string, etc.) and allow them to explore the effects of static electricity in an open-ended manner. Have them record their findings about static electricity and compare observations.
+* Use the PhET simulation “Balloons and Static Electricity” as a class opener activity to prompt discussions about how objects can become charged through friction, and how polarization can lead to a charged object (balloon) sticking to a neutral object (wall).
+* Implement the hands-on activity “Why do clothes develop static cling in a dryer?” for a deeper exploration of Coulomb’s law, the electrostatic force, and static electricity (see Lesson 3).
+
+
+	Lesson 3: Hands-on science activity
+Why do clothes develop static cling in a dryer?
+
+
+PEs: HS‑PS2‑4
+DCIs: HS‑PS2.B.1
+	Resources
+  
+	Description
+	Links
+	Students will construct an electroscope and carry out an investigation using a charged balloon to develop an understanding of Coulomb’s law. They will analyze the cause and effect relationships behind static electricity and construct an explanation using evidence to explain why dryers cause significant static electricity to accumulate and why clothes stick together.
+	* Full activity overview (Khan Academy article)
+* Student activity guide (Doc | PDF)
+* Teacher guide (Doc | PDF)
+	Related phenomena
+Example phenomenon  
+How can a thunderstorm make your hair stand on end?
+Background information
+A lightning strike is a serious threat during a thunderstorm. Lightning fatalities in the United States average around twenty per year, and hundreds more are injured from lightning strikes. Lightning occurs either between different parts of a thunderstorm, or between the storm and the ground. One warning sign of an imminent cloud to ground lightning strike is the sensation of prickly skin or hair visibly standing on end. Both of these effects are the result of a buildup of electrostatic charge.
+
+For lightning to occur, a thunderstorm must extend high enough into the atmosphere to support the formation of hailstones. Strong updrafts carry liquid water droplets to the freezing cold upper regions of the storm, while downdrafts push hailstones toward the ground. 
+Collisions between hailstones and water droplets cause the transfer of electrons to the hailstones. As a result, hailstones become negatively charged and move toward the base of the thunderstorm, while the smaller positively charged droplets are carried to the top. This process causes the base of the thunderstorm to accumulate a large negative charge, while the top builds a large positive charge.  
+ 
+The negative charge at the thunderstorm’s  base repels electrons on the ground below. This results in a positive charge on the ground and on objects, including people. Although the base of a thunderstorm may be several kilometers above the ground, the magnitude of the charge present at the base is large enough to interact with objects on the ground. A person underneath the thunderstorm may feel their hair stand on end as their body becomes positively charged with static electricity. 
+Many people have taken photos of themselves experiencing this effect, not realizing that they were in danger of being struck by lightning.
+
+
+Exploring this phenomenon helps students develop and master the following understandings:
+* Friction or contact between materials can transfer electrons and lead to a net charge on the objects.
+* Opposite charges attract, while like charges repel.
+* Coulomb’s law describes the relationship between electric force, charge, and distance.
+* The electric field from a charged object can redistribute charges on nearby objects.
+
+
+	Tips for implementing phenomenon-based learning
+* Rub a balloon on your hair to facilitate a charge transfer between the balloon and your body. When the balloon is moved away, the hair will stand on end.  A doll with long hair or a stuffed animal with long fur also works well. Students may have experienced a similar occurrence when removing a sweater or pullover coat. This is best performed on a day with low humidity. Individual strands of hair will separate from each other because they have the same charge. Ask students to explain what they observe using key terms and ideas from the unit. 
+* A Van de Graaff generator is a fantastic way to explore this phenomenon. Inside the generator, a moving belt transfers electrons away from the metal dome, leaving a net positive electric charge. Before starting the generator, place a hand on the dome, then start it. Your body will also develop a positive charge, and you may see the hairs on your arms and head begin standing on end. A doll with long hair or a stuffed animal with long fur also work well to show the effect. Individual strands of hair will separate from each other because they have the same charge. Ask students to explain what they observe using key terms and ideas from the unit. The discharge and resulting spark that may occur when removing your hands from the generator is a phenomenon that will be discussed in unit 6.
+* There are numerous images and videos available on the internet that show people experiencing the buildup of static electricity beneath a thunderstorm. Use these videos and images to introduce the phenomenon. Follow up with a discussion about thunderstorm and lightning safety. The National Oceanic and Atmospheric Administration (NOAA) provides lots of resources about lightning safety. 
+* Challenge students to create a lightning safety awareness poster that includes an explanation of why the hair standing on end phenomenon is a sign of danger, and steps they can take to remain safe in a thunderstorm.
+* You can revisit this phenomenon with your students in unit 6 to explore why lightning strikes occur.
+* For more information about the process of lightning formation, check out this article by NOAA.
+* To learn more about Michael and Sean Miquilken and their experience, check out this article by NBC.
+* Prompts to engage student thinking:
+   * What causes a person’s hair to stand on end when they’re in the positively charged area beneath a thunderstorm? What causes the individual hair strands to separate from each other?
+   * What happens to the negative charges in the area below a thunderstorm?
+   * Why can the charge at the base of a thunderstorm interact with objects on the ground, even though the storm is several kilometers above the surface?
+   * How is the process of charge separation in a thunderstorm similar to other processes that generate static electricity, such as rubbing your feet on carpet?
+	
+
+
+
+________________
+Common student misconceptions
+Possible misconception: Charged objects can only attract or repel other charged objects.
+Students may incorrectly conclude that the electrostatic force can only affect macroscopic objects that have a net charge. Students may not recognize the role of polarization in allowing charged objects to interact with net neutral objects.
+	Critical concepts
+* An electric field exists around all charged objects. This electric field creates an electric force that acts on other charges within the field.
+* An electric field can induce a temporary redistribution of charged particles within the atoms of a neutral object. This process, called polarization, creates regions of partial positive and negative charge while the overall object remains electrically neutral.
+* When a polarized object is no longer in the presence of an external electric field, its charged particles will return to their original distribution and the polarized regions will no longer be present.
+	How to address this misconception
+Demonstrations are an excellent means to address students’ misunderstandings about the attraction and repulsion of objects due to the electrostatic force. Show charged objects attract neutral objects using simple examples, such as a charged comb picking up neutral bits of paper or a charged balloon sticking to a wall. Before charging one object in the demonstration, be sure to show students how it behaves while neutral (a neutral comb will not interact with the paper pieces, and a neutral balloon will not stick to the wall). Use models along with the demonstrations that guide students through the process of polarization before, during, and after a neutral object interacts with a charged object. You can find an example of this, along with a thorough exploration of polarization in the hands-on activity for this unit, “Why do clothes develop static cling in a dryer?”
+	
+
+Possible misconception: Friction creates charges that cause static electricity to build up on objects.
+Students may misunderstand the role of friction in charging objects and the fundamental nature of electric charge. Friction does not create charges; rather, it facilitates the transfer of existing electrons between materials, which results in a net charge on the materials. Matter typically contains (approximately) equal numbers of protons (positive charge) and electrons (negative charge), making it electrically neutral under normal conditions. When two materials come into contact and are then separated, friction can cause electrons to transfer from one material to the other, leaving one object with a net positive charge and the other with a net negative charge. The resulting charge on each material depends on the materials’ tendencies to gain or lose electrons. The total charge remains conserved, meaning no new charges are created—only redistributed.
+	Critical concepts
+* Charged particles (protons and electrons) exist in all matter, and objects are naturally neutral unless charge is transferred.
+* Static electricity results from the imbalance of charges on an object.
+* When two objects come into contact, electrons can transfer between them, leading to a charge imbalance. Friction often enhances this process by increasing the contact between surface areas, facilitating more electron transfer.
+* Insulators build up static electricity more easily than conductors.
+	How to address this misconception
+It is essential for students to understand that there are two types of electric charge (positive and negative), and that each type of net charge arises from the transfer of electrons. Engage students with a demonstration that shows how these two types of charges can be induced through electron transfer using the same set of materials. For example, use two balloons and a piece of cloth (wool works well). 
+* Rub the cloth on one of the balloons. Electrons will transfer from the cloth to the balloon, resulting in a positive net charge on the cloth and a negative net charge on the balloon. The two materials will stick together from the electrostatic force. 
+* Next rub the cloth onto both balloons. The cloth will transfer electrons to the balloons, giving each a negative net charge. Bring the balloons near each other and they will repel due to the electrostatic forces.
+* Supplement the demonstration with diagrams that guide students through the processes seen in the demonstration. Highlight the process of charge transfer that occurs during the demonstration. The PhET simulation “Balloons and Static Electricity” provides an excellent visual of charge transfer.
+	
+
+
+
+
+
+
+
+
+
+________________
+
+
+Unit resources
+  
+
+* PhET  Balloons and Static Electricity: Use this virtual demonstration to help students visualize charge transfer and polarization.
+* PhET  Coulomb’s Law: Implement this simulation to have students explore the relationship between electrostatic force, charge magnitude, and separation distance.
+* How is Lightning Created?: Use this article from NOAA to explore the details about how thunderstorms produce lightning.
+* Michael and Sean Micquilken’s story: Read NBC’s story behind the famous image of two brothers experiencing the effects of an electric field moments before being struck by lightning.
+* Article and video note taking template (Doc | PDF): Use this printable template for structured note taking on the articles and videos in this unit.
+* Graph paper template (Doc | PDF): Use this printable template for manual graphing exercises.
+
+
+  
+
+* Lightning Safety Tips and Resources: Use this website from the National Weather Service for information and resources to help teach your students about lightning safety.
+* Weekly Khan Academy quick planning guide (Doc | PDF):  Use this template to easily plan your week.
+* Using Khan Academy in the classroom (Doc | PDF): Learn about teaching strategies and structures to support your students in their learning with Khan Academy.
+* Differentiation strategies for the classroom (Doc | PDF): Read about strategies to support the learning of all students. 
+* Using phenomena with the NGSS: Learn more about how to incorporate phenomena into NGSS-aligned  lessons.
+* Hands-on science activities from Khan Academy: Choose from Khan Academy’s collection of high-quality, ready-to-use, and free hands-on science activities. Each one is engaging, three-dimensional, phenomenon-based, and simple to implement.
+
+
+
+
+
+
+________________
+NGSS standards reference guide
+Performance expectations (PEs)
+* HS-PS2-4: Use mathematical representations of Newton’s Law of Gravitation and Coulomb’s Law to describe and predict the gravitational and electrostatic forces between objects.
+________________
+
+
+Disciplinary core ideas (DCIs)
+* HS‑PS2.B.1: Newton’s law of universal gravitation and Coulomb’s law provide the mathematical models to describe and predict the effects of gravitational and electrostatic forces between distant objects.
+* HS‑PS2.B.2: Forces at a distance are explained by fields (gravitational, electric, and magnetic) permeating space that can transfer energy through space. Magnets or electric currents cause magnetic fields; electric charges or changing magnetic fields cause electric fields.
+* HS‑PS2.B.3: Attraction and repulsion between electric charges at the atomic scale explain the structure, properties, and transformations of matter, as well as the contact forces between material objects.
+Science and engineering practices (SEPs)
+* Developing and using models: Students progress to using, synthesizing, and developing models to predict and show relationships among variables between systems and their components in the natural and designed worlds.
+* Planning and carrying out investigations: Students progress to include investigations that provide evidence for and test conceptual, mathematical, physical, and empirical models.
+* Using mathematics and computational thinking: Students progress to using algebraic thinking and analysis, a range of linear and nonlinear functions including trigonometric functions, exponentials and logarithms, and computational tools for statistical analysis to analyze, represent, and model data. Simple computational simulations are created and used based on mathematical models of basic assumptions.
+* Constructing explanations and designing solutions: Students progress to explanations and designs that are supported by multiple and independent student-generated sources of evidence consistent with scientific ideas, principles, and theories. 
+* Engaging in argument from evidence: Students progress to using appropriate and sufficient evidence and scientific reasoning to defend and critique claims and explanations about the natural and designed world(s). Arguments may also come from current scientific or historical episodes in science.
+________________
+
+
+Crosscutting concepts (CCCs) and their implementation
+
+
+Crosscutting concept
+	Unit implementation
+	Patterns: Observed patterns of forms and events guide organization and classification, and they prompt questions about relationships and the factors that influence them.
+	Students identify patterns in the behavior of charged objects.
+	Cause and effect (Mechanism and explanation): Events have causes, sometimes simple, sometimes multifaceted. A major activity of science is investigating and explaining causal relationships and the mechanisms by which they are mediated. Such mechanisms can then be tested across given contexts and used to predict and explain events in new contexts.
+	Students analyze the cause and effect relationship behind static electricity and electric charge polarization.
+	Energy and matter (Flows, cycles, and conservation): Tracking fluxes of energy and matter into, out of, and within systems helps one understand the systems’ possibilities and limitations.
+	Students explore how electric charge in matter results from an imbalance of protons and electrons.

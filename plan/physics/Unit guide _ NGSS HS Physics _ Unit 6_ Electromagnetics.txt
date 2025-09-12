@@ -1,0 +1,316 @@
+﻿Unit 6: Electromagnetics
+________________
+Overview
+In this unit, students will explore the fundamental relationships between electricity and magnetism and discover how they work together to power our modern world.
+Lesson 1: Students will develop and use models to explore the concept of electric potential as the electric potential energy per unit charge. They will then apply this concept to examine situations where a voltage exists between two points and use their understanding to explain why electric current flows.
+Lesson 2: Students will analyze the properties of magnetic fields produced by current-carrying wires and loops.
+Lesson 3: Students will investigate how forces can interact with current-carrying wires, and engage in argument from evidence to explain how electric motors function.
+Lesson 4: Students will examine the process of electromagnetic induction, and learn how its possible to generate electric current using wires and a changing magnetic field.
+Lesson 5: Hands-on science activity (see below)
+Lesson 6: Students will evaluate the process of producing electric current using AC and DC generators.
+________________
+
+
+Hands-on science activity  
+How can motion produce electricity?
+Students will apply the concepts of energy transformations and electromagnetic induction to build an electric generator that can power an LED. They will then design a solution to continuously spin their generator by constructing a wind-powered turbine. Click here for links to the activity.
+________________
+
+
+Standards
+Performance expectations:  HS‑PS2‑5 |  HS‑PS3‑3 
+
+
+Disciplinary core ideas: HS‑PS2.B.2 | HS‑PS3.A.1 | HS‑PS3.A.3 | HS‑ESS3.A.2
+Science and engineering practices:
+	Crosscutting concepts:
+	  
+  
+
+	  
+
+	  
+  
+
+	  
+
+	Click here to read the full standards.
+
+
+________________
+Essential questions
+* How does a difference in electric potential (voltage) cause electric current to flow?
+* What are the properties of magnetic fields produced by current-carrying wires and loops?
+* How does the interaction between current-carrying wires and electric force explain how electric motors function?
+* How do electric generators convert various forms of energy into electrical energy?
+* What is the difference between alternating current and direct current?
+________________
+
+
+Lesson notes
+Lesson 1: Voltage and current
+
+PEs: HS‑PS2‑5
+DCIs: HS‑PS2.B.2, HS-PS3.A.1
+	Resources
+  
+
+	Objectives
+	Teaching tips
+	* Describe electric potential as a measure of potential energy per unit charge.
+* Explain how the electric potential energy of a charge depends on the charge’s magnitude and location in an electric field.
+* Define voltage as the difference in electric potential between two points.
+* Predict a particle’s change in electric potential energy based on its movement across an electric field.
+* Define electric current as the net rate that charge flows through a cross-sectional area per unit time.
+* Explain that electric current flows when there is an electric potential difference across two points and a path for charge carriers to move freely.
+* Explain that electrical conductors are materials which contain numerous electrons that are free to move, and that electrical insulators are materials in which electrons are tightly bound and cannot freely move.
+	* Use models to draw parallels between gravitational potential and electric potential to explain how charges gain or lose electric potential energy. For example, the gravitational potential (joules per kilogram) of a mass in a gravitational field depends upon its location, or height, in the field. Likewise, the electric potential, or voltage, (joules per coulomb) of a charge in an electric field depends upon its location in the field. The example below shows how the electric potential energy of a charge (q) changes as it is moved through an electric field.
+  
+
+* Show the “Voltage” video from this lesson to illustrate the concepts of electric potential and electric potential energy.
+* Reinforce that voltage is a difference in electric potential between two points. Emphasize that voltage is not "used up" when a charge moves from higher to lower electric potential. Apply this idea to the voltage listed on batteries and explain that it is not a measure of a battery’s energy capacity, but the difference in electric potential between the positive and negative terminals.
+* Explain that, while electrons are the primary charge carriers in metals, positively and negatively charged ions can also act as charge carriers.
+* Clarify the historical convention of current flow (positive to negative) versus the actual electron flow (negative to positive). The video for this lesson, “Electric current,” gives a detailed explanation.
+	Lesson 2: Magnetic field due to current
+
+PEs: HS‑PS2‑5
+DCIs: HS‑PS2.B.2
+	Resources
+  
+
+	Objectives
+	Teaching tips
+	* Apply the right hand rule to determine the orientation and direction of the magnetic field around a straight current-carrying wire and a current-carrying wire loop.
+* Use models to depict the orientation of a magnetic field around a straight wire and wire loop.
+* Discuss the similarities and differences between the magnetic fields produced by bar magnets and current-carrying loops.
+* Describe the structure and function of a solenoid.
+* Describe the shape and orientation of the magnetic field produced by an electromagnet.
+* Explain how the strength of an electromagnet’s magnet field depends on the amount of electric current.
+* Explain why adding a soft iron core to an electromagnet increases the magnetic field strength.
+
+
+	* Engage your students in discovering the relationship between electricity and magnetism! Provide wires, batteries, and compasses for students to investigate the magnetic field around a wire.
+   * Connect a wire to one terminal of a battery. Pass the wire over the top of the compass.
+   * Connect the free end of the wire to the other terminal of the battery. The compass needle should deflect and remain deflected until the wire is disconnected.  
+   * Invite students to explore by varying the distance of the wire to the compass, placing the wire below the compass or to the side, and adding more batteries to increase the current.
+   * Discuss the results of the investigation. Guide students to the understanding that a magnetic field is created around the wire when current is following, and that the amount of current and direction of flow changes the strength and direction of the field, respectively.
+   * After discussing their findings, provide a demonstration using a wire passed vertically through a square of cardboard, Place several compasses around the wire, and have students observe their deflection when current is flowing. Use the results to introduce the right hand rule.
+* Include a short history lesson on Hans Christian Øersted’s discovery of magnetic fields created around current-carrying wires.
+* Use the electromagnet portion of the PhET simulation “Magnets and Electromagnets” to help students visualize the magnetic field produced around a solenoid.
+* Guide students to create their own electromagnets using coated copper wire, several batteries, and a soft iron core such as a large nail or construction spike.
+   * Allow students the chance to explore ways to change the strength of the electromagnet by varying the current and the number of loops in the solenoid. The strength of the electromagnet can be gaugued by observing the degree of compass deflection at different distances from the magnet.
+* Have students compare and contrast the properties of magnetic fields produced by bar magnets and current-carrying loops using a Venn diagram.
+
+
+
+
+
+	Lesson 3: Electric motors
+
+PEs: HS‑PS2‑5, HS‑PS3‑3
+DCIs:  HS‑PS2.B.2
+	Resources
+  
+
+	Objectives
+	Teaching tips
+	   * Explain that the magnitude of force experienced by a current-carrying wire in a magnetic field is directly related to the magnitude of current.
+   * Explain that the magnitude of force experienced by a current-carrying wire in a magnetic field is at a maximum when the wire is perpendicular to the direction of the field, and at a minimum when the wire is parallel to the direction of the field.
+   * Discuss how the direction of the force felt by a current carrying wire in a magnetic field is affected by the direction of the current and the direction of the magnetic field.
+   * Explain how a commutator allows an electric motor to continuously spin.
+	   * Introduce the lesson by asking students to predict what will happen when a piece of copper wire is placed within a magnetic field. Use a piece of copper wire and a magnet to demonstrate that the wire is not affected by a magnetic field. Follow up with a video that shows the behavior of a current carrying wire in a magnetic field, like this one. Ask students to share their ideas about why the wire only experiences a force when current is flowing through it.
+   * Clarify that the direction of the force applied to a current carrying wire is perpendicular to both the wire and the magnetic field.
+   * Relate the force experienced by the wire to Newton’s third law by explaining that:
+   * The magnetic field exerts a force on the current-carrying wire.
+   * The wire’s current produces a magnetic field that exerts an equal and opposite force on the magnet or source of the field.
+   * Provide a blank diagram of a simple electric motor consisting of two magnets, a rectangular coil, and a commutator. Have students identify and label the motor components and describe their functions.
+   * Guide students to build simple homopolar motors using a battery, copper wire, and a magnet. Discuss why the motor is able to spin, and apply the left hand rule to explain the direction of the motor.
+	Lesson 4: Electromagnetic induction
+
+PEs: HS‑PS2‑5, HS‑PS3‑3
+DCIs: HS‑PS2.B.2
+	Resources
+  
+
+	Objectives
+	Teaching tips
+	   * Describe the process of electromagnetic induction to explain how a changing magnetic field can induce an electric current in a conductor.
+   * Describe different methods to increase the amount of induced current:
+   * increasing the strength of the magnetic field.
+   * increasing the number of loops in the conducting wire.
+   * increasing the speed of relative motion between the conducting wire and the magnetic field.
+
+
+
+   * Discuss how the relative motion between a magnetic field and a conducting loop affects the direction of current.
+   * Analyze scenarios involving a magnetic field and a conducting loop to determine when an electric current is induced.
+	   * Introduce the lesson with the “Faraday’s Electromagnetic Lab” simulation by PhET. Instruct students to select the “pickup coil” activity. While exploring the simulation, encourage students to take notes about when the light turns on, what things cause its brightness to vary, and the behavior of the electrons within the wire. The video for this lesson, “Electromagnetic induction”, is an excellent follow up to this exploratory activity.
+   * Emphasize that the relative motion between the conductor and the magnetic field is essential for inducing electric current.
+   * Provide diagrams or models showing various positions of a conducting loop and a magnetic field. Ask them to predict whether a current or voltage will be induced and justify their reasoning.
+   * Consider introducing the concept of magnetic flux as the number of electric field lines passing through a surface, and relate it to the magnetic field strength.
+   * Implement the hands-on activity “How can motion produce electricity?” to introduce the concept of magnetic flux, explore the process of electromagnetic induction, and construct a working electric generator (see Lesson 5).
+	Lesson 5: Hands-on science activity
+How can motion produce electricity?
+
+
+PEs: HS‑PS2‑5, HS‑PS3‑3
+DCIs: HS‑PS2.B.2, HS‑PS3.A.1, HS‑PS3.A.3, HS‑ESS3.A.2
+	Resources
+  
+	Description
+	Links
+	Students will apply the concepts of energy transformations and electromagnetic induction to build an electric generator that can power an LED. They will then design a solution to continuously spin their generator by constructing a wind-powered turbine.
+	   * Full activity overview (Khan Academy article)
+   * Student activity guide (Doc | PDF)
+   * Teacher guide (Doc | PDF)
+	Lesson 6: Electric generators
+
+PEs: HS‑PS2‑5, HS‑PS3‑3
+DCIs: HS‑PS2.B.2
+	Resources
+  
+
+	Objectives
+	Teaching tips
+	   * Discuss the roles of key components in an electric generator including coils, magnetic fields, slip rings, brushes, and split rings (commutators).
+   * Differentiate between alternating current (AC) and direct current (DC)
+   * Explain how a commutator allows current induced by an electric generator to flow in only one direction.
+	   * Follow up the activity from Lesson 5 by exploring the PhET simulation “Generator” to assess and deepen students’ understanding of electromagnetic induction. Have them adjust variables such as energy input, magnetic field strength, and the number of coils to observe how these factors affect electric current generation.
+   * Reach out to local electric utilities and power plants and inquire about guest speakers, field trips and public tours of their facilities. Many have educational outreach programs to assist educators.
+   * Explain how turbines can be powered by various input energy sources (e.g., wind, water, steam) to rotate the coil or magnets in real-world generators. Invite students to brainstorm different sources of input energy that are available in the local area.
+   * Discuss how electric generators are used in power plants and explain the role of AC generators in producing electricity for customers.
+   * Identify common devices, such as cell phones and laptops, that require direct current instead of alternating current, and explain that the charging blocks for these devices convert AC into DC.
+	________________
+Related phenomenon
+Example phenomenon Lightning strikes a building in a city. 
+What causes lightning, and how do lightning rods protect buildings from lightning strikes?
+Background information
+Lightning is a rapid movement of electric charge originating from a thunderstorm. An average bolt of lightning transfers a massive amount of energy, carrying an electric potential of about 300 million volts and producing a current of about 300,000 amps. For comparison, a standard home electrical outlet operates at 120 volts and provides a maximum of about 15 amps of current.
+
+Inside a thunderstorm, positive and negative charges become separated. Negative charges typically move to the base of the thunderstorm, while positive charges tend to move toward the top. The massive negative charge of the thunderstorm’s base pushes negative charges away from the surface beneath, leaving a net positive charge. This creates an enormous electric potential difference (voltage) between the thunderstorm and the ground. Although air is typically a good electrical insulator, the incredibly high voltage creates a strong electric field that ionizes the air, forming a conductive path for electric charges. A lightning strike occurs when a massive amount of charge moves between the thunderstorm and the ground below, forming a channel of electricity.
+
+
+When lightning strikes a building, the surge of electric current can travel through its wiring, potentially damaging electronics, starting fires, or even causing structural damage. Taller buildings are more likely to be struck by lightning and are often equipped with lightning rods. Lightning rods do not attract lightning or increase the probability of a building being struck by lightning. A lightning rod is one component of a safety system designed to control the flow of electric current from a lightning strike and direct it away from the building’s wiring and into the ground. The rod intercepts the lightning strike and provides a conductive path for the current to follow. Copper and aluminum alloys are most commonly used in lightning rods. Because copper has a high electrical conductivity, it provides an ideal pathway for current to be directed to the ground, keeping the building and its contents safe. 
+
+Exploring this phenomenon helps students develop and master the following understandings:
+   * Voltage represents the difference in electric potential between two points. 
+   * Electric current flows when an electric potential difference exists across two points where charge carriers can freely move.
+   * Electrically conductive materials allow charge carriers to freely move. Electric insulators inhibit the movement of charge carriers.
+	Tips for implementing phenomenon-based learning
+   * Break down the phenomenon into smaller, investigable parts:
+   * Why is there a voltage between the thunderstorm and the ground?
+   * Illustrate how the accumulation of negative charge at the base of the cloud and the corresponding induced positive charge on the ground creates a strong electric field between the two.
+   * Explain that the massive charge at the base of the cloud and at the surface creates a strong electric field that allows for an enormous difference in electric potential.
+   * Why does current move from the cloud to the ground?
+   * Remind students that air acts as an electric insulator in most circumstances.
+   * Explain how the strong electric field between the cloud and the ground ionizes air molecules by stripping away electrons.
+   * While a detailed explanation of ionization is not necessary, students should understand that ions form pathways that allow charge carriers to easily move and form an electric current (lightning).
+   * What happens when lightning strikes a building equipped with lightning rods?
+   * Explain how lightning rods safely redirect the current from lightning strikes by providing a conductive pathway for charge to flow.
+   * Introduce the concept of a grounding system, explaining how it ensures the energy from the lightning is dissipated safely into the Earth rather than through the building’s wiring or structure.
+   * Discuss why tall structures are more vulnerable to lightning and why lightning rods are commonly installed on buildings and towers.
+   * Encourage students to share their questions about lightning safety and any myths they’ve heard. After gathering their ideas, follow up by reviewing the NOAA article “Lightning Myths.” 
+   * A Van de Graaff generator can serve as an excellent tool for simulating lightning strikes. The dome of the generator will collect a large amount of positive charge. When the discharge wand, which is connected to a grounding pathway, is brought close to it, a negative charge will be induced on its surface, creating a voltage between the generator dome and the wand. When the voltage is large enough, air molecules between the wand and the generator will become ionized and create a conductive pathway for electric charge carriers to travel. The result is a large spark accompanied by a zapping or popping sound. The spark will resemble a tiny lightning strike. With the generator running and the discharge wand nearby, a spark will continue to discharge every few seconds when the voltage becomes high enough.
+   * Use the models shown below (printable student version) to guide students in understanding the processes involved in lightning strikes and Van de Graaff sparks. Invite students to:
+   * summarize what is occurring in each process
+   * compare and contrast the two processes
+   * revise each model to show the charge distribution immediately after
+   * create a new illustration that shows how lightning rods function to protect buildings
+  
+              
+   * Explain that the potential difference between the Van de Graaff dome and the discharge wand may be up to several hundred thousand volts depending on the size and model of the generator. Students may be shocked at the large number, but remind them that the amount of charge transferred is small and relatively harmless aside from causing a sharp sting.
+   * Elicit ideas from students about why the spark only occurs every few seconds and is not continuous.
+   * Invite students to discuss how the discharge wand is similar to a lightning rod, and to share their ideas about what happens to the charge transferred during the process. 
+   * Ask students to sketch a diagram of the process, starting with the Van de Graaff dome already charged and the neutral discharge wand placed nearby.
+   * Have students research why passengers are usually unharmed when in a vehicle struck by lightning. A common misconception is that the rubber tires of the vehicle provide protection. However, it is the metal shell and frame of the vehicle that protect the passengers by providing a conductive pathway to the ground. This article from NOAA provides more information about lightning and vehicles. 
+   * Prompts to engage student thinking:
+   * What causes the electric potential difference between a thunderstorm and the ground?
+   * How are charge carriers able to travel through the air, considering that it typically acts as an electrical insulator?
+   * What happens to charges transferred between the cloud and ground during a lightning strike?
+   * Why is lightning more likely to strike taller objects, especially ones isolated in an open area?
+	Common student misconceptions
+Possible misconception: Batteries store electricity or charge that is released inside an electronic device.
+Batteries do not store electricity; instead, they store chemical potential energy that is converted into electrical energy when the battery is connected to a circuit. Inside a battery, chemical reactions occur between the materials in the anode, cathode, and electrolyte. These reactions create a potential difference (voltage) between the battery's terminals.  When the battery is connected to a circuit, this voltage drives electrons through the circuit, producing an electric current. Over time, as the reactants are consumed, the battery's ability to produce a voltage decreases, eventually causing it to 'run out' of usable energy.
+	Critical concepts
+   * A battery provides energy to move charges, but the charges themselves are not stored in the battery.
+   * Electric current is the flow of charge carriers through a conductor, driven by a difference in electric potential.
+   * Voltage represents the energy available to move charge, not an amount of stored charge or current.
+	How to address this misconception
+It is helpful to use a guided activity to address this misconception after students have learned about current and voltage in Lesson 1. Have your students build a basic circuit that includes a battery, a single pathway for current and a bulb. The “Circuit Construction Kit” by PhET is a virtual alternative or companion to a hands-on activity, and includes helpful illustrations. Prompt your students to discuss why current flows through the circuit. Responses will likely indicate that the battery provides or delivers the current/electricity. Use the opportunity to remind students that current is a rate of charge flow, and that charges will only move due to an electric force when there is a potential difference between two points. Ask students to identify the “start” and “end” points of the circuit–the positive and negative terminals of the battery, respectively. To continue, facilitate a class or small group discussion, making sure to address the following:
+   * Batteries are not rated on the amount of current, but the voltage (potential difference) they produce across a circuit.
+   * There must be a potential difference across the terminals of the battery. When placed in the circuit, this potential difference is now applied across the entire circuit.
+   * Batteries contain a set of chemicals that store chemical potential energy.
+   * Chemical potential energy in the batteries is depleted as current flows. Circuit elements transform electrical energy into other forms.
+   * Devices that store charge are called capacitors, and have their own uses within circuits. 
+
+
+Have students review this article from the Department of Energy which explains how lithium-ion batteries function and how the process of recharging works. It is also useful to compare the voltage ratings of different sized batteries. For example, AAA, AA, C, D, and button sized batteries are all rated at 1.5 volts. Invite students to discuss why batteries with the same voltage rating are produced in so many different sizes, and what aspects of the battery might be affected by the size. Consider implementing a hands-on activity or demonstration, such as this one from the Exploratorium, in which an electrochemical cell is constructed from simple materials and used to power an LED. Such an activity will reinforce the understanding that batteries do not store electricity.
+	
+
+Possible misconception: Electric generators produce new energy rather than transforming other forms of energy.
+The term “electric generator” may mislead some students to believe that the devices produce new energy in the form of electricity. Even after studying the components of an electric generator, some students may not understand the transformation of energy that occurs during the process of electromagnetic induction. All electric generators require an input of energy that is used to spin a coil around a stationary magnetic, or spin a permanent magnet around a stationary coil. If the input energy stops, so does the flow of current.
+	Critical concepts
+   * Energy can transform into different types.
+   * Electric current produced by a generator is the result of charges in the wire moving due to an outside energy input causing the magnetic field to change.
+   * The amount of energy input into a generator determines the amount of electrical energy output. An electric generator cannot transform all input energy into electrical energy.
+	How to address this misconception
+Have students explore the means of generating electricity using various inputs, including the motion of air, water, and steam. Emphasize that an electric generator’s purpose is to convert kinetic energy into electrical energy, and that energy is never created or destroyed. Use diagrams or models to show the energy flow from the initial energy source to the generator and finally to the electrical output. Consider implementing a poster or diorama activity in which students identify energy sources in real-world systems and trace how energy is transferred and transformed. The activity for this lesson, “How can motion produce electricity?”, offers an in-depth look at how a basic electric generator functions. Once the generator and turbine are completed, students can explore how the input energy affects the amount of electric current output by the generator. 
+	Unit resources
+  
+
+   * PhET Generator: Use this simulation to follow up the hands-on activity in Lesson 5 and allow students to continue investigating how electric generators function. 
+   * PhET Faraday’s Electromagnetic Lab: Use this simulation to introduce students to the concept of electromagnetic induction using the “pickup” coil portion of the activity.
+   * PhET Magnets and Electromagnets: Use this simulation to help students visualize the magnetic field around a solenoid and explore the factors that affect its strength.
+   * PhET Circuit Construction Kit: Use this simulation to help address this misconception that batteries store electricity or electric charge.
+   * D.O.E. Explains Batteries: Use this article from the Department of Energy to provide additional information about how batteries work, and how lithium batteries can be recharged.
+   * Penny Battery by Exploratorium: Use this video to guide students in making a simple battery to show that batteries do not store electricity or electric charge.
+   * July 1820: Øersted and Magnetism: Learn more about the discovery made by Hans Christian Øersted that uncovered the link between electricity and magnetism.
+   * Lightning strike and Van de Graaff models (Doc | PDF): Use this printable set of diagrams to supplement a discussion of lightning strikes and sparks created by a Van de Graaff generator.
+   * NOAA Lightning Myths and NOAA Lightning and Cars: use these articles to learn more about common myths about lightning and why vehicle passengers are generally safe from lightning strikes.
+   * Weekly Khan Academy quick planning guide (Doc | PDF):  Use this template to easily plan your week.
+   * Using Khan Academy in the classroom (Doc | PDF): Learn about teaching strategies and structures to support your students in their learning with Khan Academy.
+   * Differentiation strategies for the classroom (Doc | PDF): Read about strategies to support the learning of all students. 
+
+
+  
+
+   * Weekly Khan Academy Quick Planning Guide: Use this template to easily plan your week.
+   * Using Khan Academy in the Classroom: Learn about teaching strategies and structures to support your students in their learning with Khan Academy. 
+   * Differentiation Strategies for the Classroom: Read about strategies to support the learning of all students. 
+   * Using phenomena with the NGSS: Learn more about how to incorporate phenomena into NGSS-aligned lessons.
+   * Hands-on science activities from Khan Academy: Choose from Khan Academy’s collection of high-quality, ready-to-use, and free hands-on science activities. Each one is engaging, three-dimensional, phenomenon-based, and simple to implement.
+
+
+NGSS standards reference guide
+Performance expectations (PEs)
+   * HS‑PS2‑5: Plan and conduct an investigation to provide evidence that an electric current can produce a magnetic field and that a changing magnetic field can produce an electric current.
+   * HS‑PS3‑3: Design, build, and refine a device that works within given constraints to convert one form of energy into another form of energy.
+________________
+
+
+Disciplinary core ideas (DCIs)
+   * HS‑PS2.B.2: Forces at a distance are explained by fields (gravitational, electric, and magnetic) permeating space that can transfer energy through space. Magnets or electric currents cause magnetic fields; electric charges or changing magnetic fields cause electric fields.
+   * HS‑PS3.A.1: “Electrical energy” may mean energy stored in a battery or energy transmitted by electric currents.
+   * HS‑PS3.A.3: At the macroscopic scale, energy manifests itself in multiple ways, such as in motion, sound, light, and thermal energy.
+   * HS‑ESS3.A.2: All forms of energy production and other resource extraction have associated economic, social, environmental, and geopolitical costs and risks as well as benefits. New technologies and social regulations can change the balance of these factors.
+________________
+
+
+Science and engineering practices (SEPs)
+   * Developing and using models: Students progress to using, synthesizing, and developing models to predict and show relationships among variables between systems and their components in the natural and designed worlds.
+   * Constructing explanations and designing solutions: Students progress to explanations and designs that are supported by multiple and independent student-generated sources of evidence consistent with scientific ideas, principles, and theories. 
+   * Engaging in argument from evidence: Students progress to using appropriate and sufficient evidence and scientific reasoning to defend and critique claims and explanations about the natural and designed world(s). Arguments may also come from current scientific or historical episodes in science.
+________________
+
+
+Crosscutting concepts (CCCs) and their implementation
+
+
+Crosscutting concept
+	Unit implementation
+	Cause and effect (Mechanism and explanation): Events have causes, sometimes simple, sometimes multifaceted. A major activity of science is investigating and explaining causal relationships and the mechanisms by which they are mediated. Such mechanisms can then be tested across given contexts and used to predict and explain events in new contexts.
+	Students analyze how voltage leads to  current, how magnetic fields exert forces on currents, and how changing magnetic fields induce electricity.
+	Energy and matter (Flows, cycles, and conservation): Tracking fluxes of energy and matter into, out of, and within systems helps one understand the systems’ possibilities and limitations.
+	Students examine energy conservation, including electrical potential energy, energy conversion in motors, and the transformation of kinetic energy into electricity.
+	Structure and function: The way in which an object or living thing is shaped and its substructure determine many of its properties and functions.
+	Students examine how the design of solenoids, coils, motors, and generators influences the behavior of electric and magnetic fields and their applications.

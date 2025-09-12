@@ -1,0 +1,272 @@
+﻿Unit 5: Energy
+________________
+Overview
+In this unit, students will explore the various ways energy manifests and the connection between energy and forces. They will examine how energy transfers and transforms and discover how the conservation of energy can be used to make predictions about the behavior of systems. 
+Lesson 1: Students will use mathematical and computational thinking to assess the kinetic energy of moving objects. They will also develop and use models to assess the potential energy stored within systems of objects.
+Lesson 2: Students will analyze scenarios in which energy is conserved in isolated systems and use models to represent energy transformations. They also will analyze situations where a system is not isolated and engage in argument from evidence to explain that the change in a system’s total energy matches the energy transferred to or from its surroundings.
+Lesson 3: Hands-on science activity (see below)
+Lesson 4: Students will explore the concept of work by examining how energy is transferred to or from an object via forces, and the concept of power by analyzing the rate at which energy is transferred or converted.
+________________
+
+
+Hands-on science activity  
+How do engineers design roller coasters?
+Students apply the concepts of energy conservation and energy transformation, along with the engineering design process, to design a marble roller coaster. Students work together to ensure that the structure and function of the track meets specific criteria and constraints. Students then expand on these concepts to explain how engineers design roller coasters for amusement parks.
+Click here for links to the activity.
+________________
+
+
+Standards
+Performance expectations: HS-PS3-1 | HS-PS3-2 | HS-PS3-3 | HS‑PS3‑5
+
+
+Disciplinary core ideas: HS‑PS3.A.2 | HS‑PS3.A.3 | HS‑PS3.A.4 | HS-PS3.B.1 | HS-PS3.B.2 | HS‑PS3.B.3 | HS‑PS3.B.4 | HS‑PS3.C.1 | HS‑PS3.D.1 | HS‑ETS1.A
+Science and engineering practices:
+	Crosscutting concepts:
+	  
+  
+
+	  
+
+  
+
+	  
+  
+
+	  
+
+	Click here to read the full standards.
+Essential questions
+* What factors affect the amount of kinetic energy possessed by an object and the amount of potential energy stored within a system of objects?
+* What does it mean for energy to be conserved within a system, and what evidence can be used to support the conservation of energy?
+* What role does force play in the relationship between energy, work, and power?
+________________
+
+
+Lesson notes
+Lesson 1: Kinetic and potential energy
+
+PEs: HS-PS3-2, HS-PS3-5
+DCIs: HS‑PS3.A.2, HS‑PS3.A.3, HS‑PS3.A.4, HS‑PS3.B.3, HS‑PS3.C.1
+	Resources
+  
+
+	Objectives
+	Teaching tips
+	* Apply the concept of kinetic energy at the microscopic scale to explain macroscopic energy effects such as thermal energy and sound waves.
+* Calculate the kinetic energy of a moving object using 
+* Use models to describe how potential energy depends on the relative positions of interacting particles or objects within a system, including gravitational potential energy and electric potential energy.
+* Calculate the gravitational potential energy of a macroscopic object using .
+	   * Emphasize that all forms of energy fundamentally represent the same quantity. This concept is critical to understanding how one form of energy can “transform” into a different form.
+   * Use quick demonstrations to illustrate how microscopic motion manifests as a macroscopic energy effect. Have students sketch simple models to show the microscopic increase in kinetic energy and the resulting macroscopic effect. Some examples include:
+   * Rubbing hands together to warm them
+   * Bending a metal paper clip repeatedly to increase its temperature
+   * Stretching a thick rubber band repeatedly to increase its temperature
+   * Running a finger around a wine glass to vibrate it until it “sings”.
+   * Incorporate simple hands-on activities that reinforce the understanding that a system’s potential energy depends on the relative positions of interacting objects. For example, have students investigate a simple pendulum, as described in the Related Phenomena.
+	Lesson 2: Conservation of energy
+
+PEs: HS-PS3-1
+DCIs: HS‑PS3.A.2, HS‑PS3.B.1, HS‑PS3.B.2, HS‑PS3.B.3, HS‑PS3.B.4, HS‑PS3.D.1
+	Resources
+  
+	Objectives
+	Teaching tips
+	   * Explain how energy is conserved through transformations between various forms of energy.
+   * Use the concept of energy conservation to make predictions about the components of an isolated system, and explain the loss of energy that occurs from systems that are not isolated.
+   * Use models to express the total energy of a system as the sum of all forms of energy within the system.
+
+
+	   * Have students graph the kinetic and potential energy of a system,  such as a ball thrown upward and traveling back towards Earth, to model energy conservation. Bar graphs and line graphs are both effective modeling tools. 
+   * Revisit the concept of microscopic motion manifesting as a macroscopic energy effect to discuss how kinetic energy can be “lost” from a system. Ask students to describe other scenarios where this occurs. Consider implementing an activity where students describe the various energy transformations for real-world scenarios. A few examples include:
+   * A skateboarder grinding down a metal railing.
+   * A child on a swing losing height after they stop pumping their legs.
+   * A bouncing ball losing height after each consecutive bounce.
+   * A ceiling fan that stops spinning after being switched off.
+   * A vehicle that maintains a constant speed (instead of gaining speed continuously) while traveling downhill.
+   * Investigate energy transformations and energy conservation with the PhET simulation “Energy Skate Park”. It includes bar graphs and line graphs to help students visualize energy transformations. Consider using the simulation to help students explore the following:
+   * How does changing the mass, friction, or gravity affect the skater's energy?
+   * What happens to the energy in the system when the reference height changes?
+   * How can energy graphs be used to predict position or estimate speed?
+   * How can the speed or height at one position be determined from information about a different position?
+   * Implement the hands-on activity “How do engineers design roller coasters?” to challenge students to step into the role of an engineer who must apply physics and engineering concepts to design a marble roller coaster that meets a set of  given criteria and constraints. 
+(See Lesson 3).
+
+
+	Lesson 3: Hands-on science activity
+How do engineers design roller coasters?
+
+
+PEs: HS‑PS3‑1, HS‑PS3‑3,
+DCIs: HS‑PS3.B.3, HS‑ETS1.A.1
+	Resources
+  
+	Description
+	Links
+	Students apply the concepts of energy conservation and energy transformation, along with the engineering design process, to design a marble roller coaster. Students work together to ensure that the track meets specific criteria and constraints. Students then expand on these concepts to explain how engineers design roller coasters for amusement parks.  
+	      * Full activity overview (Khan Academy article)
+      * Student activity guide (Doc | PDF)
+      * Teacher guide (Doc | PDF)
+	Lesson 4: Work and power
+
+PEs: HS‑PS3‑1 
+DCIs: HS‑PS3.B.1, HS‑PS3.B.2, HS‑PS3.B.4, HS‑PS3.C.1
+	Resources  
+	Objectives
+	Teaching tips
+	      * Relate the work done on an object or system to the amount of energy transferred through the application of force.
+      * Relate the net work done on an object to its change in kinetic energy through the work-energy theorem.
+      * Describe various scenarios in which the application of one or more forces results in positive, negative, or zero work.
+      * Explain power as the rate of doing work, and describe how the same amount of work done can deliver different amounts of power if done over different amounts of time.
+	      * Explain that work is the transfer of energy by a force, and be specific with wording when discussing work. For example, instead of asking “Did the person do any work? ” try “Did the force applied do any work on the object? ” 
+      * Explain that if a force doesn’t change the speed of an object, the force does zero work on the object—even in scenarios that involve a person applying a force and becoming tired as a result. Discuss that even in situations where someone is applying a force and feels exertion, there is no energy transfer to the object unless the object's speed changes due to the force applied.
+      * Clarify the relationship between the sign of work and the direction of force. Work is positive when the force doing work is in the same direction as the object’s motion. Work is negative when the force doing the work is in the opposite direction. The exercise “Apply: work and power” for this lesson allows students to check their understanding of work.
+      * Incorporate a practical, real-world application of understanding power by analyzing a sample electric bill with your students to determine the amount of energy used in a month. Ask students to discuss why measures that weatherproof homes can have a significant impact on electric bills. Address the following important points when discussing the issue.
+      * Electric companies bill customers based on the energy they use, not for their home’s power output. Explain that the unit “kWh” (kilowatt-hour) is an energy unit, not a power unit. Demonstrate this with a simple unit analysis to show that power multiplied by time yields energy. Discuss how a high rate of energy usage over a short period of time can result in the same charges as a low rate of energy usage over a long period of time.  
+      * Make sure students understand the meaning of unit abbreviations like kW (kilowatts) and MW (megawatts), and can explain the difference between kW and kWh. Consider implementing an activity where students investigate the power output of different electricity generating facilities in the area. Many electric companies have public databases, such as this interactive map from Alabama Power. 
+      * Weatherproofing measures reduce the transfer of thermal energy between the inside and outside of the home. When less energy is exchanged with the environment, power is reduced because heating and cooling systems operate for shorter durations to maintain a desired temperature.
+	
+
+Related phenomena
+Example phenomenon  
+Why is a pendulum an effective timekeeper?
+Background information
+A pendulum’s reliable timekeeping ability stems from the predictability of its motion, which exhibits a repetitive cycle of energy conversion. As the pendulum’s mass reaches its highest point, the mass-Earth system has maximum gravitational potential energy. As it passes through the lowest point of its swing, the potential energy has converted to kinetic energy. This back-and-forth energy transformation continues with each swing. While friction and air resistance gradually reduce the pendulum’s amplitude by transferring kinetic energy out of the system, the amount of time to complete a swing remains unaffected. A pendulum can continue swinging for substantial periods of time while only requiring an initial input of energy to start, if the effects of resistive forces are minimized. The continuous transformation between potential energy and kinetic energy allows the pendulum to remain in motion for a long amount of time without its period changing, which makes it an effective timekeeper.
+
+
+Exploring this phenomenon helps students develop and master the following understandings:
+      * The potential energy of a system depends on the relative positions of particles or objects within the system.
+      * The total energy of an isolated system remains constant. Real world systems gradually lose energy through resistive forces.
+      * Energy conservation can be used to make predictions about the motions and behavior of a system.
+	Tips for implementing phenomenon-based learning
+      * Introduce this phenomenon in lesson one after discussing the concepts of kinetic and potential energy, and allow students to investigate the behavior of a simple pendulum in a brief inquiry activity. Provide a  pendulum kit for each student group that includes a piece of string around 30 cm - 50 cm and a mass to attach. The pendulum can be hung from a suspended hook or over the edge of a table. Instruct students to observe the pendulum’s motion with various string lengths while keeping the change in height constant.  Include guiding questions that encourage students to apply what they have previously learned. Be sure to discuss these questions after students finish the activity. Here are some sample questions.
+      * What is required to get the pendulum started?  
+      * What forces act on the pendulum mass as it swings? Are the forces balanced or unbalanced?  
+      * Which of the forces identified do work on the pendulum, and when is the work done positive or negative?  
+      * At which points are the pendulum’s kinetic and gravitational potential energies at their maximum and minimum values? 
+      * What determines the amount of kinetic energy the pendulum has at the point where it is at a maximum? What determines the height reached by the pendulum after it is initially released?  
+
+
+      * Revisit the pendulum phenomenon in lesson two, focusing on energy transformation and conservation. Have student groups construct a pendulum, use a single pendulum for a class demonstration, or view a video.  Observe the pendulum’s motion and discuss how energy transforms between kinetic and gravitational potential energy. Ask students to predict the position(s) of the pendulum where potential energy and kinetic energy is each at a maximum, and where the potential and kinetic energy would be equal. Have students sketch a set of energy bar graphs to represent the forms of energy for a swinging pendulum. Use the activity “Energy of a swinging pendulum”  to accompany the investigation of a pendulum’s behavior. The activity includes blank bar graphs for students to sketch their ideas, and students can test their predictions with the “PhET Pendulum Lab simulation.” 
+
+      * Prompts to engage student thinking:
+         * What happens to the gravitational potential energy of a pendulum’s mass as it swings from the highest to lowest position?
+         * How does a pendulum demonstrate that the total energy in an isolated system remains constant?
+         * If the pendulum’s mass  eventually stops, does that mean energy is permanently lost? What happens to the energy lost from the mess-Earth system?
+         * If you know the height of a pendulum’s swing, how could you predict its speed at the lowest position?
+	
+
+
+
+Example phenomenon  
+Why is it unsafe to rely only on brakes when driving down a steep mountain road?
+Background information
+Drivers descending mountain roads often encounter signs advising them of steep grades and instructing them to switch to “low gear” driving mode. Using low gear enhances safety by limiting the vehicle’s maximum speed and allowing drivers to descend steep slopes without over-relying on the brakes.
+
+As a vehicle ascends an incline the vehicle-Earth system gains gravitational potential energy. During descent this potential energy transforms into kinetic energy, causing the vehicle to gain speed. Typically, brakes are used to control speed by converting kinetic energy into thermal energy through friction, which is then dissipated into the environment.  While this system works well on flat or gently sloping roads, it is less effective on long, steep descents or roads that have lots of hills. On such terrain, brakes can overheat because they cannot transfer thermal energy to the environment quickly enough, leading to potential failure. Switching to low gear reduces the need for frequent braking by allowing the engine to help control speed, preventing overheating and improving safety.
+
+Exploring this phenomenon helps students develop and master the following understandings:
+         * Real-world systems are engineered to utilize the transfer and transformation of energy.
+         * Resistive forces, like friction, can transform kinetic energy into thermal energy by doing work on a system.
+	Tips for implementing phenomenon-based learning
+         * Use the Pike’s Peak Highway as a focus for studying this phenomenon. Students can determine the change in height while ascending the highway to the peak and can calculate the amount of potential energy gained as a result. They can then determine how much kinetic energy and speed an object would have if allowed to descend that height without any resistive forces. Students can also examine how much work the force of friction would do on the vehicle by keeping at a low speed for a certain change in height along the road. Here is an example exercise:
+         * “Suppose a section of the highway leading from the summit of Pike's Peak causes a 40 m change in elevation. How much thermal energy would be transferred from a 1500 kg vehicle to the brakes if they were used to keep the car at a constant speed of 5.0 m/s while descending?”
+Guide students to first use the change in height along the road to determine the amount of gravitational potential energy that would be transformed into kinetic energy if no resistive forces acted on the vehicle. Next, prompt students to use the constant speed of the vehicle to determine the amount of kinetic energy the vehicle will have after descending the section of road. Lastly, have students determine the difference between the initial gravitational potential energy and the final kinetic energy. Discuss what happens to this lost energy.
+         * Incorporate energy bar graphs representing the kinetic, potential, thermal, and total energies to reinforce the concept of energy conservation even when the energy is transferred out of a system.
+         * Drivers encounter brake checkpoints when descending from Pikes Peak Highway where park rangers check brake temperatures. Ask students to discuss why these checkpoints were implemented by the park and how they have helped reduce the risk of accidents.
+            * Use a demonstration to reinforce the concept that kinetic energy can transform into thermal energy and dramatically increase the temperature of an object. Use a handheld drill to bore several holes into a block of wood. Use an instant-read temperature gun to compare the temperature of the drill bit before and after drilling the holes. There should be a significant increase in temperature. You can also use a masonry drill bit and a hammer drill to bore a hole into a soft concrete material, like a cinder block, for an even more dramatic temperature change. Make sure to take appropriate safety precautions before doing these demonstrations. Relate the rotating drill bit encountering friction to the brake system of a vehicle using friction to slow down.
+            * Prompts to engage student thinking.
+            * When a vehicle descends a hill, what happens to its gravitational potential energy? Why can this become a problem if a vehicle descends a long road like one that leads down a mountain?
+            * How do brakes perform work on a vehicle to slow it down? What happens to the energy transferred to the brakes during this process?
+            * If a driver ignored the low gear recommendation and their vehicle’s brakes failed, what alternative strategies could they use to safely stop the vehicle? What features could be added to highways for situations like this?
+	
+
+
+
+________________
+Common student misconceptions
+Possible misconception: Kinetic energy is permanently lost when an object stops moving.
+Students may find it difficult to explain energy loss when kinetic energy is converted to other forms. They may misunderstand energy conservation and transformation, leading them to believe that kinetic energy is destroyed  when an object stops moving. Students may fail to recognize how energy transforms into other forms rather than disappearing. For example, when a sliding object comes to rest, students may not account for how the observable macroscopic effect of kinetic energy transforms into thermal energy and sound energy during the process.
+	Critical concepts
+            * Energy cannot be created or destroyed; it only converts to other forms or transfers to a different part of a system or to the surrounding environment.
+            * When an object stops moving, its kinetic energy is converted into other forms of energy, such as gravitational potential energy or thermal energy.
+            * Work done by forces on a moving object is responsible for the transformation or transfer of its kinetic energy.
+	How to address this misconception
+When introducing energy conservation, make sure to include the concept of energy transformation. It is important for students to understand that all forms of energy are different manifestations of the same quantity. Use simple demonstrations that show the transformation of kinetic energy into other forms. For example, provide students with a piece of sandpaper and a block of wood. Measure the initial temperatures of the objects and compare them to the new temperatures after a few minutes of sanding. An instant-read thermometer gun works well for this. Both objects will show an increased temperature. In this example, friction is the force that causes the kinetic energy of the sandpaper to transform into thermal energy. Follow up the demonstration by asking students what happens to the kinetic energy of a book that comes to rest after sliding across the floor. Extend the discussion with everyday examples, like the brakes of a vehicle becoming hot from repeated use.
+	
+
+Possible misconception: Power is the same as energy.
+The terms energy and power are often used interchangeably in everyday language. For example, people might say, "This device uses a lot of power," when they actually mean it uses a lot of energy. Power refers to the rate at which energy is transferred or converted, not the total amount of energy consumed. Devices like lightbulbs, motors, or cars often list power ratings (watts or horsepower), which describes how quickly they transfer or convert energy. This can mislead students into thinking the power ratings describe the total energy the device uses or stores, rather than the rate of energy transfer.
+	Critical concepts
+            * Energy is measured in joules.
+            * Power is the rate of energy transfer, measured in watts. It can also be expressed as work over time.
+            * A higher power output indicates that energy is being transferred more quickly. The total amount of energy transferred depends on the duration of the energy transfer process.
+	How to address this misconception
+Emphasizing the relationship that  helps students understand that power depends on how quickly energy is transferred, not the total amount transferred. A simple analogy can help reinforce this idea. Consider water flowing through a hose. The amount of water that exits the hose represents the energy, and the rate of water flow represents the power. Opening the spigot more increases the rate of flow, while allowing the water to flow for a longer amount of time increases the amount transferred. The same amount of water can be transferred using different rates of flow by allowing the water to flow for different periods of time.
+
+A simple activity where students ascend a flight of stairs at different speeds, then calculate their power output can also help boost student understanding. Students determine their power output by dividing the change in their gravitational potential energy by the time taken to climb the stairs. You can also use some arbitrary object, like a textbook, as the focus of the activity instead of having students use their own mass. For a practical application of understanding the difference between energy and power, guide students through an activity where they evaluate a sample bill from a power company. Many power companies have guides to  show customers how to read and understand their power bill. 
+	
+
+________________
+Unit resources
+  
+
+            * PhET Energy Skate Park: Use this simulation for a virtual exploration of energy transformation and conservation.
+            * Energy of a swinging pendulum (Doc | PDF): Use this activity to explore the transformation of energy observed in a swinging pendulum.
+            * PhET Pendulum Lab: Use this simulation to explore the behavior of a virtual pendulum. Energy bar graphs are included to observe energy transformations and conservation in the system.
+            * Alabama Power interactive map: Use this interactive map provided by the Alabama Power electric company to explore the power output of electricity generating facilities across the state. 
+            * Article and video note taking template (Doc | PDF): Use this printable template for structured note taking on the articles and videos in this unit.
+            * Graph paper template (Doc | PDF): Use this printable template for manual graphing exercises. 
+
+
+  
+
+            * Weekly Khan Academy quick planning guide (Doc | PDF):  Use this template to easily plan your week.
+            * Using Khan Academy in the classroom (Doc | PDF): Learn about teaching strategies and structures to support your students in their learning with Khan Academy.
+            * Differentiation strategies for the classroom (Doc | PDF): Read about strategies to support the learning of all students. 
+            * Using phenomena with the NGSS: Learn more about how to incorporate phenomena into NGSS-aligned  lessons.
+            * Hands-on science activities from Khan Academy: Choose from Khan Academy’s collection of high-quality, ready-to-use, and free hands-on science activities. Each one is engaging, three-dimensional, phenomenon-based, and simple to implement.
+________________
+NGSS standards reference guide
+Performance expectations (PEs)
+            * HS-PS3-1: Create a computational model to calculate the change in the energy of one component in a system when the change in energy of the other component(s) and energy flows in and out of the system are known.
+            * HS-PS3-2: Develop and use models to illustrate that energy at the macroscopic scale can be accounted for as a combination of energy associated with the motions of particles (objects) and energy associated with the relative position of particles (objects).
+            * HS-PS3-3: Design, build, and refine a device that works within given constraints to convert one form of energy into another form of energy.
+            * HS‑PS3‑5: Develop and use a model of two objects interacting through electric or magnetic fields to illustrate the forces between objects and the changes in energy of the objects due to the interaction.
+________________
+
+
+Disciplinary core ideas (DCIs)
+            * HS‑PS3.A.2: Energy is a quantitative property of a system that depends on the motion and interactions of matter and radiation within that system. That there is a single quantity called energy is due to the fact that a system’s total energy is conserved, even as, within the system, energy is continually transferred from one object to another and between its various possible forms.
+            * HS‑PS3.A.3: At the macroscopic scale, energy manifests itself in multiple ways, such as in motion, sound, light, and thermal energy.
+            * HS‑PS3.A.4: These relationships are better understood at the microscopic scale, at which all of the different manifestations of energy can be modeled as a combination of energy associated with the motion of particles and energy associated with the configuration (relative position of the particles). In some cases the relative position energy can be thought of as stored in fields (which mediate interactions between particles). This last concept includes radiation, a phenomenon in which energy stored in fields moves across space.
+            * HS-PS3.B.1: Conservation of energy means that the total change of energy in any system is always equal to the total energy transferred into or out of the system.
+            * HS-PS3.B.2: Energy cannot be created or destroyed, but it can be transported from one place to another and transferred between systems.
+            * HS‑PS3.B.3: Mathematical expressions, which quantify how the stored energy in a system depends on its configuration (e.g. relative positions of charged particles, compression of a spring) and how kinetic energy depends on mass and speed, allow the concept of conservation of energy to be used to predict and describe system behavior.
+            * HS‑PS3.B.4: The availability of energy limits what can occur in any system.
+            * HS‑PS3.C.1: When two objects interacting through a field change relative position, the energy stored in the field is changed.
+________________
+            * HS‑PS3.D.1: Although energy cannot be destroyed, it can be converted to less useful forms—for example, to thermal energy in the surrounding environment.
+            * HS‑ETS1.A: Criteria and constraints also include satisfying any requirements set by society, such as taking issues of risk mitigation into account, and they should be quantified to the extent possible and stated in such a way that one can tell if a given design meets them. 
+________________
+
+
+Science and engineering practices (SEPs)
+               * Developing and using models: Students progress to using, synthesizing, and developing models to predict and show relationships among variables between systems and their components in the natural and designed worlds.
+               * Using mathematics and computational thinking: Students progress to using algebraic thinking and analysis, a range of linear and nonlinear functions including trigonometric functions, exponentials and logarithms, and computational tools for statistical analysis to analyze, represent, and model data. Simple computational simulations are created and used based on mathematical models of basic assumptions.
+               * Constructing explanations and designing solutions: Students progress to explanations and designs that are supported by multiple and independent student-generated sources of evidence consistent with scientific ideas, principles, and theories. 
+               * Engaging in argument from evidence: Students progress to using appropriate and sufficient evidence and scientific reasoning to defend and critique claims and explanations about the natural and designed world(s). Arguments may also come from current scientific or historical episodes in science.
+________________
+
+
+Crosscutting concepts (CCCs) and their implementation
+
+
+Crosscutting concept
+	Unit implementation
+	Structure and function: The way in which an object or living thing is shaped and its substructure determine many of its properties and functions.
+	Students design a roller coaster and  ensure that the structure and function of the track meets specific requirements and constraints.
+	Systems and system models: Defining the system under study—specifying its boundaries and making explicitly a model of that system—provides tools for understanding and testing ideas that are applicable throughout science and engineering.
+	Students use models to show the transfer and transformation of energy within systems, and to illustrate energy conservation.
+	Energy and matter (Flows, cycles, and conservation): Tracking fluxes of energy and matter into, out of, and within systems helps one understand the systems’ possibilities and limitations.
+	Students evaluate the transfer and transformation of energy in various systems.
