@@ -1,0 +1,36 @@
+#+TITLE: unit 1: atoms, isotopes, and ions
+#+AUTHOR: Mr. Maxwell
+#+EMAIL: tyler.maxwell@lausd.net
+#+startup: indent num
+#+LANGUAGE: en
+#+HTML_LINK_HOME:
+
+* lesson: atomic structure
+** objectives
+** vocabulary
+*** electron
+a negatively charged subatomic particle
+*** electron cloud
+*** proton
+*** neutron
+*** subatomic particles
+protons, neutrons, and electrons are the three (subatomic) particles that make up an atom
+*** periodic table
+*** atomic number
+* lesson: isotopes
+** objectives
+** vocabulary
+*** isotope
+*** mass number
+*** isotope notation
+*** average atomic mass
+*** relative abundance
+* lesson: ions
+** objectives
+** vocabulary
+*** anions
+*** cations
+*** ion
+** links
+* links
+*** [[https://phet.colorado.edu/sims/html/build-an-atom/latest/build-an-atom_all.html][PhET build and atom]]
