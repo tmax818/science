@@ -2,17 +2,178 @@
 #+startup: indent num
 * chemistry
 ** atoms, isotopes and ions
+*** term list:
+- electron
+- proton
+- neutron
+- subatomic particles
+- periodic table
+- atomic numbers
+- isotopes
+- mass number
+- isotope notation
+- average atomic mass
+- relative abundance
+- anions
+- cations
+- ion
 ** atomic models and periodicity
+*** term list:
+- Bohr model
+- shells
+- valence
+- core electrons
+- wavelength
+- frequency
+- photon energy
+- electromagnetic spectrum
+- color
+- visible light
+- atomic emission spectra
+- absorption spectra
+- Lewis diagram
+- group number
+- subshhells
+- orbitals
+- quantum model
+- s,p,d,f orbitals
+- electron configuration
+- nobel gas shorthand
+- isoelectronic
+- valence level
+- metal
+- nonmetal
+- metalloids
+- relative reactivities
+- alkali metals
+- alkaline earth metals
+- halogens
+- nobel gases
+- atomic radius
+- ionization energy
 ** chemical bonding
+*** term list:
+- ionic bond
+- octet rule
+- polyvalent metals
+- polyatomic ions
+- covalent bond
+- metallic bond
 ** chemical reactions
+*** term list:
+- chemical equations
+- reactants
+- products
+- subscript
+- coefficient
+- law of conservation of mass
+- exothermic
+- endothermic
+- energy diagram
+- synthesis
+- decomposition
+- combustion
+- single replacement
+- oxidation
+- reduction
 ** stoichiometry and the mole
+*** term list:
+- mole
+- Avagadro's number
+- molar mass
+- formulae
+  - empirical
+  - molecular
+  - structural
+- percent composition by mass
+- stoichiometric calculations
+- percent yield
+- limiting reactant
+- theoretical yield
 ** states of matter
+*** term list:
+- electronegativity
+- nonpolar covalent
+- polar covalent
+- bond polarity
+- VSEPR theory
+- molecular geometries
+- molecular polarity
+- intramolecular
+- intermolecular
+- London dispersion forces
+- dipole-dipole attractionns
+- electrostatic potential maps
+- kinetic molecular theory
+- ideal gas
+- ideal gas law: $$ PV=nRT $$
+- partial pressure
+- Dalton's law of partial pressure
 ** thermochemistry
+*** term list:
+- thermal energy
+- temperature
+- heat
+- system
+- thermal equilibrium
+- specific heat capacity
+- q = mc /Delta T
+- calorimetry
+- calorimeter
 ** solutions, acids, and bases
+*** term list:
+- aqueous solutions
+- solute
+- solvent
+- concentrated
+- dilute
+- electrolytes
+- nonelectrolytes
+- solubility
+- solubility curve
+- double replacement reaction
+- solubility chart
+- precipitate
+- molarity
+- M1V1 = M2V2
+- dilution
+- acid
+- base
+- Arrhenius model
+- strong
+- weak
+- acid-base neutralization reactions
 ** reaction rates and equilibrium
+*** term list:
+- reaction rate
+- collision theory
+- activation energy
+- transition state
+- catalyst
+- reversible
+- equilibrium
+- Le Chatelier's principle
 ** nuclear chemistry
+*** term list:
+- radioactive decay
+- particles
+  - alpha
+  - beta
+- gamma rays
+- alpha, beta, and gamma decays
+- parent nucleus
+- half-life
+- decay graph
+- radiometric dating
+- fusion
+- proton-proton chain
+- E = mc^2
+- stellar nucleosynthesis
+- fission
+- fission chain reaction
+- critical mass
 
-
+  
 
 * physics
 ** force and motion
