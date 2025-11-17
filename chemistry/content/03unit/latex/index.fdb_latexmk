@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1763393187.55398 "/Users/tyler.maxwell/Desktop/science/chemistry/content/03unit/latex/index.tex" "index.pdf" "index" 1763393188.11678 0
-  "/Users/tyler.maxwell/Desktop/science/chemistry/content/03unit/latex/index.tex" 1763393187.32443 115 edebfa52baa5be3e6bbee603264523c6 ""
+["pdflatex"] 1763394682.53872 "/Users/tyler.maxwell/Desktop/science/chemistry/content/03unit/latex/index.tex" "index.pdf" "index" 1763394683.13401 0
+  "/Users/tyler.maxwell/Desktop/science/chemistry/content/03unit/latex/index.tex" 1763394682.28569 285 6e246c5c75f9fdffcc86205f5998bf06 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb" 1248133631 35752 024fb6c41858982481f6968b5fc26508 ""
   "/usr/local/texlive/2024/texmf-dist/tex/context/base/mkii/supp-pdf.mkii" 1461363279 71627 94eb9990bed73c364d7f53f960cc8c5b ""
   "/usr/local/texlive/2024/texmf-dist/tex/generic/chemfig/chemfig.sty" 1592340471 388 2f9ccd1a71661ff4bea57e7855b0518e ""
@@ -87,8 +87,8 @@
   "/usr/local/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1737589446.45542 5467645 128b85b7cde5f5edc5cb7f1dd7ff8736 ""
   "/usr/local/texlive/2024/texmf-var/web2c/pdftex/pdflatex.fmt" 1737589419 8221423 7413c037a4b42d11dce08eb9535ec2d5 ""
   "/usr/local/texlive/2024/texmf.cnf" 1710266656 577 e590dabc9e28c5b61546e15f63eebcdf ""
-  "index.aux" 1763393188.05903 32 3985256e7290058c681f74d7a3565a19 "pdflatex"
-  "index.tex" 1763393187.32443 115 edebfa52baa5be3e6bbee603264523c6 ""
+  "index.aux" 1763394683.086 32 3985256e7290058c681f74d7a3565a19 "pdflatex"
+  "index.tex" 1763394682.28569 285 6e246c5c75f9fdffcc86205f5998bf06 ""
   (generated)
   "index.aux"
   "index.log"
