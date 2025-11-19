@@ -1,0 +1,13 @@
+#+title: chemistry
+#+startup: indent
+
+* unit 1: atoms, isotopes, and ions
+* unit 2: atomic models and periodicity
+* unit 3: chemical bonding
+* unit 4: chemical reactions
+* unit 5: stoichiomettry and the mole
+* unit 6: states of matter
+* unit 7: thermochemistry
+* unit 8: solutions, acids, and bases
+* unit 9: reaction rates and equilibrium
+* unit 10: nuclear chemistry

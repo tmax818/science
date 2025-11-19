@@ -1,0 +1,67 @@
+#+title: physics
+#+startup: indent latexpreview
+
+* unit 1: force and motion
+** vocabulary
+-  vector::magnitude in a direction
+- scalar::magnitude without direction
+- position::location,it's a vector
+- distance::used to measure position within a frame of reference
+- displacement:: 
+- speed::
+- velocity::
+- acceleration
+- system
+- free-body diagram
+- magnitude
+- net force
+- Newton's first law
+- inertia
+- Newton's second law
+** lesson 1: describing motion
+*** objectives
+- Explain the difference between [[id:vector][vector]] and [[scalar][scalar]] quantities, and distinguish between [[position][position]], [[distance][distance]], [[speed][speed]], and [[velocity][velocity]].
+- Use mathematical models to predict the motion of an object moving at a constant velocity or experiencing constant [[acceleration][acceleration]].
+- Interpret different types of graphs to describe an object’s motion.
+
+
+*** vector
+- both magnitude and direction
+*** scalar
+*** position
+*** distance
+*** displacement
+*** speed
+- the magnitude of velocity
+*** velocity
+- change in position(displacement) with respect to time $$ \frac{\Delta x}{\Delta t} $$
+- v = v_0 + at 
+*** acceleration
+- rate of change of velocity over time
+- vector quantity
+** lesson 2: forces
+*** objectives
+- Identify and explain the forces that result from various interactions, such as the tension [[force][force]] that acts on an object attached to a taut rope, or the buoyant force that acts on an object in a fluid.
+- Model the forces acting on an object or system using a [[free-body diagram][free-body diagram]].
+- Use diagrams and models to determine if the forces acting on an object or system are balanced or unbalanced.
+- Apply vector addition to determine the magnitude and direction of the net force acting on an object or system.
+
+
+*** force
+- push or pull
+- four forces
+  - gravity
+  - electromagnetism
+  - weak nuclear
+  - strong nuclear
+
+
+*** free-body diagram
+** lesson 3: Newton's first and second laws
+* unit 2: force pairs and momentum
+* unit 3: gravitation
+* unit 4: electrostatics
+* unit 5: energy
+* unit 6: electromagnetics
+* unit 7: electromagnetic radiation
+* unit 8 nuclear physics
