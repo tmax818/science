@@ -8,16 +8,16 @@
 3) electron
 4) proton
 5) neutron
-6) subatomic particles
+6) subatomic particle
 7) periodic table
-8) atomic numbers
-9) isotopes
+8) atomic number
+9) isotope
 10) mass number
 11) isotope notation
 12) average atomic mass
 13) relative abundance
-14) anions
-15) cations
+14) anion
+15) cation
 16) ion
 ** atomic models and periodicity
 *** term list:
