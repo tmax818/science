@@ -1,0 +1,626 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+<head>
+<!-- 2025-11-30 Sun 16:50 -->
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>plan</title>
+<meta name="author" content="tyler" />
+<meta name="generator" content="Org Mode" />
+<style>
+  #content { max-width: 60em; margin: auto; }
+  .title  { text-align: center;
+             margin-bottom: .2em; }
+  .subtitle { text-align: center;
+              font-size: medium;
+              font-weight: bold;
+              margin-top:0; }
+  .todo   { font-family: monospace; color: red; }
+  .done   { font-family: monospace; color: green; }
+  .priority { font-family: monospace; color: orange; }
+  .tag    { background-color: #eee; font-family: monospace;
+            padding: 2px; font-size: 80%; font-weight: normal; }
+  .timestamp { color: #bebebe; }
+  .timestamp-kwd { color: #5f9ea0; }
+  .org-right  { margin-left: auto; margin-right: 0px;  text-align: right; }
+  .org-left   { margin-left: 0px;  margin-right: auto; text-align: left; }
+  .org-center { margin-left: auto; margin-right: auto; text-align: center; }
+  .underline { text-decoration: underline; }
+  #postamble p, #preamble p { font-size: 90%; margin: .2em; }
+  p.verse { margin-left: 3%; }
+  pre {
+    border: 1px solid #e6e6e6;
+    border-radius: 3px;
+    background-color: #f2f2f2;
+    padding: 8pt;
+    font-family: monospace;
+    overflow: auto;
+    margin: 1.2em;
+  }
+  pre.src {
+    position: relative;
+    overflow: auto;
+  }
+  pre.src:before {
+    display: none;
+    position: absolute;
+    top: -8px;
+    right: 12px;
+    padding: 3px;
+    color: #555;
+    background-color: #f2f2f299;
+  }
+  pre.src:hover:before { display: inline; margin-top: 14px;}
+  /* Languages per Org manual */
+  pre.src-asymptote:before { content: 'Asymptote'; }
+  pre.src-awk:before { content: 'Awk'; }
+  pre.src-authinfo::before { content: 'Authinfo'; }
+  pre.src-C:before { content: 'C'; }
+  /* pre.src-C++ doesn't work in CSS */
+  pre.src-clojure:before { content: 'Clojure'; }
+  pre.src-css:before { content: 'CSS'; }
+  pre.src-D:before { content: 'D'; }
+  pre.src-ditaa:before { content: 'ditaa'; }
+  pre.src-dot:before { content: 'Graphviz'; }
+  pre.src-calc:before { content: 'Emacs Calc'; }
+  pre.src-emacs-lisp:before { content: 'Emacs Lisp'; }
+  pre.src-fortran:before { content: 'Fortran'; }
+  pre.src-gnuplot:before { content: 'gnuplot'; }
+  pre.src-haskell:before { content: 'Haskell'; }
+  pre.src-hledger:before { content: 'hledger'; }
+  pre.src-java:before { content: 'Java'; }
+  pre.src-js:before { content: 'Javascript'; }
+  pre.src-latex:before { content: 'LaTeX'; }
+  pre.src-ledger:before { content: 'Ledger'; }
+  pre.src-lisp:before { content: 'Lisp'; }
+  pre.src-lilypond:before { content: 'Lilypond'; }
+  pre.src-lua:before { content: 'Lua'; }
+  pre.src-matlab:before { content: 'MATLAB'; }
+  pre.src-mscgen:before { content: 'Mscgen'; }
+  pre.src-ocaml:before { content: 'Objective Caml'; }
+  pre.src-octave:before { content: 'Octave'; }
+  pre.src-org:before { content: 'Org mode'; }
+  pre.src-oz:before { content: 'OZ'; }
+  pre.src-plantuml:before { content: 'Plantuml'; }
+  pre.src-processing:before { content: 'Processing.js'; }
+  pre.src-python:before { content: 'Python'; }
+  pre.src-R:before { content: 'R'; }
+  pre.src-ruby:before { content: 'Ruby'; }
+  pre.src-sass:before { content: 'Sass'; }
+  pre.src-scheme:before { content: 'Scheme'; }
+  pre.src-screen:before { content: 'Gnu Screen'; }
+  pre.src-sed:before { content: 'Sed'; }
+  pre.src-sh:before { content: 'shell'; }
+  pre.src-sql:before { content: 'SQL'; }
+  pre.src-sqlite:before { content: 'SQLite'; }
+  /* additional languages in org.el's org-babel-load-languages alist */
+  pre.src-forth:before { content: 'Forth'; }
+  pre.src-io:before { content: 'IO'; }
+  pre.src-J:before { content: 'J'; }
+  pre.src-makefile:before { content: 'Makefile'; }
+  pre.src-maxima:before { content: 'Maxima'; }
+  pre.src-perl:before { content: 'Perl'; }
+  pre.src-picolisp:before { content: 'Pico Lisp'; }
+  pre.src-scala:before { content: 'Scala'; }
+  pre.src-shell:before { content: 'Shell Script'; }
+  pre.src-ebnf2ps:before { content: 'ebfn2ps'; }
+  /* additional language identifiers per "defun org-babel-execute"
+       in ob-*.el */
+  pre.src-cpp:before  { content: 'C++'; }
+  pre.src-abc:before  { content: 'ABC'; }
+  pre.src-coq:before  { content: 'Coq'; }
+  pre.src-groovy:before  { content: 'Groovy'; }
+  /* additional language identifiers from org-babel-shell-names in
+     ob-shell.el: ob-shell is the only babel language using a lambda to put
+     the execution function name together. */
+  pre.src-bash:before  { content: 'bash'; }
+  pre.src-csh:before  { content: 'csh'; }
+  pre.src-ash:before  { content: 'ash'; }
+  pre.src-dash:before  { content: 'dash'; }
+  pre.src-ksh:before  { content: 'ksh'; }
+  pre.src-mksh:before  { content: 'mksh'; }
+  pre.src-posh:before  { content: 'posh'; }
+  /* Additional Emacs modes also supported by the LaTeX listings package */
+  pre.src-ada:before { content: 'Ada'; }
+  pre.src-asm:before { content: 'Assembler'; }
+  pre.src-caml:before { content: 'Caml'; }
+  pre.src-delphi:before { content: 'Delphi'; }
+  pre.src-html:before { content: 'HTML'; }
+  pre.src-idl:before { content: 'IDL'; }
+  pre.src-mercury:before { content: 'Mercury'; }
+  pre.src-metapost:before { content: 'MetaPost'; }
+  pre.src-modula-2:before { content: 'Modula-2'; }
+  pre.src-pascal:before { content: 'Pascal'; }
+  pre.src-ps:before { content: 'PostScript'; }
+  pre.src-prolog:before { content: 'Prolog'; }
+  pre.src-simula:before { content: 'Simula'; }
+  pre.src-tcl:before { content: 'tcl'; }
+  pre.src-tex:before { content: 'TeX'; }
+  pre.src-plain-tex:before { content: 'Plain TeX'; }
+  pre.src-verilog:before { content: 'Verilog'; }
+  pre.src-vhdl:before { content: 'VHDL'; }
+  pre.src-xml:before { content: 'XML'; }
+  pre.src-nxml:before { content: 'XML'; }
+  /* add a generic configuration mode; LaTeX export needs an additional
+     (add-to-list 'org-latex-listings-langs '(conf " ")) in .emacs */
+  pre.src-conf:before { content: 'Configuration File'; }
+
+  table { border-collapse:collapse; }
+  caption.t-above { caption-side: top; }
+  caption.t-bottom { caption-side: bottom; }
+  td, th { vertical-align:top;  }
+  th.org-right  { text-align: center;  }
+  th.org-left   { text-align: center;   }
+  th.org-center { text-align: center; }
+  td.org-right  { text-align: right;  }
+  td.org-left   { text-align: left;   }
+  td.org-center { text-align: center; }
+  dt { font-weight: bold; }
+  .footpara { display: inline; }
+  .footdef  { margin-bottom: 1em; }
+  .figure { padding: 1em; }
+  .figure p { text-align: center; }
+  .equation-container {
+    display: table;
+    text-align: center;
+    width: 100%;
+  }
+  .equation {
+    vertical-align: middle;
+  }
+  .equation-label {
+    display: table-cell;
+    text-align: right;
+    vertical-align: middle;
+  }
+  .inlinetask {
+    padding: 10px;
+    border: 2px solid gray;
+    margin: 10px;
+    background: #ffffcc;
+  }
+  #org-div-home-and-up
+   { text-align: right; font-size: 70%; white-space: nowrap; }
+  textarea { overflow-x: auto; }
+  .linenr { font-size: smaller }
+  .code-highlighted { background-color: #ffff00; }
+  .org-info-js_info-navigation { border-style: none; }
+  #org-info-js_console-label
+    { font-size: 10px; font-weight: bold; white-space: nowrap; }
+  .org-info-js_search-highlight
+    { background-color: #ffff00; color: #000000; font-weight: bold; }
+  .org-svg { }
+</style>
+<script>
+  window.MathJax = {
+    tex: {
+      ams: {
+        multlineWidth: '85%'
+      },
+      tags: 'ams',
+      tagSide: 'right',
+      tagIndent: '.8em'
+    },
+    chtml: {
+      scale: 1.0,
+      displayAlign: 'center',
+      displayIndent: '0em'
+    },
+    svg: {
+      scale: 1.0,
+      displayAlign: 'center',
+      displayIndent: '0em'
+    },
+    output: {
+      font: 'mathjax-modern',
+      displayOverflow: 'overflow'
+    }
+  };
+</script>
+
+<script
+  id="MathJax-script"
+  async
+  src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
+</script>
+</head>
+<body>
+<div id="content" class="content">
+<h1 class="title">plan</h1>
+<div id="table-of-contents" role="doc-toc">
+<h2>Table of Contents</h2>
+<div id="text-table-of-contents" role="doc-toc">
+<ul>
+<li><a href="#orgdfdc0ff">1. chemistry</a>
+<ul>
+<li><a href="#orgf3312a9">1.1. atoms, isotopes and ions</a>
+<ul>
+<li><a href="#org45fac83">1.1.1. term list:</a></li>
+</ul>
+</li>
+<li><a href="#orgb521614">1.2. atomic models and periodicity</a>
+<ul>
+<li><a href="#orgacb8a7e">1.2.1. term list:</a></li>
+</ul>
+</li>
+<li><a href="#orgaf58ea3">1.3. chemical bonding</a>
+<ul>
+<li><a href="#org06f1a67">1.3.1. term list:</a></li>
+</ul>
+</li>
+<li><a href="#org166bb99">1.4. chemical reactions</a>
+<ul>
+<li><a href="#org0a6c6c6">1.4.1. term list:</a></li>
+</ul>
+</li>
+<li><a href="#org683e7ff">1.5. stoichiometry and the mole</a>
+<ul>
+<li><a href="#org7b73bfd">1.5.1. term list:</a></li>
+</ul>
+</li>
+<li><a href="#org9780c7a">1.6. states of matter</a>
+<ul>
+<li><a href="#orgf582e29">1.6.1. term list:</a></li>
+</ul>
+</li>
+<li><a href="#orga3e295e">1.7. thermochemistry</a>
+<ul>
+<li><a href="#org24a3287">1.7.1. term list:</a></li>
+</ul>
+</li>
+<li><a href="#org40d8c66">1.8. solutions, acids, and bases</a>
+<ul>
+<li><a href="#org4ef5998">1.8.1. term list:</a></li>
+</ul>
+</li>
+<li><a href="#org513dd42">1.9. reaction rates and equilibrium</a>
+<ul>
+<li><a href="#org4093d76">1.9.1. term list:</a></li>
+</ul>
+</li>
+<li><a href="#org6f86d2c">1.10. nuclear chemistry</a>
+<ul>
+<li><a href="#orgd91f20a">1.10.1. term list:</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li><a href="#orgb88a3d2">2. physics</a>
+<ul>
+<li><a href="#org47d2a07">2.1. force and motion</a></li>
+<li><a href="#org24c348e">2.2. force pairs and momentum</a></li>
+<li><a href="#orgea060e9">2.3. gravitation</a></li>
+<li><a href="#org347d39c">2.4. electrostatics</a></li>
+<li><a href="#org9c06308">2.5. energy</a></li>
+<li><a href="#org412694e">2.6. electromagnetics</a></li>
+<li><a href="#org2ce44f6">2.7. electromagnetic radiation</a></li>
+<li><a href="#orgc22b9f5">2.8. nuclear physics</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</div>
+<div id="outline-container-orgdfdc0ff" class="outline-2">
+<h2 id="orgdfdc0ff"><span class="section-number-2">1.</span> chemistry</h2>
+<div class="outline-text-2" id="text-1">
+</div>
+<div id="outline-container-orgf3312a9" class="outline-3">
+<h3 id="orgf3312a9"><span class="section-number-3">1.1.</span> atoms, isotopes and ions</h3>
+<div class="outline-text-3" id="text-1-1">
+</div>
+<div id="outline-container-org45fac83" class="outline-4">
+<h4 id="org45fac83"><span class="section-number-4">1.1.1.</span> term list:</h4>
+<div class="outline-text-4" id="text-1-1-1">
+<ol class="org-ol">
+<li><a href="file:///home/tyler/Dropbox/science/public/pdfs/world-of-chemistry_compress.pdf">atom</a></li>
+<li>element</li>
+<li>electron</li>
+<li>proton</li>
+<li>neutron</li>
+<li>subatomic particles</li>
+<li>periodic table</li>
+<li>atomic numbers</li>
+<li>isotopes</li>
+<li>mass number</li>
+<li>isotope notation</li>
+<li>average atomic mass</li>
+<li>relative abundance</li>
+<li>anions</li>
+<li>cations</li>
+<li>ion</li>
+</ol>
+</div>
+</div>
+</div>
+<div id="outline-container-orgb521614" class="outline-3">
+<h3 id="orgb521614"><span class="section-number-3">1.2.</span> atomic models and periodicity</h3>
+<div class="outline-text-3" id="text-1-2">
+</div>
+<div id="outline-container-orgacb8a7e" class="outline-4">
+<h4 id="orgacb8a7e"><span class="section-number-4">1.2.1.</span> term list:</h4>
+<div class="outline-text-4" id="text-1-2-1">
+<ul class="org-ul">
+<li>Bohr model</li>
+<li>shells</li>
+<li>valence</li>
+<li>core electrons</li>
+<li>wavelength</li>
+<li>frequency</li>
+<li>photon energy</li>
+<li>electromagnetic spectrum</li>
+<li>color</li>
+<li>visible light</li>
+<li>atomic emission spectra</li>
+<li>absorption spectra</li>
+<li>Lewis diagram</li>
+<li>group number</li>
+<li>subshhells</li>
+<li>orbitals</li>
+<li>quantum model</li>
+<li>s,p,d,f orbitals</li>
+<li>electron configuration</li>
+<li>nobel gas shorthand</li>
+<li>isoelectronic</li>
+<li>valence level</li>
+<li>metal</li>
+<li>nonmetal</li>
+<li>metalloids</li>
+<li>relative reactivities</li>
+<li>alkali metals</li>
+<li>alkaline earth metals</li>
+<li>halogens</li>
+<li>nobel gases</li>
+<li>atomic radius</li>
+<li>ionization energy</li>
+</ul>
+</div>
+</div>
+</div>
+<div id="outline-container-orgaf58ea3" class="outline-3">
+<h3 id="orgaf58ea3"><span class="section-number-3">1.3.</span> chemical bonding</h3>
+<div class="outline-text-3" id="text-1-3">
+</div>
+<div id="outline-container-org06f1a67" class="outline-4">
+<h4 id="org06f1a67"><span class="section-number-4">1.3.1.</span> term list:</h4>
+<div class="outline-text-4" id="text-1-3-1">
+<ul class="org-ul">
+<li>ionic bond</li>
+<li>octet rule</li>
+<li>polyvalent metals</li>
+<li>polyatomic ions</li>
+<li>covalent bond</li>
+<li>metallic bond</li>
+</ul>
+</div>
+</div>
+</div>
+<div id="outline-container-org166bb99" class="outline-3">
+<h3 id="org166bb99"><span class="section-number-3">1.4.</span> chemical reactions</h3>
+<div class="outline-text-3" id="text-1-4">
+</div>
+<div id="outline-container-org0a6c6c6" class="outline-4">
+<h4 id="org0a6c6c6"><span class="section-number-4">1.4.1.</span> term list:</h4>
+<div class="outline-text-4" id="text-1-4-1">
+<ul class="org-ul">
+<li>chemical equations</li>
+<li>reactants</li>
+<li>products</li>
+<li>subscript</li>
+<li>coefficient</li>
+<li>law of conservation of mass</li>
+<li>exothermic</li>
+<li>endothermic</li>
+<li>energy diagram</li>
+<li>synthesis</li>
+<li>decomposition</li>
+<li>combustion</li>
+<li>single replacement</li>
+<li>oxidation</li>
+<li>reduction</li>
+</ul>
+</div>
+</div>
+</div>
+<div id="outline-container-org683e7ff" class="outline-3">
+<h3 id="org683e7ff"><span class="section-number-3">1.5.</span> stoichiometry and the mole</h3>
+<div class="outline-text-3" id="text-1-5">
+</div>
+<div id="outline-container-org7b73bfd" class="outline-4">
+<h4 id="org7b73bfd"><span class="section-number-4">1.5.1.</span> term list:</h4>
+<div class="outline-text-4" id="text-1-5-1">
+<ul class="org-ul">
+<li>mole</li>
+<li>Avagadro's number</li>
+<li>molar mass</li>
+<li>formulae
+<ul class="org-ul">
+<li>empirical</li>
+<li>molecular</li>
+<li>structural</li>
+</ul></li>
+<li>percent composition by mass</li>
+<li>stoichiometric calculations</li>
+<li>percent yield</li>
+<li>limiting reactant</li>
+<li>theoretical yield</li>
+</ul>
+</div>
+</div>
+</div>
+<div id="outline-container-org9780c7a" class="outline-3">
+<h3 id="org9780c7a"><span class="section-number-3">1.6.</span> states of matter</h3>
+<div class="outline-text-3" id="text-1-6">
+</div>
+<div id="outline-container-orgf582e29" class="outline-4">
+<h4 id="orgf582e29"><span class="section-number-4">1.6.1.</span> term list:</h4>
+<div class="outline-text-4" id="text-1-6-1">
+<ul class="org-ul">
+<li>electronegativity</li>
+<li>nonpolar covalent</li>
+<li>polar covalent</li>
+<li>bond polarity</li>
+<li>VSEPR theory</li>
+<li>molecular geometries</li>
+<li>molecular polarity</li>
+<li>intramolecular</li>
+<li>intermolecular</li>
+<li>London dispersion forces</li>
+<li>dipole-dipole attractionns</li>
+<li>electrostatic potential maps</li>
+<li>kinetic molecular theory</li>
+<li>ideal gas</li>
+<li>ideal gas law: \[ PV=nRT \]</li>
+<li>partial pressure</li>
+<li>Dalton's law of partial pressure</li>
+</ul>
+</div>
+</div>
+</div>
+<div id="outline-container-orga3e295e" class="outline-3">
+<h3 id="orga3e295e"><span class="section-number-3">1.7.</span> thermochemistry</h3>
+<div class="outline-text-3" id="text-1-7">
+</div>
+<div id="outline-container-org24a3287" class="outline-4">
+<h4 id="org24a3287"><span class="section-number-4">1.7.1.</span> term list:</h4>
+<div class="outline-text-4" id="text-1-7-1">
+<ul class="org-ul">
+<li>thermal energy</li>
+<li>temperature</li>
+<li>heat</li>
+<li>system</li>
+<li>thermal equilibrium</li>
+<li>specific heat capacity</li>
+<li>q = mc /Delta T</li>
+<li>calorimetry</li>
+<li>calorimeter</li>
+</ul>
+</div>
+</div>
+</div>
+<div id="outline-container-org40d8c66" class="outline-3">
+<h3 id="org40d8c66"><span class="section-number-3">1.8.</span> solutions, acids, and bases</h3>
+<div class="outline-text-3" id="text-1-8">
+</div>
+<div id="outline-container-org4ef5998" class="outline-4">
+<h4 id="org4ef5998"><span class="section-number-4">1.8.1.</span> term list:</h4>
+<div class="outline-text-4" id="text-1-8-1">
+<ul class="org-ul">
+<li>aqueous solutions</li>
+<li>solute</li>
+<li>solvent</li>
+<li>concentrated</li>
+<li>dilute</li>
+<li>electrolytes</li>
+<li>nonelectrolytes</li>
+<li>solubility</li>
+<li>solubility curve</li>
+<li>double replacement reaction</li>
+<li>solubility chart</li>
+<li>precipitate</li>
+<li>molarity</li>
+<li>M1V1 = M2V2</li>
+<li>dilution</li>
+<li>acid</li>
+<li>base</li>
+<li>Arrhenius model</li>
+<li>strong</li>
+<li>weak</li>
+<li>acid-base neutralization reactions</li>
+</ul>
+</div>
+</div>
+</div>
+<div id="outline-container-org513dd42" class="outline-3">
+<h3 id="org513dd42"><span class="section-number-3">1.9.</span> reaction rates and equilibrium</h3>
+<div class="outline-text-3" id="text-1-9">
+</div>
+<div id="outline-container-org4093d76" class="outline-4">
+<h4 id="org4093d76"><span class="section-number-4">1.9.1.</span> term list:</h4>
+<div class="outline-text-4" id="text-1-9-1">
+<ul class="org-ul">
+<li>reaction rate</li>
+<li>collision theory</li>
+<li>activation energy</li>
+<li>transition state</li>
+<li>catalyst</li>
+<li>reversible</li>
+<li>equilibrium</li>
+<li>Le Chatelier's principle</li>
+</ul>
+</div>
+</div>
+</div>
+<div id="outline-container-org6f86d2c" class="outline-3">
+<h3 id="org6f86d2c"><span class="section-number-3">1.10.</span> nuclear chemistry</h3>
+<div class="outline-text-3" id="text-1-10">
+</div>
+<div id="outline-container-orgd91f20a" class="outline-4">
+<h4 id="orgd91f20a"><span class="section-number-4">1.10.1.</span> term list:</h4>
+<div class="outline-text-4" id="text-1-10-1">
+<ul class="org-ul">
+<li>radioactive decay</li>
+<li>particles
+<ul class="org-ul">
+<li>alpha</li>
+<li>beta</li>
+</ul></li>
+<li>gamma rays</li>
+<li>alpha, beta, and gamma decays</li>
+<li>parent nucleus</li>
+<li>half-life</li>
+<li>decay graph</li>
+<li>radiometric dating</li>
+<li>fusion</li>
+<li>proton-proton chain</li>
+<li>E = mc<sup>2</sup></li>
+<li>stellar nucleosynthesis</li>
+<li>fission</li>
+<li>fission chain reaction</li>
+<li>critical mass</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+
+
+
+<div id="outline-container-orgb88a3d2" class="outline-2">
+<h2 id="orgb88a3d2"><span class="section-number-2">2.</span> physics</h2>
+<div class="outline-text-2" id="text-2">
+</div>
+<div id="outline-container-org47d2a07" class="outline-3">
+<h3 id="org47d2a07"><span class="section-number-3">2.1.</span> force and motion</h3>
+</div>
+<div id="outline-container-org24c348e" class="outline-3">
+<h3 id="org24c348e"><span class="section-number-3">2.2.</span> force pairs and momentum</h3>
+</div>
+<div id="outline-container-orgea060e9" class="outline-3">
+<h3 id="orgea060e9"><span class="section-number-3">2.3.</span> gravitation</h3>
+</div>
+<div id="outline-container-org347d39c" class="outline-3">
+<h3 id="org347d39c"><span class="section-number-3">2.4.</span> electrostatics</h3>
+</div>
+<div id="outline-container-org9c06308" class="outline-3">
+<h3 id="org9c06308"><span class="section-number-3">2.5.</span> energy</h3>
+</div>
+<div id="outline-container-org412694e" class="outline-3">
+<h3 id="org412694e"><span class="section-number-3">2.6.</span> electromagnetics</h3>
+</div>
+<div id="outline-container-org2ce44f6" class="outline-3">
+<h3 id="org2ce44f6"><span class="section-number-3">2.7.</span> electromagnetic radiation</h3>
+</div>
+<div id="outline-container-orgc22b9f5" class="outline-3">
+<h3 id="orgc22b9f5"><span class="section-number-3">2.8.</span> nuclear physics</h3>
+</div>
+</div>
+</div>
+<div id="postamble" class="status">
+<p class="author">Author: tyler</p>
+<p class="date">Created: 2025-11-30 Sun 16:50</p>
+<p class="validation"><a href="https://validator.w3.org/check?uri=referer">Validate</a></p>
+</div>
+</body>
+</html>

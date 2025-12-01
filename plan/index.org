@@ -3,20 +3,22 @@
 * chemistry
 ** atoms, isotopes and ions
 *** term list:
-- electron
-- proton
-- neutron
-- subatomic particles
-- periodic table
-- atomic numbers
-- isotopes
-- mass number
-- isotope notation
-- average atomic mass
-- relative abundance
-- anions
-- cations
-- ion
+1) [[file:~/Dropbox/science/public/pdfs/world-of-chemistry_compress.pdf][atom]]
+2) element
+3) electron
+4) proton
+5) neutron
+6) subatomic particles
+7) periodic table
+8) atomic numbers
+9) isotopes
+10) mass number
+11) isotope notation
+12) average atomic mass
+13) relative abundance
+14) anions
+15) cations
+16) ion
 ** atomic models and periodicity
 *** term list:
 - Bohr model

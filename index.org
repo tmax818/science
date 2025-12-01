@@ -3,10 +3,10 @@
 #+startup: indent
 
 
-* [[https://tylermaxwell.co/science/chemistry/][chemistry]]
+* chemistry
 
 ** Unit 1
 
-* [[https://tylermaxwell.co/science/physics/][physics]]
+* physics
 
 ** Unit 1
