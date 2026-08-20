@@ -1,0 +1,26 @@
+#+title: chemistry text
+
+* ch 2: Matter
+
+** The Nature of Matter
+
+
+***  the particulate nature of matter
+
+Matter, the “stuff” of which the universe is composed, has two characteristics: it has mass and it occupies space. Matter comes in a great variety of forms: the stars, the air that you are breathing, the gasoline that you put in your car, the chair on which you are sitting, the turkey in the sandwich you may have eaten for lunch, the tissues in your brain that allow you to read and understand this sentence, and so on.
+
+**** the atomic nature of matter
+
+*** elements and compounds
+
+
+*** states of matter
+
+Water is one of the most familiar substances in our world. We recognize water in three different states: solid, liquid, and gas. If we lower the temperature of liquid water, it freezes—that is, it changes to ice (solid water). On the other hand, if we heat water to its boiling point, it “disappears” into the air as a gas.
+
+All substances exist in the three states of matter: solid, liquid, and gas. A solid is rigid. It has a fixed shape and volume. A liquid has a definite volume but takes the shape of its container. A gas has no fixed volume or shape. It uniformly fills any container.
+
+** properties of matter
+
+Matter can undergo changes in both its physical and its chemical properties. To illustrate the fundamental differences between physical and chemical changes, we will consider water. As we have seen, a sample of water contains a very large number of individual units (called molecules),
+each made up of two atoms of hydrogen and one atom of oxygen—the familiar H_2O, which can be represented as:
